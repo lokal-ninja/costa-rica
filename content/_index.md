@@ -1,0 +1,1 @@
+Costa Rica, oficialmente República de Costa Rica, es un Estado soberano organizado como una república presidencialista unitaria compuesta por 7 provincias. Ubicado en Centroamérica, posee un territorio con un área total de 51 179 km². Limita con Nicaragua al norte, el mar Caribe al este, Panamá al sureste y el océano Pacífico al oeste. (Wikipedia)
