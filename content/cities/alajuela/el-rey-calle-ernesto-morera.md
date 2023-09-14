@@ -1,5 +1,5 @@
 ---
 title: "El Rey"
-url: /alajuela/el-rey/
+url: /alajuela/el-rey-calle-ernesto-morera/
 shop: grandes almacenes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Decasa"
-url: /cartago/decasa/
+url: /cartago/decasa-avenida-1/
 shop: menaje del hogar
 ---

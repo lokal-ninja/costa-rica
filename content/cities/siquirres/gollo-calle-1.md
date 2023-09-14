@@ -1,5 +1,5 @@
 ---
 title: "Gollo"
-url: /siquirres/gollo/
+url: /siquirres/gollo-calle-1/
 shop: grandes almacenes
 ---

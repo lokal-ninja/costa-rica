@@ -1,5 +1,5 @@
 ---
 title: "Gollo"
-url: /desamparados/gollo/
+url: /desamparados/gollo-calle-39/
 shop: aparato
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sherwin-Williams"
-url: /san-antonio/sherwin-williams/
+url: /san-antonio/sherwin-williams-2/
 shop: pintura
 ---

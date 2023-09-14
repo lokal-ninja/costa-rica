@@ -1,5 +1,5 @@
 ---
 title: "Zyoncorp"
-url: /heredia/zyoncorp/
+url: /heredia/zyoncorp-2/
 shop: ropa
 ---

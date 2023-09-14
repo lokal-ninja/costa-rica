@@ -1,5 +1,5 @@
 ---
 title: "Salón de Belleza"
-url: /san-jose/salon-de-belleza/
+url: /san-jose/salon-de-belleza-calle-20/
 shop: cosméticos
 ---

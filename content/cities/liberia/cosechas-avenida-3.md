@@ -1,5 +1,5 @@
 ---
 title: "Cosechas"
-url: /liberia/cosechas/
+url: /liberia/cosechas-avenida-3/
 shop: frutería
 ---

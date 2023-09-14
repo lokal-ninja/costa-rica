@@ -1,5 +1,5 @@
 ---
 title: "Movistar"
-url: /liberia/movistar/
+url: /liberia/movistar-avenida-25-de-julio/
 shop: teléfono móvil
 ---

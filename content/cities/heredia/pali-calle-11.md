@@ -1,5 +1,5 @@
 ---
 title: "Palí"
-url: /heredia/pali/
+url: /heredia/pali-calle-11/
 shop: supermercado
 ---

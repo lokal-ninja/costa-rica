@@ -1,5 +1,5 @@
 ---
 title: "Gollo"
-url: /paraiso/gollo/
+url: /paraiso/gollo-2/
 shop: aparato
 ---

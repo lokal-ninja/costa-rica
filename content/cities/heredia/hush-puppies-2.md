@@ -1,5 +1,5 @@
 ---
 title: "Hush Puppies"
-url: /heredia/hush-puppies/
+url: /heredia/hush-puppies-2/
 shop: zapatos
 ---

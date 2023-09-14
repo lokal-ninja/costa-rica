@@ -1,5 +1,5 @@
 ---
 title: "Suministros Fauca"
-url: /guadalupe/suministros-fauca/
+url: /guadalupe/suministros-fauca-avenida-central/
 shop: general
 ---

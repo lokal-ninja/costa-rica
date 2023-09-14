@@ -1,5 +1,5 @@
 ---
 title: "Súper Compro"
-url: /nicoya/super-compro/
+url: /nicoya/super-compro-boulevard-san-martin/
 shop: supermercado
 ---

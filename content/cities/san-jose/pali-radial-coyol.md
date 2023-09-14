@@ -1,5 +1,5 @@
 ---
 title: "Palí"
-url: /san-jose/pali/
+url: /san-jose/pali-radial-coyol/
 shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ópticas Visión"
-url: /guadalupe/opticas-vision/
+url: /guadalupe/opticas-vision-avenida-17/
 shop: óptico
 ---

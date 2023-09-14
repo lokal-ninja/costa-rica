@@ -1,5 +1,5 @@
 ---
 title: "Pan Fresh"
-url: /sabanilla/pan-fresh/
+url: /sabanilla/pan-fresh-2/
 shop: panadería
 ---

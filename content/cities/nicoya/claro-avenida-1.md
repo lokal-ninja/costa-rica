@@ -1,5 +1,5 @@
 ---
 title: "Claro"
-url: /nicoya/claro/
+url: /nicoya/claro-avenida-1/
 shop: teléfono móvil
 ---

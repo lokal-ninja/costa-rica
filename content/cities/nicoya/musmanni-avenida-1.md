@@ -1,5 +1,5 @@
 ---
 title: "Musmanni"
-url: /nicoya/musmanni/
+url: /nicoya/musmanni-avenida-1/
 shop: panadería
 ---

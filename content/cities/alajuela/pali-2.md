@@ -1,5 +1,5 @@
 ---
 title: "Palí"
-url: /alajuela/pali/
+url: /alajuela/pali-2/
 shop: supermercado
 ---

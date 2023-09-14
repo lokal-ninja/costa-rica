@@ -1,5 +1,5 @@
 ---
 title: "Jiménez"
-url: /puntarenas/jimenez/
+url: /puntarenas/jimenez-calle-1/
 shop: ropa
 ---

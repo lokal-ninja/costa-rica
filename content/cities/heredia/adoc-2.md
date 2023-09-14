@@ -1,5 +1,5 @@
 ---
 title: "Adoc"
-url: /heredia/adoc/
+url: /heredia/adoc-2/
 shop: zapatos
 ---

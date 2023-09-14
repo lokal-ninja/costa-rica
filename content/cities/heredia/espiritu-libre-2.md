@@ -1,5 +1,5 @@
 ---
 title: "Espíritu Libre"
-url: /heredia/espiritu-libre/
+url: /heredia/espiritu-libre-2/
 shop: regalo
 ---

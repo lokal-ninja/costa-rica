@@ -1,5 +1,5 @@
 ---
 title: "Picaros"
-url: /heredia/picaros/
+url: /heredia/picaros-avenida-6/
 shop: ropa
 ---

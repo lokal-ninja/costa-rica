@@ -1,5 +1,5 @@
 ---
 title: "Musmanni"
-url: /guadalupe/musmanni/
+url: /guadalupe/musmanni-avenida-2/
 shop: panadería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Umanzor"
-url: /santa-cruz/umanzor/
+url: /santa-cruz/umanzor-calle-central/
 shop: ropa
 ---

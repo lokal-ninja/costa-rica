@@ -1,5 +1,5 @@
 ---
 title: "Carrion"
-url: /heredia/carrion/
+url: /heredia/carrion-2/
 shop: grandes almacenes
 ---

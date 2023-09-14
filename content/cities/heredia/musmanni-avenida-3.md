@@ -1,5 +1,5 @@
 ---
 title: "Musmanni"
-url: /heredia/musmanni/
+url: /heredia/musmanni-avenida-3/
 shop: panadería
 ---

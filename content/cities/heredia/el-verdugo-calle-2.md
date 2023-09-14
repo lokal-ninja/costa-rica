@@ -1,5 +1,5 @@
 ---
 title: "El Verdugo"
-url: /heredia/el-verdugo/
+url: /heredia/el-verdugo-calle-2/
 shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Palí"
-url: /cartago/pali/
+url: /cartago/pali-2/
 shop: supermercado
 ---
