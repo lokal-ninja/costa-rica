@@ -1,6 +1,6 @@
 ---
 title: Nosara
 url: /nosara/
-latitude: 9.977
-longitude: -85.655
+latitude: 9.97
+longitude: -85.662
 ---
