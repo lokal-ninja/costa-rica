@@ -1,5 +1,5 @@
 ---
-title: "Super Purral"
+title: "Súper Purral"
 url: /purral/super-purral/
-shop: supermercado
+shop: comodidad
 ---
