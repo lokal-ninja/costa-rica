@@ -1,5 +1,5 @@
 ---
 title: "Nissan"
-url: /san-jose/nissan-avenida-5/
+url: /san-jose/nissan-autopista-general-canas/
 shop: reparación de automóviles
 ---
