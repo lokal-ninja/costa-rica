@@ -1,5 +1,5 @@
 ---
 title: "Pague Menos"
 url: /san-jose/pague-menos/
-shop: general
+shop: ropa
 ---

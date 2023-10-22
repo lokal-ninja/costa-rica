@@ -1,5 +1,5 @@
 ---
-title: "Comercial Puerto Principe"
+title: "Comercial Puerto Príncipe"
 url: /san-jose/comercial-puerto-principe/
-shop: comodidad
+shop: supermercado
 ---
