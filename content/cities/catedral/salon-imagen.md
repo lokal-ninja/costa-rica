@@ -1,5 +1,5 @@
 ---
-title: "Salon Imagen"
+title: "Salón Imagen"
 url: /catedral/salon-imagen/
 shop: peluquería
 ---
