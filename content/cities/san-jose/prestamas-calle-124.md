@@ -1,5 +1,5 @@
 ---
 title: "Prestamas"
-url: /san-jose/prestamas-calle-10/
+url: /san-jose/prestamas-calle-124/
 shop: prestamista
 ---

@@ -1,6 +1,6 @@
 ---
 title: Tambor
 url: /tambor/
-latitude: 10.034
-longitude: -84.228
+latitude: 10.033
+longitude: -84.229
 ---
