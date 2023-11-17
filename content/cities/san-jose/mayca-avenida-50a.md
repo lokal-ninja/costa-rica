@@ -1,5 +1,5 @@
 ---
 title: "Mayca"
-url: /san-jose/mayca-calle-20/
+url: /san-jose/mayca-avenida-50a/
 shop: supermercado
 ---

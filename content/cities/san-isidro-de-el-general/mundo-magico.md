@@ -1,5 +1,5 @@
 ---
 title: "Mundo Mágico"
-url: /puntarenas/mundo-magico-calle-central/
+url: /san-isidro-de-el-general/mundo-magico/
 shop: grandes almacenes
 ---
