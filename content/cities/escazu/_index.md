@@ -1,6 +1,6 @@
 ---
 title: Escazú
 url: /escazu/
-latitude: 9.92
-longitude: -84.139
+latitude: 9.923
+longitude: -84.138
 ---
