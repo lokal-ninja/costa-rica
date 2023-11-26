@@ -1,6 +1,6 @@
 ---
-title: Tres Ríos
+title: Tres Rios
 url: /tres-rios/
-latitude: 9.908
-longitude: -83.987
+latitude: 9.911
+longitude: -84.018
 ---
