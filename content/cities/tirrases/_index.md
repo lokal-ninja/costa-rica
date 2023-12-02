@@ -1,6 +1,6 @@
 ---
 title: Tirrases
 url: /tirrases/
-latitude: 9.902
-longitude: -84.029
+latitude: 9.907
+longitude: -84.042
 ---
