@@ -1,6 +1,6 @@
 ---
 title: Ulloa
 url: /ulloa/
-latitude: 9.987
-longitude: -84.136
+latitude: 9.969
+longitude: -84.131
 ---
