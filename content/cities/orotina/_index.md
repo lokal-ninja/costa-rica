@@ -1,6 +1,6 @@
 ---
 title: Orotina
 url: /orotina/
-latitude: 9.913
+latitude: 9.912
 longitude: -84.524
 ---

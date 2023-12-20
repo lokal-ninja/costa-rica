@@ -1,5 +1,5 @@
 ---
 title: "Palí"
-url: /mercedes/pali-transversal-38/
+url: /para/pali/
 shop: supermercado
 ---
