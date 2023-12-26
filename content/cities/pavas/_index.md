@@ -1,6 +1,6 @@
 ---
 title: Pavas
 url: /pavas/
-latitude: 9.96
-longitude: -84.164
+latitude: 9.948
+longitude: -84.135
 ---
