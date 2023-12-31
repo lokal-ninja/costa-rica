@@ -1,5 +1,5 @@
 ---
 title: "Big Moda"
 url: /liberia/big-moda/
-shop: tienda
+shop: ropa
 ---
