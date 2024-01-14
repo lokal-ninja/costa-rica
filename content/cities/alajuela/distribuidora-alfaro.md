@@ -1,5 +1,5 @@
 ---
 title: "Distribuidora Alfaro"
 url: /alajuela/distribuidora-alfaro/
-shop: mayorista
+shop: ropa
 ---

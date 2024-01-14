@@ -1,5 +1,5 @@
 ---
 title: "Más X Menos"
-url: /san-jose/mas-x-menos/
+url: /desamparados/mas-x-menos-2/
 shop: supermercado
 ---
