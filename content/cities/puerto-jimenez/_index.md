@@ -1,6 +1,6 @@
 ---
 title: Puerto Jiménez
 url: /puerto-jimenez/
-latitude: 8.535
-longitude: -83.306
+latitude: 8.644
+longitude: -83.458
 ---
