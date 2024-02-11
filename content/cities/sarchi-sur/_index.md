@@ -1,6 +1,6 @@
 ---
 title: Sarchí Sur
 url: /sarchi-sur/
-latitude: 10.081
-longitude: -84.335
+latitude: 10.083
+longitude: -84.342
 ---
