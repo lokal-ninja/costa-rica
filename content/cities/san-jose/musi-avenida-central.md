@@ -1,5 +1,5 @@
 ---
 title: "Musi"
-url: /san-jose/musi-via-104/
+url: /san-jose/musi-avenida-central/
 shop: comodidad
 ---
