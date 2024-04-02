@@ -1,5 +1,5 @@
 ---
 title: "Palí"
-url: /guadalupe/pali-2/
+url: /guadalupe/pali-avenida-29/
 shop: supermercado
 ---
