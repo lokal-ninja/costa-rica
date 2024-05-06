@@ -1,5 +1,5 @@
 ---
-title: "Super Manzanillo"
+title: "Súper Manzanillo"
 url: /manzanillo/super-manzanillo/
 shop: comodidad
 ---
