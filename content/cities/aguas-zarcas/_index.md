@@ -1,6 +1,6 @@
 ---
 title: Aguas Zarcas
 url: /aguas-zarcas/
-latitude: 10.406
-longitude: -84.337
+latitude: 10.436
+longitude: -84.314
 ---

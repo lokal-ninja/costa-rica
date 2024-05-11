@@ -1,5 +1,5 @@
 ---
-title: "Ekono"
+title: "eKono"
 url: /desamparados/ekono/
-shop: ropa
+shop: grandes almacenes
 ---
