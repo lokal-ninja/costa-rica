@@ -1,5 +1,5 @@
 ---
-title: "Súpermercado Santa Ceci"
+title: "Supermercado Santa Ceci"
 url: /mercedes/supermercado-santa-ceci/
 shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Palí"
-url: /san-isidro/pali-2/
+url: /mercedes/pali-transversal-38/
 shop: supermercado
 ---
