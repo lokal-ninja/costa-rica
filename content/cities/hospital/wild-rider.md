@@ -1,5 +1,5 @@
 ---
 title: "Wild Rider"
-url: /san-jose/wild-rider/
+url: /hospital/wild-rider/
 shop: piezas de automóviles
 ---
