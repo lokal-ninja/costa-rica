@@ -1,6 +1,6 @@
 ---
 title: Mogote
 url: /mogote/
-latitude: 10.71
-longitude: -85.221
+latitude: 10.707
+longitude: -85.226
 ---
