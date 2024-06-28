@@ -1,6 +1,6 @@
 ---
 title: Lepanto
 url: /lepanto/
-latitude: 9.96
-longitude: -85.116
+latitude: 9.961
+longitude: -85.115
 ---
