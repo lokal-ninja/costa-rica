@@ -1,5 +1,5 @@
 ---
 title: "Aqui"
 url: /cartago/aqui/
-shop: general
+shop: material de oficina
 ---
