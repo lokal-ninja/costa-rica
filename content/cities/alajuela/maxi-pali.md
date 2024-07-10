@@ -1,5 +1,5 @@
 ---
 title: "Maxi Palí"
 url: /alajuela/maxi-pali/
-shop: supermercado
+shop: grandes almacenes
 ---
