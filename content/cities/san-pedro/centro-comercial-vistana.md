@@ -1,5 +1,5 @@
 ---
 title: "Centro Comercial Vistana"
-url: /mercedes/centro-comercial-vistana/
+url: /san-pedro/centro-comercial-vistana/
 shop: centro comercial
 ---
