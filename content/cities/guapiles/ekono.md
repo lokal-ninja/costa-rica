@@ -1,5 +1,5 @@
 ---
 title: "Ekono"
-url: /desamparados/ekono/
+url: /guapiles/ekono/
 shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Aliss"
 url: /guapiles/aliss/
-shop: ropa
+shop: menaje del hogar
 ---

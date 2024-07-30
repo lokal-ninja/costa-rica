@@ -1,5 +1,5 @@
 ---
-title: "Super Baterias"
+title: "Super Baterías"
 url: /guapiles/super-baterias/
-shop: general
+shop: piezas de automóviles
 ---
