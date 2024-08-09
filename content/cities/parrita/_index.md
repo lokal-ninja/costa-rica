@@ -1,6 +1,6 @@
 ---
 title: Parrita
 url: /parrita/
-latitude: 9.53
-longitude: -84.362
+latitude: 9.521
+longitude: -84.339
 ---
