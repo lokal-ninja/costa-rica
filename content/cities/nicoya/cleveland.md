@@ -1,5 +1,5 @@
 ---
 title: "Cleveland"
 url: /nicoya/cleveland/
-shop: ropa
+shop: Kleidung
 ---

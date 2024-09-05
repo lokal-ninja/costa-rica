@@ -1,5 +1,5 @@
 ---
 title: "Pulpería"
 url: /guadalupe/pulperia/
-shop: comodidad
+shop: Lebensmittel
 ---

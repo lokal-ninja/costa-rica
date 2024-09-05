@@ -1,5 +1,5 @@
 ---
 title: "Minisuper Morazán"
 url: /san-isidro/minisuper-morazan/
-shop: comodidad
+shop: Lebensmittel
 ---

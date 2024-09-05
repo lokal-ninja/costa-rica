@@ -1,5 +1,5 @@
 ---
 title: "Super"
 url: /desamparados/super/
-shop: comodidad
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Move"
 url: /guadalupe/move/
-shop: general
+shop: Allgemein
 ---

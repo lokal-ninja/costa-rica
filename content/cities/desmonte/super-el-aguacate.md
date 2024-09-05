@@ -1,5 +1,5 @@
 ---
 title: "Super El Aguacate"
 url: /desmonte/super-el-aguacate/
-shop: supermercado
+shop: Supermarkt
 ---

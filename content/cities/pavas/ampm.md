@@ -1,5 +1,5 @@
 ---
 title: "ampm"
 url: /pavas/ampm/
-shop: comodidad
+shop: Lebensmittel
 ---

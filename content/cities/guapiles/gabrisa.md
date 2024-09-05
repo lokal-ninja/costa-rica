@@ -1,5 +1,5 @@
 ---
 title: "Gabrisa"
 url: /guapiles/gabrisa/
-shop: general
+shop: Allgemein
 ---

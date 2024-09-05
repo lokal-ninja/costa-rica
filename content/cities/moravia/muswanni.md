@@ -1,5 +1,5 @@
 ---
 title: "Muswanni"
 url: /moravia/muswanni/
-shop: panadería
+shop: Bäckerei
 ---

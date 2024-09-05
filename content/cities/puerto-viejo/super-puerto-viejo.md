@@ -1,5 +1,5 @@
 ---
 title: "Super Puerto Viejo"
 url: /puerto-viejo/super-puerto-viejo/
-shop: comodidad
+shop: Lebensmittel
 ---

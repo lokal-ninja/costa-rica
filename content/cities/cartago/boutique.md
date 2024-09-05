@@ -1,5 +1,5 @@
 ---
 title: "Boutique"
 url: /cartago/boutique/
-shop: tienda
+shop: Modehaus
 ---

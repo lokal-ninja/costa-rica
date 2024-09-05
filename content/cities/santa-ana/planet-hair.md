@@ -1,5 +1,5 @@
 ---
 title: "Planet Hair"
 url: /santa-ana/planet-hair/
-shop: peluquería
+shop: Friseur
 ---

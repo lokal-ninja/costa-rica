@@ -1,5 +1,5 @@
 ---
 title: "Credimuebles"
 url: /pavas/credimuebles/
-shop: muebles
+shop: Möbel
 ---

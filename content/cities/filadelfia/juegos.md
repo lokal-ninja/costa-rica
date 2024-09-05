@@ -1,5 +1,5 @@
 ---
 title: "Juegos"
 url: /filadelfia/juegos/
-shop: general
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Super Limonal"
 url: /las-juntas/super-limonal/
-shop: comodidad
+shop: Lebensmittel
 ---

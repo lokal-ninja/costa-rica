@@ -1,5 +1,5 @@
 ---
 title: "MegaSuper"
 url: /atenas/megasuper/
-shop: supermercado
+shop: Supermarkt
 ---

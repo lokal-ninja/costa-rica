@@ -1,5 +1,5 @@
 ---
 title: "Yamaha"
 url: /cartago/yamaha/
-shop: piezas de automóviles
+shop: Autoteile
 ---

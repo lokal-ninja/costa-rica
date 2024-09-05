@@ -1,5 +1,5 @@
 ---
 title: "Colono Agropecuario"
 url: /la-virgen/colono-agropecuario/
-shop: agraria
+shop: Landwirtschaftlich
 ---

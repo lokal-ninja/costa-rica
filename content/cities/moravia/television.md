@@ -1,5 +1,5 @@
 ---
 title: "Television"
 url: /moravia/television/
-shop: electrónica
+shop: Elektronik
 ---

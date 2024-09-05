@@ -1,5 +1,5 @@
 ---
 title: "Amaretto"
 url: /heredia/amaretto/
-shop: general
+shop: Allgemein
 ---

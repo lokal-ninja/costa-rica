@@ -1,5 +1,5 @@
 ---
 title: "Súper Coopevega"
 url: /cutris/super-coopevega/
-shop: supermercado
+shop: Supermarkt
 ---

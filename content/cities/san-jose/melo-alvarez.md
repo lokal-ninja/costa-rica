@@ -1,5 +1,5 @@
 ---
 title: "Melo Alvarez"
 url: /san-jose/melo-alvarez/
-shop: general
+shop: Allgemein
 ---

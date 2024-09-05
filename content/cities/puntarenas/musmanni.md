@@ -1,5 +1,5 @@
 ---
 title: "Musmanni"
 url: /puntarenas/musmanni/
-shop: panadería
+shop: Bäckerei
 ---

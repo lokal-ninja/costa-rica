@@ -1,5 +1,5 @@
 ---
 title: "History"
 url: /heredia/history/
-shop: ropa
+shop: Kleidung
 ---

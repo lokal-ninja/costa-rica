@@ -1,5 +1,5 @@
 ---
 title: "Urban Style"
 url: /heredia/urban-style/
-shop: general
+shop: Allgemein
 ---

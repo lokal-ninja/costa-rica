@@ -1,5 +1,5 @@
 ---
 title: "Importadora Mercoflex"
 url: /pavas/importadora-mercoflex/
-shop: general
+shop: Allgemein
 ---

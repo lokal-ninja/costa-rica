@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /san-juan/walmart/
-shop: grandes almacenes
+shop: Warenhaus
 ---

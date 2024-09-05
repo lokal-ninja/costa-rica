@@ -1,5 +1,5 @@
 ---
 title: "Guayaberi"
 url: /escazu/guayaberi/
-shop: ropa
+shop: Kleidung
 ---

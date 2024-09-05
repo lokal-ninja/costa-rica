@@ -1,5 +1,5 @@
 ---
 title: "Broche"
 url: /desamparados/broche/
-shop: tienda
+shop: Modehaus
 ---

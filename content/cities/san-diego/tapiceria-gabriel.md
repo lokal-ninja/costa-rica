@@ -1,5 +1,5 @@
 ---
 title: "Tapicería Gabriel"
 url: /san-diego/tapiceria-gabriel/
-shop: sastre
+shop: Schneiderei
 ---

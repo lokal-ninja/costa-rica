@@ -1,5 +1,5 @@
 ---
 title: "Monge"
 url: /upala/monge/
-shop: electrónica
+shop: Elektronik
 ---

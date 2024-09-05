@@ -1,5 +1,5 @@
 ---
 title: "Claro"
 url: /liberia/claro/
-shop: teléfono móvil
+shop: Handy
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chevere"
 url: /alajuela/chevere/
-shop: zapatos
+shop: Schuhe
 ---

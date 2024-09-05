@@ -1,5 +1,5 @@
 ---
 title: "Mayca"
 url: /guapiles/mayca/
-shop: supermercado
+shop: Supermarkt
 ---

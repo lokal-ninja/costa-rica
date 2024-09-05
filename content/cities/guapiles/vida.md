@@ -1,5 +1,5 @@
 ---
 title: "Vida"
 url: /guapiles/vida/
-shop: libros
+shop: Bücher
 ---

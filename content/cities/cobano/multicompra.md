@@ -1,5 +1,5 @@
 ---
 title: "Multicompra"
 url: /cobano/multicompra/
-shop: supermercado
+shop: Supermarkt
 ---

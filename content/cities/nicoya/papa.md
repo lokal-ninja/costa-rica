@@ -1,5 +1,5 @@
 ---
 title: "Papa"
 url: /nicoya/papa/
-shop: general
+shop: Allgemein
 ---

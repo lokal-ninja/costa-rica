@@ -1,5 +1,5 @@
 ---
 title: "Gollo"
 url: /puntarenas/gollo/
-shop: aparato
+shop: Haushaltsgeräte
 ---

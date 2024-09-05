@@ -1,5 +1,5 @@
 ---
 title: "Excess"
 url: /heredia/excess/
-shop: ropa
+shop: Kleidung
 ---

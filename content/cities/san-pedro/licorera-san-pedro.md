@@ -1,5 +1,5 @@
 ---
 title: "Licorera San Pedro"
 url: /san-pedro/licorera-san-pedro/
-shop: alcohol
+shop: Spirituosen
 ---

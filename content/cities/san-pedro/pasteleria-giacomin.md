@@ -1,5 +1,5 @@
 ---
 title: "Pastelería Giacomin"
 url: /san-pedro/pasteleria-giacomin/
-shop: panadería
+shop: Bäckerei
 ---

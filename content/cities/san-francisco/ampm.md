@@ -1,5 +1,5 @@
 ---
 title: "ampm"
 url: /san-francisco/ampm/
-shop: comodidad
+shop: Lebensmittel
 ---

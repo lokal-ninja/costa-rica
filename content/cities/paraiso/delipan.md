@@ -1,5 +1,5 @@
 ---
 title: "Delipan"
 url: /paraiso/delipan/
-shop: panadería
+shop: Bäckerei
 ---

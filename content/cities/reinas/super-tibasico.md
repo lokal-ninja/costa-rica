@@ -1,5 +1,5 @@
 ---
 title: "Super Tibásico"
 url: /reinas/super-tibasico/
-shop: comodidad
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Albixon"
 url: /liberia/albixon/
-shop: piscina
+shop: Pool
 ---

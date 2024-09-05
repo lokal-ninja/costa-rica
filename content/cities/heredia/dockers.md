@@ -1,5 +1,5 @@
 ---
 title: "Dockers"
 url: /heredia/dockers/
-shop: ropa
+shop: Kleidung
 ---

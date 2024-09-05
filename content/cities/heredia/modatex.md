@@ -1,5 +1,5 @@
 ---
 title: "Modatex"
 url: /heredia/modatex/
-shop: general
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Disvapa S.A."
 url: /guadalupe/disvapa-s-a/
-shop: electrónica
+shop: Elektronik
 ---

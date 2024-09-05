@@ -1,5 +1,5 @@
 ---
 title: "Giacomin"
 url: /escazu/giacomin/
-shop: panadería
+shop: Bäckerei
 ---

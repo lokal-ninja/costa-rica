@@ -1,5 +1,5 @@
 ---
 title: "Suzuki"
 url: /san-isidro-de-el-general/suzuki/
-shop: motocicleta
+shop: Motorrad
 ---

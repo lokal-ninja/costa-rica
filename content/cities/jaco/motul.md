@@ -1,5 +1,5 @@
 ---
 title: "Motul"
 url: /jaco/motul/
-shop: general
+shop: Allgemein
 ---

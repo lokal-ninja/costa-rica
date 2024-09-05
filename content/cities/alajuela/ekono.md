@@ -1,5 +1,5 @@
 ---
 title: "Ekono"
 url: /alajuela/ekono/
-shop: ropa
+shop: Kleidung
 ---

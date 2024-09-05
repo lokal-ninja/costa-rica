@@ -1,5 +1,5 @@
 ---
 title: "Baterias"
 url: /san-jose/baterias/
-shop: general
+shop: Allgemein
 ---

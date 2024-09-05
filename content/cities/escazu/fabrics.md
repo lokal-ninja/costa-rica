@@ -1,5 +1,5 @@
 ---
 title: "Fabrics"
 url: /escazu/fabrics/
-shop: general
+shop: Allgemein
 ---

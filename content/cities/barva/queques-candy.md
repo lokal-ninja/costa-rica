@@ -1,5 +1,5 @@
 ---
 title: "Queques Candy"
 url: /barva/queques-candy/
-shop: confitería
+shop: Süßwaren
 ---

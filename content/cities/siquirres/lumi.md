@@ -1,5 +1,5 @@
 ---
 title: "Lumi"
 url: /siquirres/lumi/
-shop: hardware
+shop: Eisenwaren
 ---

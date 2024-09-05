@@ -1,5 +1,5 @@
 ---
 title: "La Bomba"
 url: /san-jose/la-bomba/
-shop: general
+shop: Allgemein
 ---

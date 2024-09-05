@@ -1,5 +1,5 @@
 ---
 title: "Musmanni"
 url: /jaco/musmanni/
-shop: panadería
+shop: Bäckerei
 ---

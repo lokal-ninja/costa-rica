@@ -1,5 +1,5 @@
 ---
 title: "MaxiPalí"
 url: /siquirres/maxipali/
-shop: supermercado
+shop: Supermarkt
 ---

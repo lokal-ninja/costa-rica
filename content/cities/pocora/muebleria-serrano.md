@@ -1,5 +1,5 @@
 ---
 title: "Mueblería Serrano"
 url: /pocora/muebleria-serrano/
-shop: muebles
+shop: Möbel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Palí"
 url: /ipis/pali/
-shop: supermercado
+shop: Supermarkt
 ---

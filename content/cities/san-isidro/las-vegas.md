@@ -1,5 +1,5 @@
 ---
 title: "Las Vegas"
 url: /san-isidro/las-vegas/
-shop: videojuegos
+shop: Videospiele
 ---

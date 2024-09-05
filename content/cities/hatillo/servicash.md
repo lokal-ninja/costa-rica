@@ -1,5 +1,5 @@
 ---
 title: "Servicash"
 url: /hatillo/servicash/
-shop: prestamista
+shop: Leiher
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cristal"
 url: /nicoya/cristal/
-shop: joyería
+shop: Schmuck
 ---

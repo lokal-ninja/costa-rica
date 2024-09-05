@@ -1,5 +1,5 @@
 ---
 title: "CompuNet"
 url: /nicoya/compunet/
-shop: ordenador
+shop: Computer
 ---

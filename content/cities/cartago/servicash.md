@@ -1,5 +1,5 @@
 ---
 title: "ServiCash"
 url: /cartago/servicash/
-shop: prestamista
+shop: Leiher
 ---

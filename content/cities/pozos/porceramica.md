@@ -1,5 +1,5 @@
 ---
 title: "Porcerámica"
 url: /pozos/porceramica/
-shop: baldosas
+shop: Fliesen
 ---

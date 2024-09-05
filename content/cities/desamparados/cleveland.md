@@ -1,5 +1,5 @@
 ---
 title: "Cleveland"
 url: /desamparados/cleveland/
-shop: ropa
+shop: Kleidung
 ---

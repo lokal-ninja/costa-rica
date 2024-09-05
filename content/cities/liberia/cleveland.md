@@ -1,5 +1,5 @@
 ---
 title: "Cleveland"
 url: /liberia/cleveland/
-shop: ropa
+shop: Kleidung
 ---

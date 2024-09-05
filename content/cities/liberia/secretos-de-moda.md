@@ -1,5 +1,5 @@
 ---
 title: "Secretos de Moda"
 url: /liberia/secretos-de-moda/
-shop: ropa
+shop: Kleidung
 ---

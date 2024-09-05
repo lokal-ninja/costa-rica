@@ -1,5 +1,5 @@
 ---
 title: "Best Brands"
 url: /heredia/best-brands/
-shop: general
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Video Extrem"
 url: /san-isidro/video-extrem/
-shop: vídeo
+shop: Videothek
 ---

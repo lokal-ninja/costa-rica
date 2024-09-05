@@ -1,5 +1,5 @@
 ---
 title: "Pops"
 url: /san-isidro/pops/
-shop: helado
+shop: Eisprodukte
 ---

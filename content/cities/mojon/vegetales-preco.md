@@ -1,5 +1,5 @@
 ---
 title: "Vegetales Preco"
 url: /mojon/vegetales-preco/
-shop: frutería
+shop: Gemüse & Obst
 ---

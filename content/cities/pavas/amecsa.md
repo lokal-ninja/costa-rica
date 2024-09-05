@@ -1,5 +1,5 @@
 ---
 title: "AMECSA"
 url: /pavas/amecsa/
-shop: general
+shop: Allgemein
 ---

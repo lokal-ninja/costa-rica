@@ -1,5 +1,5 @@
 ---
 title: "Arizona's"
 url: /gravilias/arizonas/
-shop: general
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carnicería"
 url: /canas/carniceria/
-shop: carnicero
+shop: Metzgerei
 ---

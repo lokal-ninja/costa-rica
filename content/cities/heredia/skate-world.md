@@ -1,5 +1,5 @@
 ---
 title: "Skate World"
 url: /heredia/skate-world/
-shop: ropa
+shop: Kleidung
 ---

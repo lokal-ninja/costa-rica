@@ -1,5 +1,5 @@
 ---
 title: "Chito Cars"
 url: /cariari-heredia/chito-cars/
-shop: coche
+shop: Autohaus
 ---

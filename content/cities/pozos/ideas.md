@@ -1,5 +1,5 @@
 ---
 title: "Ideas"
 url: /pozos/ideas/
-shop: general
+shop: Allgemein
 ---

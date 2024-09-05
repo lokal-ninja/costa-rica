@@ -1,5 +1,5 @@
 ---
 title: "Suplidora Obscesión"
 url: /heredia/suplidora-obscesion/
-shop: tatuaje
+shop: Tattoo
 ---

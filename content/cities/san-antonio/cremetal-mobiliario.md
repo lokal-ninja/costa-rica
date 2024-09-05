@@ -1,5 +1,5 @@
 ---
 title: "Cremetal Mobiliario"
 url: /san-antonio/cremetal-mobiliario/
-shop: muebles
+shop: Möbel
 ---

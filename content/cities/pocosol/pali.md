@@ -1,5 +1,5 @@
 ---
 title: "Palí"
 url: /pocosol/pali/
-shop: supermercado
+shop: Supermarkt
 ---

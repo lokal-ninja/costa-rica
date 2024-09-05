@@ -1,5 +1,5 @@
 ---
 title: "Moon"
 url: /san-jose/moon/
-shop: general
+shop: Allgemein
 ---

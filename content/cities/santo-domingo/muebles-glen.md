@@ -1,5 +1,5 @@
 ---
 title: "Muebles Glen"
 url: /santo-domingo/muebles-glen/
-shop: muebles
+shop: Möbel
 ---

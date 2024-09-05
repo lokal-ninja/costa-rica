@@ -1,5 +1,5 @@
 ---
 title: "Electra"
 url: /heredia/electra/
-shop: electrónica
+shop: Elektronik
 ---

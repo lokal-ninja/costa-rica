@@ -1,5 +1,5 @@
 ---
 title: "Faraz"
 url: /heredia/faraz/
-shop: ropa
+shop: Kleidung
 ---

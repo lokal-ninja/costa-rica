@@ -1,5 +1,5 @@
 ---
 title: "Ciclo Deportivo"
 url: /puerto-viejo/ciclo-deportivo/
-shop: bicicleta
+shop: Fahrrad
 ---

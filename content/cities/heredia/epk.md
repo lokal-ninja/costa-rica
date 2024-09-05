@@ -1,5 +1,5 @@
 ---
 title: "EPK"
 url: /heredia/epk/
-shop: ropa
+shop: Kleidung
 ---

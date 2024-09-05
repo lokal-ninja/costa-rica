@@ -1,5 +1,5 @@
 ---
 title: "Celulares"
 url: /san-jose/celulares/
-shop: electrónica
+shop: Elektronik
 ---

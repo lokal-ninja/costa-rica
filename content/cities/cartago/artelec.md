@@ -1,5 +1,5 @@
 ---
 title: "Artelec"
 url: /cartago/artelec/
-shop: electrónica
+shop: Elektronik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Galeria Maritz"
 url: /san-francisco/galeria-maritz/
-shop: arte
+shop: Kunst
 ---

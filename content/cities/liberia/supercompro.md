@@ -1,5 +1,5 @@
 ---
 title: "Supercompro"
 url: /liberia/supercompro/
-shop: supermercado
+shop: Supermarkt
 ---

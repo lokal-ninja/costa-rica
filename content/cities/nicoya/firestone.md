@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /nicoya/firestone/
-shop: neumáticos
+shop: Reifen
 ---

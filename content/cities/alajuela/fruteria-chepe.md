@@ -1,5 +1,5 @@
 ---
 title: "Frutería Chepe"
 url: /alajuela/fruteria-chepe/
-shop: frutería
+shop: Gemüse & Obst
 ---

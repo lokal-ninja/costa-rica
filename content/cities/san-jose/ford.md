@@ -1,5 +1,5 @@
 ---
 title: "Ford"
 url: /san-jose/ford/
-shop: coche
+shop: Autohaus
 ---

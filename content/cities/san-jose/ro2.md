@@ -1,5 +1,5 @@
 ---
 title: "Ro2"
 url: /san-jose/ro2/
-shop: general
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Marisqueria Lepanto"
 url: /aserri/marisqueria-lepanto/
-shop: marisco
+shop: Fisch
 ---

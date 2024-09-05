@@ -1,5 +1,5 @@
 ---
 title: "Peletería Guillén"
 url: /san-jose/peleteria-guillen/
-shop: general
+shop: Allgemein
 ---

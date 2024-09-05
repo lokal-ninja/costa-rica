@@ -1,5 +1,5 @@
 ---
 title: "Palí"
 url: /el-roble/pali/
-shop: supermercado
+shop: Supermarkt
 ---

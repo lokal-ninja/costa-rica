@@ -1,5 +1,5 @@
 ---
 title: "D’gia"
 url: /heredia/dgia/
-shop: ropa
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Americana El Gato"
 url: /nicoya/americana-el-gato/
-shop: general
+shop: Allgemein
 ---

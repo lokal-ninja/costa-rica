@@ -1,5 +1,5 @@
 ---
 title: "Ferroca"
 url: /cobano/ferroca/
-shop: hardware
+shop: Eisenwaren
 ---

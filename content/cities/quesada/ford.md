@@ -1,5 +1,5 @@
 ---
 title: "Ford"
 url: /quesada/ford/
-shop: coche
+shop: Autohaus
 ---

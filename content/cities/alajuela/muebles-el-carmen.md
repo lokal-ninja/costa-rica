@@ -1,5 +1,5 @@
 ---
 title: "Muebles El Carmen"
 url: /alajuela/muebles-el-carmen/
-shop: muebles
+shop: Möbel
 ---

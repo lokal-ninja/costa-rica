@@ -1,5 +1,5 @@
 ---
 title: "Heros"
 url: /parrita/heros/
-shop: ropa
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "INTACO"
 url: /liberia/intaco/
-shop: hardware
+shop: Eisenwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ferremarket"
 url: /sabanilla/ferremarket/
-shop: hardware
+shop: Eisenwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kreativa"
 url: /pavas/kreativa/
-shop: general
+shop: Allgemein
 ---

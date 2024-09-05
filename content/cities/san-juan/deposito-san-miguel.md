@@ -1,5 +1,5 @@
 ---
 title: "Depósito San Miguel"
 url: /san-juan/deposito-san-miguel/
-shop: hardware
+shop: Eisenwaren
 ---

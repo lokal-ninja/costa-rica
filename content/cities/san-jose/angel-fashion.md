@@ -1,5 +1,5 @@
 ---
 title: "Angel Fashion"
 url: /san-jose/angel-fashion/
-shop: ropa
+shop: Kleidung
 ---

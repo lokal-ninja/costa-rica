@@ -1,5 +1,5 @@
 ---
 title: "Renovación"
 url: /santa-rosa/renovacion/
-shop: ropa
+shop: Kleidung
 ---

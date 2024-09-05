@@ -1,5 +1,5 @@
 ---
 title: "Suprema"
 url: /guadalupe/suprema/
-shop: tienda
+shop: Modehaus
 ---

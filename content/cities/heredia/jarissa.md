@@ -1,5 +1,5 @@
 ---
 title: "Jarissa"
 url: /heredia/jarissa/
-shop: general
+shop: Allgemein
 ---

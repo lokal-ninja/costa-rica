@@ -1,5 +1,5 @@
 ---
 title: "Nissan"
 url: /daniel-flores/nissan/
-shop: coche
+shop: Autohaus
 ---

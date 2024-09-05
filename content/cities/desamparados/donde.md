@@ -1,5 +1,5 @@
 ---
 title: "Donde"
 url: /desamparados/donde/
-shop: peluquería
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Colono"
 url: /orotina/colono/
-shop: general
+shop: Allgemein
 ---

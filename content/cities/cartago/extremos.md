@@ -1,5 +1,5 @@
 ---
 title: "Extremos"
 url: /cartago/extremos/
-shop: general
+shop: Allgemein
 ---

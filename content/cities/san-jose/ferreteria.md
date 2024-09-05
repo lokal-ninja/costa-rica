@@ -1,5 +1,5 @@
 ---
 title: "Ferretería"
 url: /san-jose/ferreteria/
-shop: hardware
+shop: Eisenwaren
 ---

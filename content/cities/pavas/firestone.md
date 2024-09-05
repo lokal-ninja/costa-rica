@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /pavas/firestone/
-shop: neumáticos
+shop: Reifen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bungaloos"
 url: /heredia/bungaloos/
-shop: ropa
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Zule Boutique"
 url: /san-juan-de-tibas/zule-boutique/
-shop: tienda
+shop: Modehaus
 ---

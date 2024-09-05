@@ -1,5 +1,5 @@
 ---
 title: "Damoa"
 url: /desamparados/damoa/
-shop: general
+shop: Allgemein
 ---

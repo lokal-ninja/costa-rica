@@ -1,5 +1,5 @@
 ---
 title: "Videomanía"
 url: /heredia/videomania/
-shop: vídeo
+shop: Videothek
 ---

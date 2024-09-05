@@ -1,5 +1,5 @@
 ---
 title: "AzurCR"
 url: /quesada/azurcr/
-shop: comodidad
+shop: Lebensmittel
 ---

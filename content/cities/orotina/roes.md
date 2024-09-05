@@ -1,5 +1,5 @@
 ---
 title: "Roes"
 url: /orotina/roes/
-shop: general
+shop: Allgemein
 ---

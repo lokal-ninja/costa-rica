@@ -1,5 +1,5 @@
 ---
 title: "Colocell"
 url: /liberia/colocell/
-shop: electrónica
+shop: Elektronik
 ---

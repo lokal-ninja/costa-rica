@@ -1,5 +1,5 @@
 ---
 title: "Circus"
 url: /tamarindo/circus/
-shop: tienda
+shop: Modehaus
 ---

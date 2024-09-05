@@ -1,5 +1,5 @@
 ---
 title: "MegaSuper"
 url: /heredia/megasuper/
-shop: supermercado
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gas Express"
 url: /heredia/gas-express/
-shop: general
+shop: Allgemein
 ---

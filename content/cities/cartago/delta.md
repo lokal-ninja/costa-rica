@@ -1,5 +1,5 @@
 ---
 title: "Delta"
 url: /cartago/delta/
-shop: comodidad
+shop: Lebensmittel
 ---

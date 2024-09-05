@@ -1,5 +1,5 @@
 ---
 title: "Paseo Colón"
 url: /san-jose/paseo-colon/
-shop: general
+shop: Allgemein
 ---

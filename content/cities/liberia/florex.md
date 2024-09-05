@@ -1,5 +1,5 @@
 ---
 title: "Florex"
 url: /liberia/florex/
-shop: general
+shop: Allgemein
 ---

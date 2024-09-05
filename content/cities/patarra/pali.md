@@ -1,5 +1,5 @@
 ---
 title: "Palí"
 url: /patarra/pali/
-shop: supermercado
+shop: Supermarkt
 ---

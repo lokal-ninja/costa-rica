@@ -1,5 +1,5 @@
 ---
 title: "Poluqueria"
 url: /heredia/poluqueria/
-shop: peluquería
+shop: Friseur
 ---

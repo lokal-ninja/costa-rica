@@ -1,5 +1,5 @@
 ---
 title: "Photofolio"
 url: /heredia/photofolio/
-shop: marco
+shop: Rahmen
 ---

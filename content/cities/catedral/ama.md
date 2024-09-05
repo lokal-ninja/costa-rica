@@ -1,5 +1,5 @@
 ---
 title: "Ama"
 url: /catedral/ama/
-shop: comodidad
+shop: Lebensmittel
 ---

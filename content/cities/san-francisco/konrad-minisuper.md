@@ -1,5 +1,5 @@
 ---
 title: "Konrad Minisuper"
 url: /san-francisco/konrad-minisuper/
-shop: comodidad
+shop: Lebensmittel
 ---

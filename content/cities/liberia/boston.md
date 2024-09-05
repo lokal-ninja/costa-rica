@@ -1,5 +1,5 @@
 ---
 title: "Boston"
 url: /liberia/boston/
-shop: general
+shop: Allgemein
 ---

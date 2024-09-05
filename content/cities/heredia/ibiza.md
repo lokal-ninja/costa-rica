@@ -1,5 +1,5 @@
 ---
 title: "Ibiza"
 url: /heredia/ibiza/
-shop: ropa
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Azahares"
 url: /liberia/azahares/
-shop: ropa
+shop: Kleidung
 ---

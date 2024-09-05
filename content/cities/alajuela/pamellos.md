@@ -1,5 +1,5 @@
 ---
 title: "Pamellos"
 url: /alajuela/pamellos/
-shop: ropa
+shop: Kleidung
 ---

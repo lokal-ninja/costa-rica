@@ -1,5 +1,5 @@
 ---
 title: "Puertas"
 url: /desamparados/puertas/
-shop: general
+shop: Allgemein
 ---

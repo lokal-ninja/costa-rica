@@ -1,5 +1,5 @@
 ---
 title: "Bahías"
 url: /liberia/bahias/
-shop: ropa
+shop: Kleidung
 ---

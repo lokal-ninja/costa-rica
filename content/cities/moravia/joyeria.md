@@ -1,5 +1,5 @@
 ---
 title: "Joyeria"
 url: /moravia/joyeria/
-shop: joyería
+shop: Schmuck
 ---

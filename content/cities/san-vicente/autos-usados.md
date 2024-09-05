@@ -1,5 +1,5 @@
 ---
 title: "Autos Usados"
 url: /san-vicente/autos-usados/
-shop: coche
+shop: Autohaus
 ---

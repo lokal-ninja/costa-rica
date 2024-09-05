@@ -1,5 +1,5 @@
 ---
 title: "Peri"
 url: /san-pedro/peri/
-shop: supermercado
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "HP"
 url: /san-jose/hp/
-shop: electrónica
+shop: Elektronik
 ---

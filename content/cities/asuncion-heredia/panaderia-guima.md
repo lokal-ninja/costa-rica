@@ -1,5 +1,5 @@
 ---
 title: "Panadería Guima"
 url: /asuncion-heredia/panaderia-guima/
-shop: panadería
+shop: Bäckerei
 ---

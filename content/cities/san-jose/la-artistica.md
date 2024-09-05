@@ -1,5 +1,5 @@
 ---
 title: "La Artística"
 url: /san-jose/la-artistica/
-shop: muebles
+shop: Möbel
 ---

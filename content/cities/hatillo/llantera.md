@@ -1,5 +1,5 @@
 ---
 title: "Llantera"
 url: /hatillo/llantera/
-shop: neumáticos
+shop: Reifen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Expolibros"
 url: /san-jose/expolibros/
-shop: libros
+shop: Bücher
 ---

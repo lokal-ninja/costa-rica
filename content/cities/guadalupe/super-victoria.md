@@ -1,5 +1,5 @@
 ---
 title: "Super Victoria"
 url: /guadalupe/super-victoria/
-shop: supermercado
+shop: Supermarkt
 ---

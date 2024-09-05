@@ -1,5 +1,5 @@
 ---
 title: "Pipasa"
 url: /curridabat/pipasa/
-shop: carnicero
+shop: Metzgerei
 ---

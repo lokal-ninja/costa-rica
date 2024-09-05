@@ -1,5 +1,5 @@
 ---
 title: "Monge"
 url: /aserri/monge/
-shop: aparato
+shop: Haushaltsgeräte
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gollo"
 url: /esparza/gollo/
-shop: aparato
+shop: Haushaltsgeräte
 ---

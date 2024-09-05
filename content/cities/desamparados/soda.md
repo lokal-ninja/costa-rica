@@ -1,5 +1,5 @@
 ---
 title: "Soda"
 url: /desamparados/soda/
-shop: comodidad
+shop: Lebensmittel
 ---

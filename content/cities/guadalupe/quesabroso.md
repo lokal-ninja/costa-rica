@@ -1,5 +1,5 @@
 ---
 title: "Quésabroso"
 url: /guadalupe/quesabroso/
-shop: panadería
+shop: Bäckerei
 ---

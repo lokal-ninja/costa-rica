@@ -1,5 +1,5 @@
 ---
 title: "Pintacasa"
 url: /san-juan/pintacasa/
-shop: pintura
+shop: Farben
 ---

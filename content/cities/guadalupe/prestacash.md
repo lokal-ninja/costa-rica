@@ -1,5 +1,5 @@
 ---
 title: "PrestaCash"
 url: /guadalupe/prestacash/
-shop: prestamista
+shop: Leiher
 ---

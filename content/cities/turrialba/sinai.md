@@ -1,5 +1,5 @@
 ---
 title: "Sinai"
 url: /turrialba/sinai/
-shop: ropa
+shop: Kleidung
 ---

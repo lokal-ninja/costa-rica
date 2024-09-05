@@ -1,5 +1,5 @@
 ---
 title: "Torijano"
 url: /liberia/torijano/
-shop: motocicleta
+shop: Motorrad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sol"
 url: /san-jose/sol/
-shop: general
+shop: Allgemein
 ---

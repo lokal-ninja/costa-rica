@@ -1,5 +1,5 @@
 ---
 title: "Army Surplus"
 url: /desamparados/army-surplus/
-shop: general
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rey"
 url: /san-jose/rey/
-shop: general
+shop: Allgemein
 ---

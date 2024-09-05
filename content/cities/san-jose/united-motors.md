@@ -1,5 +1,5 @@
 ---
 title: "United Motors"
 url: /san-jose/united-motors/
-shop: coche
+shop: Autohaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carnicería El Sabanero"
 url: /liberia/carniceria-el-sabanero/
-shop: carnicero
+shop: Metzgerei
 ---

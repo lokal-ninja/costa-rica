@@ -1,5 +1,5 @@
 ---
 title: "Carolina's Boutique"
 url: /alajuela/carolinas-boutique/
-shop: ropa
+shop: Kleidung
 ---

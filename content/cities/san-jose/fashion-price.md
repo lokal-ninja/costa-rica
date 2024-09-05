@@ -1,5 +1,5 @@
 ---
 title: "Fashion Price"
 url: /san-jose/fashion-price/
-shop: general
+shop: Allgemein
 ---

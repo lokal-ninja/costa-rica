@@ -1,5 +1,5 @@
 ---
 title: "Artea"
 url: /desamparados/artea/
-shop: general
+shop: Allgemein
 ---

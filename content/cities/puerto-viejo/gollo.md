@@ -1,5 +1,5 @@
 ---
 title: "Gollo"
 url: /puerto-viejo/gollo/
-shop: aparato
+shop: Haushaltsgeräte
 ---

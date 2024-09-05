@@ -1,5 +1,5 @@
 ---
 title: "Carnes Finas Del Corral"
 url: /liberia/carnes-finas-del-corral/
-shop: carnicero
+shop: Metzgerei
 ---

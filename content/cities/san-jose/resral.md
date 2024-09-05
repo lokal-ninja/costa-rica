@@ -1,5 +1,5 @@
 ---
 title: "Resral"
 url: /san-jose/resral/
-shop: general
+shop: Allgemein
 ---

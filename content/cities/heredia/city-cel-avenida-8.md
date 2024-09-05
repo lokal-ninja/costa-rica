@@ -1,5 +1,5 @@
 ---
 title: "City Cel"
 url: /heredia/city-cel-avenida-8/
-shop: teléfono móvil
+shop: Handy
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Maderas Sánchez"
 url: /heredia/maderas-sanchez/
-shop: hardware
+shop: Eisenwaren
 ---

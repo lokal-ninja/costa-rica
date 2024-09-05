@@ -1,5 +1,5 @@
 ---
 title: "Pintacasa"
 url: /guadalupe/pintacasa/
-shop: pintura
+shop: Farben
 ---

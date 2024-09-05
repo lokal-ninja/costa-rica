@@ -1,5 +1,5 @@
 ---
 title: "Creaciones Didima"
 url: /concepcion/creaciones-didima/
-shop: artesanía
+shop: Basteln
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Supermercado"
 url: /cariari/supermercado/
-shop: supermercado
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carnicería"
 url: /desamparados/carniceria/
-shop: carnicero
+shop: Metzgerei
 ---

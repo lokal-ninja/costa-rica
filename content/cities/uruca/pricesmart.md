@@ -1,5 +1,5 @@
 ---
 title: "PriceSmart"
 url: /uruca/pricesmart/
-shop: mayorista
+shop: Großhandel
 ---

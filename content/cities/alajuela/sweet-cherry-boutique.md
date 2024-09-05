@@ -1,5 +1,5 @@
 ---
 title: "Sweet Cherry Boutique"
 url: /alajuela/sweet-cherry-boutique/
-shop: ropa
+shop: Kleidung
 ---

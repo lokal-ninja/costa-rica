@@ -1,5 +1,5 @@
 ---
 title: "Runners"
 url: /curridabat/runners/
-shop: zapatos
+shop: Schuhe
 ---

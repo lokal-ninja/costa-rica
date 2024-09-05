@@ -1,5 +1,5 @@
 ---
 title: "Akiro"
 url: /san-jose/akiro/
-shop: muebles
+shop: Möbel
 ---

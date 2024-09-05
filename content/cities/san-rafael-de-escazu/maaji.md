@@ -1,5 +1,5 @@
 ---
 title: "Maaji"
 url: /san-rafael-de-escazu/maaji/
-shop: ropa
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "La Esperanza"
 url: /heredia/la-esperanza/
-shop: lotería
+shop: Lotterie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ditaires"
 url: /puntarenas/ditaires/
-shop: general
+shop: Allgemein
 ---

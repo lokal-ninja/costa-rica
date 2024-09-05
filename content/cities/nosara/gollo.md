@@ -1,5 +1,5 @@
 ---
 title: "Gollo"
 url: /nosara/gollo/
-shop: aparato
+shop: Haushaltsgeräte
 ---

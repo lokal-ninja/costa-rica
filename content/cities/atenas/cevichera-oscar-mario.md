@@ -1,5 +1,5 @@
 ---
 title: "Cevichera Óscar Mario"
 url: /atenas/cevichera-oscar-mario/
-shop: marisco
+shop: Fisch
 ---

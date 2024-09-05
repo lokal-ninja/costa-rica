@@ -1,5 +1,5 @@
 ---
 title: "Ambacar"
 url: /san-rafael/ambacar/
-shop: coche
+shop: Autohaus
 ---

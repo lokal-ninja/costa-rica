@@ -1,5 +1,5 @@
 ---
 title: "Zapatería La Elegancia"
 url: /limon/zapateria-la-elegancia/
-shop: zapatos
+shop: Schuhe
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fantasia"
 url: /alajuela/fantasia/
-shop: helado
+shop: Eisprodukte
 ---

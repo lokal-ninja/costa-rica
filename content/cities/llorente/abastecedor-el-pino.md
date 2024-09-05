@@ -1,5 +1,5 @@
 ---
 title: "Abastecedor El Pino"
 url: /llorente/abastecedor-el-pino/
-shop: comodidad
+shop: Lebensmittel
 ---

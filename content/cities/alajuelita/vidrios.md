@@ -1,5 +1,5 @@
 ---
 title: "Vidrios"
 url: /alajuelita/vidrios/
-shop: general
+shop: Allgemein
 ---

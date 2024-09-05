@@ -1,5 +1,5 @@
 ---
 title: "Fusion"
 url: /heredia/fusion/
-shop: ropa
+shop: Kleidung
 ---

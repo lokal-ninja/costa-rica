@@ -1,5 +1,5 @@
 ---
 title: "Agape"
 url: /puntarenas/agape/
-shop: ropa
+shop: Kleidung
 ---

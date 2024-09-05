@@ -1,5 +1,5 @@
 ---
 title: "El Mercadito"
 url: /concepcion/el-mercadito/
-shop: comodidad
+shop: Lebensmittel
 ---

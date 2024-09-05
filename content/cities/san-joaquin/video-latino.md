@@ -1,5 +1,5 @@
 ---
 title: "Video Latino"
 url: /san-joaquin/video-latino/
-shop: vídeo
+shop: Videothek
 ---

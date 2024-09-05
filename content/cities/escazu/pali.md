@@ -1,5 +1,5 @@
 ---
 title: "Palí"
 url: /escazu/pali/
-shop: supermercado
+shop: Supermarkt
 ---

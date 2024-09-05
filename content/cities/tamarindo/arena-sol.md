@@ -1,5 +1,5 @@
 ---
 title: "Arena Sol"
 url: /tamarindo/arena-sol/
-shop: ropa
+shop: Kleidung
 ---

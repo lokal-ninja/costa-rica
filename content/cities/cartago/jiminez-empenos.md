@@ -1,5 +1,5 @@
 ---
 title: "Jiminez Empeños"
 url: /cartago/jiminez-empenos/
-shop: prestamista
+shop: Leiher
 ---

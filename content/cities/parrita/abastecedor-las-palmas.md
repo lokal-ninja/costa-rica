@@ -1,5 +1,5 @@
 ---
 title: "Abastecedor Las Palmas"
 url: /parrita/abastecedor-las-palmas/
-shop: supermercado
+shop: Supermarkt
 ---

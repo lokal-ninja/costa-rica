@@ -1,5 +1,5 @@
 ---
 title: "Megasuper"
 url: /frailes/megasuper/
-shop: supermercado
+shop: Supermarkt
 ---

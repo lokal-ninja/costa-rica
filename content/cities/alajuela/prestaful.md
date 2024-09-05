@@ -1,5 +1,5 @@
 ---
 title: "Prestaful"
 url: /alajuela/prestaful/
-shop: prestamista
+shop: Leiher
 ---

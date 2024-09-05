@@ -1,5 +1,5 @@
 ---
 title: "Fine organic chocolate"
 url: /rivas/fine-organic-chocolate/
-shop: chocolate
+shop: Schokolade
 ---

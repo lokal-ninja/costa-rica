@@ -1,5 +1,5 @@
 ---
 title: "Abastecedor Moraguita"
 url: /desamparados/abastecedor-moraguita/
-shop: comodidad
+shop: Lebensmittel
 ---

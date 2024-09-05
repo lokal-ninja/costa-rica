@@ -1,5 +1,5 @@
 ---
 title: "Repuestos La Cruz"
 url: /san-jose/repuestos-la-cruz-calle-24/
-shop: piezas de automóviles
+shop: Autoteile
 ---

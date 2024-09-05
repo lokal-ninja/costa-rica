@@ -1,5 +1,5 @@
 ---
 title: "Carnicería Mimi"
 url: /canas/carniceria-mimi/
-shop: carnicero
+shop: Metzgerei
 ---

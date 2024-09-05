@@ -1,5 +1,5 @@
 ---
 title: "ARAU"
 url: /heredia/arau/
-shop: regalo
+shop: Andenken
 ---

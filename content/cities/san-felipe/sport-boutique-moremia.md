@@ -1,5 +1,5 @@
 ---
 title: "Sport Boutique Moremia"
 url: /san-felipe/sport-boutique-moremia/
-shop: deportes
+shop: Sport
 ---

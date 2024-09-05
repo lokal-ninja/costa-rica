@@ -1,5 +1,5 @@
 ---
 title: "Diseño Gráfico"
 url: /santo-domingo/diseno-grafico/
-shop: ropa
+shop: Kleidung
 ---

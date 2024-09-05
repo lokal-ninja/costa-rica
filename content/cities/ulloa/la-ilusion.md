@@ -1,5 +1,5 @@
 ---
 title: "La Ilusion"
 url: /ulloa/la-ilusion/
-shop: comodidad
+shop: Lebensmittel
 ---

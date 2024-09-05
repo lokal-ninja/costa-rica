@@ -1,5 +1,5 @@
 ---
 title: "Demoda"
 url: /occidental/demoda/
-shop: ropa
+shop: Kleidung
 ---

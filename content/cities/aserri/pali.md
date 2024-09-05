@@ -1,5 +1,5 @@
 ---
 title: "Palí"
 url: /aserri/pali/
-shop: supermercado
+shop: Supermarkt
 ---

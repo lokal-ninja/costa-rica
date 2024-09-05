@@ -1,5 +1,5 @@
 ---
 title: "Lain"
 url: /heredia/lain/
-shop: peluquería
+shop: Friseur
 ---

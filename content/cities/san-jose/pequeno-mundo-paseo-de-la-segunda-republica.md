@@ -1,5 +1,5 @@
 ---
 title: "Pequeño Mundo"
 url: /san-jose/pequeno-mundo-paseo-de-la-segunda-republica/
-shop: grandes almacenes
+shop: Warenhaus
 ---

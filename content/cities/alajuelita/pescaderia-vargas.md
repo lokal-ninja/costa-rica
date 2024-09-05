@@ -1,5 +1,5 @@
 ---
 title: "Pescadería Vargas"
 url: /alajuelita/pescaderia-vargas/
-shop: marisco
+shop: Fisch
 ---

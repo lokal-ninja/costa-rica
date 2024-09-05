@@ -1,5 +1,5 @@
 ---
 title: "Lavanderia Vera"
 url: /quepos/lavanderia-vera/
-shop: lavandería
+shop: Wäscherei
 ---

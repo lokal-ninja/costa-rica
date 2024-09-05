@@ -1,5 +1,5 @@
 ---
 title: "Palí"
 url: /cariari/pali/
-shop: supermercado
+shop: Supermarkt
 ---

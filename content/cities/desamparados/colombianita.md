@@ -1,5 +1,5 @@
 ---
 title: "Colombianita"
 url: /desamparados/colombianita/
-shop: general
+shop: Allgemein
 ---

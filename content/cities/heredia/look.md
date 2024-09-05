@@ -1,5 +1,5 @@
 ---
 title: "Look"
 url: /heredia/look/
-shop: óptico
+shop: Optiker
 ---

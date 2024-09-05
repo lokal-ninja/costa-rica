@@ -1,5 +1,5 @@
 ---
 title: "Modatex"
 url: /alajuela/modatex/
-shop: muebles
+shop: Möbel
 ---

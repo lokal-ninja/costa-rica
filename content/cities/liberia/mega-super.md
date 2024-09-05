@@ -1,5 +1,5 @@
 ---
 title: "Mega Super"
 url: /liberia/mega-super/
-shop: supermercado
+shop: Supermarkt
 ---

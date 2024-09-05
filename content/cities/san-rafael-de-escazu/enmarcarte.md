@@ -1,5 +1,5 @@
 ---
 title: "Enmarcarte"
 url: /san-rafael-de-escazu/enmarcarte/
-shop: general
+shop: Allgemein
 ---

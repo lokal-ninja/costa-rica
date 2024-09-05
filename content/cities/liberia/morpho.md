@@ -1,5 +1,5 @@
 ---
 title: "Morpho"
 url: /liberia/morpho/
-shop: ropa
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "María José"
 url: /liberia/maria-jose/
-shop: general
+shop: Allgemein
 ---

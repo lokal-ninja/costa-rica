@@ -1,5 +1,5 @@
 ---
 title: "Vela"
 url: /curridabat/vela/
-shop: general
+shop: Allgemein
 ---

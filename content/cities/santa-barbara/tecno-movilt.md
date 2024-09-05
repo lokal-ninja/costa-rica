@@ -1,5 +1,5 @@
 ---
 title: "Tecno Móvilt"
 url: /santa-barbara/tecno-movilt/
-shop: electrónica
+shop: Elektronik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Peri"
 url: /orotina/peri/
-shop: supermercado
+shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Toys"
 url: /cartago/toys/
-shop: juguetes
+shop: Spielzeug
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Panadería y Manualidades"
 url: /san-jose/panaderia-y-manualidades/
-shop: panadería
+shop: Bäckerei
 ---

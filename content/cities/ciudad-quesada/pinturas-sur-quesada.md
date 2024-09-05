@@ -1,5 +1,5 @@
 ---
 title: "Pinturas Sur Quesada"
 url: /ciudad-quesada/pinturas-sur-quesada/
-shop: pintura
+shop: Farben
 ---

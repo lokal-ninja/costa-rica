@@ -1,5 +1,5 @@
 ---
 title: "Bambolá"
 url: /heredia/bambola/
-shop: general
+shop: Allgemein
 ---

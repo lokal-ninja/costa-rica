@@ -1,5 +1,5 @@
 ---
 title: "Ropa Americana Sinaí Palmares"
 url: /palmares/ropa-americana-sinai-palmares/
-shop: ropa
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Millennium"
 url: /desamparados/millennium/
-shop: general
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Megasuper"
 url: /san-rafael/megasuper/
-shop: supermercado
+shop: Supermarkt
 ---

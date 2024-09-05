@@ -1,5 +1,5 @@
 ---
 title: "Femme"
 url: /heredia/femme/
-shop: joyería
+shop: Schmuck
 ---

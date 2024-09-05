@@ -1,5 +1,5 @@
 ---
 title: "Metrokilo"
 url: /guacimo/metrokilo/
-shop: peluquería
+shop: Friseur
 ---

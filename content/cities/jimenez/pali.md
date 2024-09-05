@@ -1,5 +1,5 @@
 ---
 title: "Palí"
 url: /jimenez/pali/
-shop: supermercado
+shop: Supermarkt
 ---

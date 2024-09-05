@@ -1,5 +1,5 @@
 ---
 title: "Gollo"
 url: /guadalupe/gollo/
-shop: aparato
+shop: Haushaltsgeräte
 ---

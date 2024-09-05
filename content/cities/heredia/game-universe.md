@@ -1,5 +1,5 @@
 ---
 title: "Game Universe"
 url: /heredia/game-universe/
-shop: electrónica
+shop: Elektronik
 ---

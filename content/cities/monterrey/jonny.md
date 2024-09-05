@@ -1,5 +1,5 @@
 ---
 title: "Jonny"
 url: /monterrey/jonny/
-shop: motocicleta
+shop: Motorrad
 ---

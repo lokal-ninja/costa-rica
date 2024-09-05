@@ -1,5 +1,5 @@
 ---
 title: "City Spa"
 url: /san-jose/city-spa/
-shop: cosméticos
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "UM"
 url: /desamparados/um/
-shop: general
+shop: Allgemein
 ---

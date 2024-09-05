@@ -1,5 +1,5 @@
 ---
 title: "Delimart"
 url: /cartago/delimart/
-shop: comodidad
+shop: Lebensmittel
 ---

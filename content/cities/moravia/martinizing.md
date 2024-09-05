@@ -1,5 +1,5 @@
 ---
 title: "Martinizing"
 url: /moravia/martinizing/
-shop: lavandería
+shop: Wäscherei
 ---

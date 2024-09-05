@@ -1,5 +1,5 @@
 ---
 title: "Super 88"
 url: /paraiso/super-88/
-shop: comodidad
+shop: Lebensmittel
 ---

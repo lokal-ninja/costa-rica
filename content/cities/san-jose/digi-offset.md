@@ -1,5 +1,5 @@
 ---
 title: "Digi Offset"
 url: /san-jose/digi-offset/
-shop: copyshop
+shop: Kopieren
 ---

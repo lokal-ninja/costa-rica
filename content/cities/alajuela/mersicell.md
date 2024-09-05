@@ -1,5 +1,5 @@
 ---
 title: "Mersicell"
 url: /alajuela/mersicell/
-shop: teléfono móvil
+shop: Handy
 ---

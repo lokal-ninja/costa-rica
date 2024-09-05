@@ -1,5 +1,5 @@
 ---
 title: "Mayca"
 url: /heredia/mayca/
-shop: supermercado
+shop: Supermarkt
 ---

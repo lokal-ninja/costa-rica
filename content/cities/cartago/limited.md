@@ -1,5 +1,5 @@
 ---
 title: "Limited"
 url: /cartago/limited/
-shop: cosméticos
+shop: Kosmetik
 ---

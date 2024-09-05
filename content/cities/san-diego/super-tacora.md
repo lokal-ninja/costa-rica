@@ -1,5 +1,5 @@
 ---
 title: "Super Tacora"
 url: /san-diego/super-tacora/
-shop: comodidad
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Publirojas"
 url: /paraiso/publirojas/
-shop: general
+shop: Allgemein
 ---

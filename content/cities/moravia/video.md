@@ -1,5 +1,5 @@
 ---
 title: "Video"
 url: /moravia/video/
-shop: general
+shop: Allgemein
 ---

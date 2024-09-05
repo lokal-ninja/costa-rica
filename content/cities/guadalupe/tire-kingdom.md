@@ -1,5 +1,5 @@
 ---
 title: "Tire Kingdom"
 url: /guadalupe/tire-kingdom/
-shop: neumáticos
+shop: Reifen
 ---

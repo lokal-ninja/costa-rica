@@ -1,5 +1,5 @@
 ---
 title: "Ticos Surf School"
 url: /samara/ticos-surf-school/
-shop: deportes
+shop: Sport
 ---

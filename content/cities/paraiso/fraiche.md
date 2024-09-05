@@ -1,5 +1,5 @@
 ---
 title: "Fraiche"
 url: /paraiso/fraiche/
-shop: general
+shop: Allgemein
 ---

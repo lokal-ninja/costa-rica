@@ -1,5 +1,5 @@
 ---
 title: "Nici"
 url: /heredia/nici/
-shop: joyería
+shop: Schmuck
 ---

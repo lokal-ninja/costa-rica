@@ -1,5 +1,5 @@
 ---
 title: "Acuario"
 url: /paraiso/acuario/
-shop: mascotas
+shop: Tiere
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Geocad"
 url: /liberia/geocad/
-shop: copyshop
+shop: Kopieren
 ---

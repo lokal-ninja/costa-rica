@@ -1,5 +1,5 @@
 ---
 title: "Guilá"
 url: /moravia/guila/
-shop: artesanía
+shop: Basteln
 ---

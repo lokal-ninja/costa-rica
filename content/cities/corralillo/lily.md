@@ -1,5 +1,5 @@
 ---
 title: "Lily"
 url: /corralillo/lily/
-shop: ropa
+shop: Kleidung
 ---

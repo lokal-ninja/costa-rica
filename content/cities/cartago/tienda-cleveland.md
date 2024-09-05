@@ -1,5 +1,5 @@
 ---
 title: "Tienda Cleveland"
 url: /cartago/tienda-cleveland/
-shop: ropa
+shop: Kleidung
 ---

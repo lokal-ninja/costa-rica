@@ -1,5 +1,5 @@
 ---
 title: "Pintacasa"
 url: /puntarenas/pintacasa/
-shop: pintura
+shop: Farben
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Zamirastore"
 url: /pital/zamirastore/
-shop: ropa
+shop: Kleidung
 ---

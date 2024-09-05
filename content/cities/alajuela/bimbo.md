@@ -1,5 +1,5 @@
 ---
 title: "Bimbo"
 url: /alajuela/bimbo/
-shop: panadería
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bandolera"
 url: /heredia/bandolera/
-shop: ropa
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bambú"
 url: /liberia/bambu/
-shop: general
+shop: Allgemein
 ---

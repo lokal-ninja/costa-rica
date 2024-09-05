@@ -1,5 +1,5 @@
 ---
 title: "Etnias, Bahía Drake"
 url: /bahia-drake/etnias-bahia-drake/
-shop: regalo
+shop: Andenken
 ---

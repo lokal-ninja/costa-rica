@@ -1,5 +1,5 @@
 ---
 title: "Pulpería"
 url: /acapulco/pulperia/
-shop: comodidad
+shop: Lebensmittel
 ---

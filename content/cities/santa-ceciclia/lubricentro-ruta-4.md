@@ -1,5 +1,5 @@
 ---
 title: "Lubricentro Ruta 4"
 url: /santa-ceciclia/lubricentro-ruta-4/
-shop: reparación de automóviles
+shop: Autowerkstatt
 ---

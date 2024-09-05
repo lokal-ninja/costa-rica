@@ -1,5 +1,5 @@
 ---
 title: "Optica Pereira"
 url: /cartago/optica-pereira/
-shop: óptico
+shop: Optiker
 ---

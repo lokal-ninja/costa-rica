@@ -1,5 +1,5 @@
 ---
 title: "Monge"
 url: /atenas/monge/
-shop: electrónica
+shop: Elektronik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cosechas"
 url: /san-juan-de-tibas/cosechas/
-shop: bebidas
+shop: Getränke
 ---

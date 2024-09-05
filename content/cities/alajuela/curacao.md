@@ -1,5 +1,5 @@
 ---
 title: "Curacao"
 url: /alajuela/curacao/
-shop: electrónica
+shop: Elektronik
 ---

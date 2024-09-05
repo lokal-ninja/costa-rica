@@ -1,5 +1,5 @@
 ---
 title: "CalzaTodo"
 url: /alajuelita/calzatodo/
-shop: zapatos
+shop: Schuhe
 ---

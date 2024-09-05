@@ -1,5 +1,5 @@
 ---
 title: "Island"
 url: /alajuela/island/
-shop: ropa
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Krisval"
 url: /heredia/krisval/
-shop: muebles
+shop: Möbel
 ---

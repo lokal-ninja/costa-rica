@@ -1,5 +1,5 @@
 ---
 title: "Musmanni"
 url: /sabanilla/musmanni/
-shop: panadería
+shop: Bäckerei
 ---

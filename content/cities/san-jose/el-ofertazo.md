@@ -1,5 +1,5 @@
 ---
 title: "El Ofertazo"
 url: /san-jose/el-ofertazo/
-shop: general
+shop: Allgemein
 ---

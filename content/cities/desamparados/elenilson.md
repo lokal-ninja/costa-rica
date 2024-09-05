@@ -1,5 +1,5 @@
 ---
 title: "Elenilson"
 url: /desamparados/elenilson/
-shop: ropa
+shop: Kleidung
 ---

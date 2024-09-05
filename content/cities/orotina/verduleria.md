@@ -1,5 +1,5 @@
 ---
 title: "Verduleria"
 url: /orotina/verduleria/
-shop: frutería
+shop: Gemüse & Obst
 ---

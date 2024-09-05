@@ -1,5 +1,5 @@
 ---
-title: "El lagar"
+title: "El Lagar"
 url: /santo-tomas/el-lagar/
-shop: hardware
+shop: Eisenwaren
 ---

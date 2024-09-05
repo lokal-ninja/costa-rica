@@ -1,5 +1,5 @@
 ---
 title: "Shine Fashion Accessories"
 url: /heredia/shine-fashion-accessories/
-shop: tienda
+shop: Modehaus
 ---

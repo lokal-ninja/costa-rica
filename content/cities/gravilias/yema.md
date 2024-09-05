@@ -1,5 +1,5 @@
 ---
 title: "Yema"
 url: /gravilias/yema/
-shop: general
+shop: Allgemein
 ---

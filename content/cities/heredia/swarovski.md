@@ -1,5 +1,5 @@
 ---
 title: "Swarovski"
 url: /heredia/swarovski/
-shop: joyería
+shop: Schmuck
 ---

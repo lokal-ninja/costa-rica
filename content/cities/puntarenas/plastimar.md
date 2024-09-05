@@ -1,5 +1,5 @@
 ---
 title: "Plastimar"
 url: /puntarenas/plastimar/
-shop: general
+shop: Allgemein
 ---

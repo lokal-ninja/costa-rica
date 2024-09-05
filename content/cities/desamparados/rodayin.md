@@ -1,5 +1,5 @@
 ---
 title: "Rodayin"
 url: /desamparados/rodayin/
-shop: carnicero
+shop: Metzgerei
 ---

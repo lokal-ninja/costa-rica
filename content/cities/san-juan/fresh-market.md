@@ -1,5 +1,5 @@
 ---
 title: "Fresh Market"
 url: /san-juan/fresh-market/
-shop: comodidad
+shop: Lebensmittel
 ---

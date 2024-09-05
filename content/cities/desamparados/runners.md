@@ -1,5 +1,5 @@
 ---
 title: "Runners"
 url: /desamparados/runners/
-shop: general
+shop: Allgemein
 ---

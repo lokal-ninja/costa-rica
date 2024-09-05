@@ -1,5 +1,5 @@
 ---
 title: "Frutas Alexa"
 url: /san-antonio/frutas-alexa/
-shop: frutería
+shop: Gemüse & Obst
 ---

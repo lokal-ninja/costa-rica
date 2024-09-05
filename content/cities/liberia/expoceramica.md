@@ -1,5 +1,5 @@
 ---
 title: "Expocerámica"
 url: /liberia/expoceramica/
-shop: hardware
+shop: Eisenwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cubre Asientos"
 url: /san-sebastian/cubre-asientos/
-shop: general
+shop: Allgemein
 ---

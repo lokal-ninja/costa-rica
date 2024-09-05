@@ -1,5 +1,5 @@
 ---
 title: "Ferretería Rodríguez Salas"
 url: /guapiles/ferreteria-rodriguez-salas/
-shop: hardware
+shop: Eisenwaren
 ---

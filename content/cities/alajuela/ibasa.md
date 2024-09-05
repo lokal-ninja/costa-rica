@@ -1,5 +1,5 @@
 ---
 title: "Ibasa"
 url: /alajuela/ibasa/
-shop: ropa
+shop: Kleidung
 ---

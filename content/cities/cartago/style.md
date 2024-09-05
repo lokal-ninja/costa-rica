@@ -1,5 +1,5 @@
 ---
 title: "Style"
 url: /cartago/style/
-shop: ropa
+shop: Kleidung
 ---

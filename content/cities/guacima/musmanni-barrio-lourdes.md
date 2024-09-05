@@ -1,5 +1,5 @@
 ---
 title: "Musmanni Barrio Lourdes"
 url: /guacima/musmanni-barrio-lourdes/
-shop: panadería
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Coopeservidores"
 url: /desamparados/coopeservidores/
-shop: prestamista
+shop: Leiher
 ---

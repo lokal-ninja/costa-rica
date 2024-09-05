@@ -1,5 +1,5 @@
 ---
 title: "Epson"
 url: /santa-cruz/epson/
-shop: copyshop
+shop: Kopieren
 ---

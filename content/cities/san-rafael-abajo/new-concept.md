@@ -1,5 +1,5 @@
 ---
 title: "New Concept"
 url: /san-rafael-abajo/new-concept/
-shop: peluquería
+shop: Friseur
 ---

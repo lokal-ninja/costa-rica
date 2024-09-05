@@ -1,5 +1,5 @@
 ---
 title: "Plaza Fuentes del Obelisco"
 url: /san-rafael-de-escazu/plaza-fuentes-del-obelisco/
-shop: centro comercial
+shop: Einkaufszentrum
 ---

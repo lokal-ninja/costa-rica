@@ -1,5 +1,5 @@
 ---
 title: "Impresión Digital"
 url: /puntarenas/impresion-digital/
-shop: general
+shop: Allgemein
 ---

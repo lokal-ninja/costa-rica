@@ -1,5 +1,5 @@
 ---
 title: "Computrebol"
 url: /san-jose/computrebol/
-shop: ordenador
+shop: Computer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pipasa"
 url: /gravilias/pipasa/
-shop: carnicero
+shop: Metzgerei
 ---

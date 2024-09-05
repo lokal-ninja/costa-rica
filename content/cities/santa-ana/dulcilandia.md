@@ -1,5 +1,5 @@
 ---
 title: "Dulcilandia"
 url: /santa-ana/dulcilandia/
-shop: confitería
+shop: Süßwaren
 ---

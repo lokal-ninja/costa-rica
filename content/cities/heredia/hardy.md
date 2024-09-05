@@ -1,5 +1,5 @@
 ---
 title: "Hardy"
 url: /heredia/hardy/
-shop: ropa
+shop: Kleidung
 ---

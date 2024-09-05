@@ -1,5 +1,5 @@
 ---
 title: "Pollón"
 url: /rio-segundo/pollon/
-shop: deportes
+shop: Sport
 ---

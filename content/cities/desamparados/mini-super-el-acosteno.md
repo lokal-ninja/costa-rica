@@ -1,5 +1,5 @@
 ---
 title: "Mini Super El Acosteño"
 url: /desamparados/mini-super-el-acosteno/
-shop: comodidad
+shop: Lebensmittel
 ---

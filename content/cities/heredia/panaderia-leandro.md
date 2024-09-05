@@ -1,5 +1,5 @@
 ---
 title: "Panadería Leandro"
 url: /heredia/panaderia-leandro/
-shop: panadería
+shop: Bäckerei
 ---

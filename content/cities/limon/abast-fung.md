@@ -1,5 +1,5 @@
 ---
 title: "Abast Fung"
 url: /limon/abast-fung/
-shop: comodidad
+shop: Lebensmittel
 ---

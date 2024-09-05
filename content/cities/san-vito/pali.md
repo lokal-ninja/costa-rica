@@ -1,5 +1,5 @@
 ---
 title: "Palí"
 url: /san-vito/pali/
-shop: supermercado
+shop: Supermarkt
 ---

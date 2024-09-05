@@ -1,5 +1,5 @@
 ---
 title: "Matra"
 url: /liberia/matra/
-shop: coche
+shop: Autohaus
 ---

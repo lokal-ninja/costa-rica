@@ -1,5 +1,5 @@
 ---
 title: "Mascotas Leo"
 url: /alajuelita/mascotas-leo/
-shop: mascotas
+shop: Tiere
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Formagro"
 url: /san-jose/formagro/
-shop: general
+shop: Allgemein
 ---

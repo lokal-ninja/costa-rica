@@ -1,5 +1,5 @@
 ---
 title: "Monchis"
 url: /gravilias/monchis/
-shop: general
+shop: Allgemein
 ---

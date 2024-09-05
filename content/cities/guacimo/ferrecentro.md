@@ -1,5 +1,5 @@
 ---
 title: "Ferrecentro"
 url: /guacimo/ferrecentro/
-shop: pintura
+shop: Farben
 ---

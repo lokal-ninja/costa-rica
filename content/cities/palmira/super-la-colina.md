@@ -1,5 +1,5 @@
 ---
 title: "Super La Colina"
 url: /palmira/super-la-colina/
-shop: comodidad
+shop: Lebensmittel
 ---

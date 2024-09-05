@@ -1,5 +1,5 @@
 ---
 title: "Honda"
 url: /liberia/honda/
-shop: motocicleta
+shop: Motorrad
 ---

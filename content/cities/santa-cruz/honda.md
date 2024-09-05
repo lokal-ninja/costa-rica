@@ -1,5 +1,5 @@
 ---
 title: "Honda"
 url: /santa-cruz/honda/
-shop: motocicleta
+shop: Motorrad
 ---

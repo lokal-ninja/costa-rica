@@ -1,5 +1,5 @@
 ---
 title: "Divina"
 url: /san-rafael/divina/
-shop: ropa
+shop: Kleidung
 ---

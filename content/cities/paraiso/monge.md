@@ -1,5 +1,5 @@
 ---
 title: "Monge"
 url: /paraiso/monge/
-shop: aparato
+shop: Haushaltsgeräte
 ---

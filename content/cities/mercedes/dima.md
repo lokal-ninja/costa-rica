@@ -1,5 +1,5 @@
 ---
 title: "Dima"
 url: /mercedes/dima/
-shop: general
+shop: Allgemein
 ---

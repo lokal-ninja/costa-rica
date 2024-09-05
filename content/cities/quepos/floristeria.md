@@ -1,5 +1,5 @@
 ---
 title: "Floristería"
 url: /quepos/floristeria/
-shop: floristería
+shop: Blumen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Acero Total"
 url: /san-joaquin/acero-total/
-shop: general
+shop: Allgemein
 ---

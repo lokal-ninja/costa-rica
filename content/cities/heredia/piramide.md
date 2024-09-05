@@ -1,5 +1,5 @@
 ---
 title: "Piramide"
 url: /heredia/piramide/
-shop: ropa
+shop: Kleidung
 ---

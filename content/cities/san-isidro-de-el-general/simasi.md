@@ -1,5 +1,5 @@
 ---
 title: "Simasi"
 url: /san-isidro-de-el-general/simasi/
-shop: ropa
+shop: Kleidung
 ---

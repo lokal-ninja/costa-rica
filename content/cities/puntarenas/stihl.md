@@ -1,5 +1,5 @@
 ---
 title: "Stihl"
 url: /puntarenas/stihl/
-shop: hardware
+shop: Eisenwaren
 ---

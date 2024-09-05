@@ -1,5 +1,5 @@
 ---
 title: "Cerrajería Nacional"
 url: /san-antonio/cerrajeria-nacional/
-shop: cerrajero
+shop: Schlüsseldienst
 ---

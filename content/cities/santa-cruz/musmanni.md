@@ -1,5 +1,5 @@
 ---
 title: "Musmanni"
 url: /santa-cruz/musmanni/
-shop: panadería
+shop: Bäckerei
 ---

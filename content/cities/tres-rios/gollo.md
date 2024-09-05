@@ -1,5 +1,5 @@
 ---
 title: "Gollo"
 url: /tres-rios/gollo/
-shop: aparato
+shop: Haushaltsgeräte
 ---

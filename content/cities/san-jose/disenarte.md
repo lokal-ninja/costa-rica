@@ -1,5 +1,5 @@
 ---
 title: "DiseñArte"
 url: /san-jose/disenarte/
-shop: copyshop
+shop: Kopieren
 ---

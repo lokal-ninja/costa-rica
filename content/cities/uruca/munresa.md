@@ -1,5 +1,5 @@
 ---
 title: "Munresa"
 url: /uruca/munresa/
-shop: coche
+shop: Autohaus
 ---

@@ -1,5 +1,5 @@
 ---
 title: "MaxiPalí"
 url: /aserri/maxipali/
-shop: supermercado
+shop: Supermarkt
 ---

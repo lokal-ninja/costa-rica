@@ -1,5 +1,5 @@
 ---
 title: "Artelec"
 url: /guacimo/artelec/
-shop: bicicleta
+shop: Fahrrad
 ---

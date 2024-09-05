@@ -1,5 +1,5 @@
 ---
 title: "Chocolate"
 url: /cartago/chocolate/
-shop: general
+shop: Allgemein
 ---

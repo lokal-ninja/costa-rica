@@ -1,5 +1,5 @@
 ---
 title: "Krystal"
 url: /san-jose/krystal/
-shop: ropa
+shop: Kleidung
 ---

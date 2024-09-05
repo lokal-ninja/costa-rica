@@ -1,5 +1,5 @@
 ---
 title: "Carnicería"
 url: /limon/carniceria/
-shop: carnicero
+shop: Metzgerei
 ---

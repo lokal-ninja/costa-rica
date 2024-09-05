@@ -1,5 +1,5 @@
 ---
 title: "Pintacasa"
 url: /heredia/pintacasa/
-shop: pintura
+shop: Farben
 ---

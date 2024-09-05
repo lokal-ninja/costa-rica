@@ -1,5 +1,5 @@
 ---
 title: "Optica Mundial"
 url: /san-jose/optica-mundial/
-shop: óptico
+shop: Optiker
 ---

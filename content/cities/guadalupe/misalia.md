@@ -1,5 +1,5 @@
 ---
 title: "Misalia"
 url: /guadalupe/misalia/
-shop: grandes almacenes
+shop: Warenhaus
 ---

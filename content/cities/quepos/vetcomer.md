@@ -1,5 +1,5 @@
 ---
 title: "Vetcomer"
 url: /quepos/vetcomer/
-shop: hardware
+shop: Eisenwaren
 ---

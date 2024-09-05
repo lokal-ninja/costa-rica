@@ -1,5 +1,5 @@
 ---
 title: "La Bruja"
 url: /santa-ana/la-bruja/
-shop: alcohol
+shop: Spirituosen
 ---

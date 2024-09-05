@@ -1,5 +1,5 @@
 ---
 title: "Supermercado Casa"
 url: /el-roble/supermercado-casa/
-shop: supermercado
+shop: Supermarkt
 ---

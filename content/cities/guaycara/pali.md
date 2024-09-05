@@ -1,5 +1,5 @@
 ---
 title: "Palí"
 url: /guaycara/pali/
-shop: supermercado
+shop: Supermarkt
 ---

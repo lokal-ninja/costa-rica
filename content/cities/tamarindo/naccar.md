@@ -1,5 +1,5 @@
 ---
 title: "Naccar"
 url: /tamarindo/naccar/
-shop: tienda
+shop: Modehaus
 ---

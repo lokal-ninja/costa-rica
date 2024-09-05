@@ -1,5 +1,5 @@
 ---
 title: "Compubetel"
 url: /cartago/compubetel/
-shop: ordenador
+shop: Computer
 ---

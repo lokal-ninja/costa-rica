@@ -1,5 +1,5 @@
 ---
 title: "Abastecedor Los Angeles"
 url: /limon/abastecedor-los-angeles/
-shop: comodidad
+shop: Lebensmittel
 ---

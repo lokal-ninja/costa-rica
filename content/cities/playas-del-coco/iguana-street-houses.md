@@ -1,5 +1,5 @@
 ---
 title: "Iguana Street Houses"
 url: /playas-del-coco/iguana-street-houses/
-shop: alquiler
+shop: Mieten
 ---

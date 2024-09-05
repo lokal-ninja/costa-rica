@@ -1,5 +1,5 @@
 ---
 title: "Abastecedor El Mirador"
 url: /san-francisco/abastecedor-el-mirador/
-shop: comodidad
+shop: Lebensmittel
 ---

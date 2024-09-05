@@ -1,5 +1,5 @@
 ---
 title: "Palí"
 url: /cahuita/pali/
-shop: supermercado
+shop: Supermarkt
 ---

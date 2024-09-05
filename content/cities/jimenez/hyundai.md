@@ -1,5 +1,5 @@
 ---
 title: "Hyundai"
 url: /jimenez/hyundai/
-shop: coche
+shop: Autohaus
 ---

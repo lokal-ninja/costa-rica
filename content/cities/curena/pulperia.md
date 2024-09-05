@@ -1,5 +1,5 @@
 ---
 title: "Pulpería"
 url: /curena/pulperia/
-shop: supermercado
+shop: Supermarkt
 ---

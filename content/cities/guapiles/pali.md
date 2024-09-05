@@ -1,5 +1,5 @@
 ---
 title: "Palí"
 url: /guapiles/pali/
-shop: supermercado
+shop: Supermarkt
 ---

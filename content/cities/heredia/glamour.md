@@ -1,5 +1,5 @@
 ---
 title: "Glamour"
 url: /heredia/glamour/
-shop: general
+shop: Allgemein
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rentameliberia"
 url: /liberia/rentameliberia/
-shop: general
+shop: Allgemein
 ---

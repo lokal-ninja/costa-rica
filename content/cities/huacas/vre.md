@@ -1,5 +1,5 @@
 ---
 title: "VRE"
 url: /huacas/vre/
-shop: ropa
+shop: Kleidung
 ---

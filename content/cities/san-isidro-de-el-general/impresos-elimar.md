@@ -1,5 +1,5 @@
 ---
 title: "Impresos Elimar"
 url: /san-isidro-de-el-general/impresos-elimar/
-shop: copyshop
+shop: Kopieren
 ---

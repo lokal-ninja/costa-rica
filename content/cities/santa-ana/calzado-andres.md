@@ -1,5 +1,5 @@
 ---
 title: "Calzado Andres"
 url: /santa-ana/calzado-andres/
-shop: zapatos
+shop: Schuhe
 ---

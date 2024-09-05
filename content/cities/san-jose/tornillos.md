@@ -1,5 +1,5 @@
 ---
 title: "Tornillos"
 url: /san-jose/tornillos/
-shop: hardware
+shop: Eisenwaren
 ---

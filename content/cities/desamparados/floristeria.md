@@ -1,5 +1,5 @@
 ---
 title: "Floristería"
 url: /desamparados/floristeria/
-shop: floristería
+shop: Blumen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gollo"
 url: /los-chiles/gollo/
-shop: aparato
+shop: Haushaltsgeräte
 ---

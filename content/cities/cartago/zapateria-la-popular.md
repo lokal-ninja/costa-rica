@@ -1,5 +1,5 @@
 ---
 title: "Zapatería La Popular"
 url: /cartago/zapateria-la-popular/
-shop: zapatos
+shop: Schuhe
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Barguil"
 url: /san-jose/barguil/
-shop: cama
+shop: Betten
 ---

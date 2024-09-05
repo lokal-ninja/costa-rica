@@ -1,5 +1,5 @@
 ---
 title: "Coach"
 url: /san-jose/coach/
-shop: general
+shop: Allgemein
 ---

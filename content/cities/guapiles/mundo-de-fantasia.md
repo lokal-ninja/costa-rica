@@ -1,5 +1,5 @@
 ---
 title: "Mundo de Fantasia"
 url: /guapiles/mundo-de-fantasia/
-shop: general
+shop: Allgemein
 ---
