@@ -1,5 +1,5 @@
 ---
 title: "Muebles Algarroobo"
 url: /san-juan/muebles-algarroobo/
-shop: Möbel
+shop: muebles
 ---

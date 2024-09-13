@@ -1,5 +1,5 @@
 ---
 title: "Carnicería Guerrero"
 url: /guapiles/carniceria-guerrero/
-shop: Metzgerei
+shop: carnicero
 ---

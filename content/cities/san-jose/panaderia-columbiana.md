@@ -1,5 +1,5 @@
 ---
 title: "Panadería Columbiana"
 url: /san-jose/panaderia-columbiana/
-shop: Bäckerei
+shop: panadería
 ---

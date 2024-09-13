@@ -1,5 +1,5 @@
 ---
 title: "Súper Salón"
 url: /liberia/super-salon/
-shop: Kosmetik
+shop: cosméticos
 ---

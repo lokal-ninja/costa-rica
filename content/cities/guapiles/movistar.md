@@ -1,5 +1,5 @@
 ---
 title: "Movistar"
 url: /guapiles/movistar/
-shop: Handy
+shop: teléfono móvil
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Souvenirs"
 url: /moravia/souvenirs/
-shop: Allgemein
+shop: general
 ---

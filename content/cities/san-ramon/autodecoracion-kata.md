@@ -1,5 +1,5 @@
 ---
 title: "Autodecoración KATA"
 url: /san-ramon/autodecoracion-kata/
-shop: Autoteile
+shop: piezas de automóviles
 ---

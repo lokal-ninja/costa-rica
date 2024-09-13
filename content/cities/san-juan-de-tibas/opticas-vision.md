@@ -1,5 +1,5 @@
 ---
 title: "Opticas Vision"
 url: /san-juan-de-tibas/opticas-vision/
-shop: Optiker
+shop: óptico
 ---

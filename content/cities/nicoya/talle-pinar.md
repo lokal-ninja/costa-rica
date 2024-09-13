@@ -1,5 +1,5 @@
 ---
 title: "Talle Piñar"
 url: /nicoya/talle-pinar/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

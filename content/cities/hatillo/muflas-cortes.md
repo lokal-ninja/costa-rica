@@ -1,5 +1,5 @@
 ---
 title: "Muflas Cortes"
 url: /hatillo/muflas-cortes/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

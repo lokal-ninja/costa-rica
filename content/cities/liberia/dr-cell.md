@@ -1,5 +1,5 @@
 ---
 title: "Dr.Cell"
 url: /liberia/dr-cell/
-shop: Handy
+shop: teléfono móvil
 ---

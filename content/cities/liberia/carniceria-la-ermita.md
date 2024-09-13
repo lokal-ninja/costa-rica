@@ -1,5 +1,5 @@
 ---
 title: "Carnicería La Ermita"
 url: /liberia/carniceria-la-ermita/
-shop: Metzgerei
+shop: carnicero
 ---

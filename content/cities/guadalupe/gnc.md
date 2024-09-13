@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /guadalupe/gnc/
-shop: Nahrungsergänzung
+shop: suplementos nutricionales
 ---

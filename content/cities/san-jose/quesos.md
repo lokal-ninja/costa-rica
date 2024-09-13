@@ -1,5 +1,5 @@
 ---
 title: "Quesos"
 url: /san-jose/quesos/
-shop: Allgemein
+shop: general
 ---

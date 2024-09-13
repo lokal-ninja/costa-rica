@@ -1,5 +1,5 @@
 ---
 title: "ABC"
 url: /san-juan-de-tibas/abc/
-shop: Bücher
+shop: libros
 ---

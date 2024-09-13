@@ -1,5 +1,5 @@
 ---
 title: "RustiPlaza"
 url: /san-jose/rustiplaza/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

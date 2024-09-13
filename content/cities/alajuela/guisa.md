@@ -1,5 +1,5 @@
 ---
 title: "Guisa"
 url: /alajuela/guisa/
-shop: Handy
+shop: teléfono móvil
 ---

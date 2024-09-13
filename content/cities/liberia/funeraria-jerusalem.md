@@ -1,5 +1,5 @@
 ---
 title: "Funeraria Jerusalem"
 url: /liberia/funeraria-jerusalem/
-shop: Bestattungen
+shop: directores de funerarias
 ---

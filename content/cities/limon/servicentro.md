@@ -1,5 +1,5 @@
 ---
 title: "Servicentro"
 url: /limon/servicentro/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

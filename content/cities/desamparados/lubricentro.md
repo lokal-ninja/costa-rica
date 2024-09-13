@@ -1,5 +1,5 @@
 ---
 title: "Lubricentro"
 url: /desamparados/lubricentro/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

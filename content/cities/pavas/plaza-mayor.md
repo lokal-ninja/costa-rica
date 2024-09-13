@@ -1,5 +1,5 @@
 ---
 title: "Plaza Mayor"
 url: /pavas/plaza-mayor/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

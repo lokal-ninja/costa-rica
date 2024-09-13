@@ -1,5 +1,5 @@
 ---
 title: "Repuestos Wimut"
 url: /escazu/repuestos-wimut/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

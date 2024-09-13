@@ -1,5 +1,5 @@
 ---
 title: "Naf Naf"
 url: /heredia/naf-naf/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Isis"
 url: /turrialba/isis/
-shop: Kleidung
+shop: ropa
 ---

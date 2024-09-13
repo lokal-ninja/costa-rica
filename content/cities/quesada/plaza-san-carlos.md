@@ -1,5 +1,5 @@
 ---
 title: "Plaza San Carlos"
 url: /quesada/plaza-san-carlos/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

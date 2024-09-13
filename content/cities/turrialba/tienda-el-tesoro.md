@@ -1,5 +1,5 @@
 ---
 title: "Tienda el Tesoro"
 url: /turrialba/tienda-el-tesoro/
-shop: Kleidung
+shop: ropa
 ---

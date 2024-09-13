@@ -1,5 +1,5 @@
 ---
 title: "Global Skate"
 url: /heredia/global-skate/
-shop: Sport
+shop: deportes
 ---

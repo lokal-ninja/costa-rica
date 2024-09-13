@@ -1,5 +1,5 @@
 ---
 title: "Motorepuestos Mozza"
 url: /desamparados/motorepuestos-mozza/
-shop: Autoteile
+shop: piezas de automóviles
 ---

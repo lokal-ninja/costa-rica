@@ -1,5 +1,5 @@
 ---
 title: "Funeraria La Piedad"
 url: /heredia/funeraria-la-piedad/
-shop: Bestattungen
+shop: directores de funerarias
 ---

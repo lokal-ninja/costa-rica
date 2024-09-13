@@ -1,5 +1,5 @@
 ---
 title: "TecnoWare"
 url: /san-isidro/tecnoware/
-shop: Computer
+shop: ordenador
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fashion Life"
 url: /alajuela/fashion-life/
-shop: Kleidung
+shop: ropa
 ---

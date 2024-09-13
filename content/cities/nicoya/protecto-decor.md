@@ -1,5 +1,5 @@
 ---
 title: "Protecto Decor"
 url: /nicoya/protecto-decor/
-shop: Raumausstattung
+shop: decoración interior
 ---

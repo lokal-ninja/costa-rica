@@ -1,5 +1,5 @@
 ---
 title: "Ropa para Hombre Ágata"
 url: /puntarenas/ropa-para-hombre-agata/
-shop: Kleidung
+shop: ropa
 ---

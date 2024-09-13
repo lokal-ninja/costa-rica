@@ -1,5 +1,5 @@
 ---
 title: "Musmanni"
 url: /liberia/musmanni/
-shop: Lebensmittel
+shop: comodidad
 ---

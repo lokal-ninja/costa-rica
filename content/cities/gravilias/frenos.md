@@ -1,5 +1,5 @@
 ---
 title: "Frenos"
 url: /gravilias/frenos/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Super La Cadena"
 url: /pozos/super-la-cadena/
-shop: Lebensmittel
+shop: comodidad
 ---

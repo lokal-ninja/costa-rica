@@ -1,5 +1,5 @@
 ---
 title: "Joyería La Cueva"
 url: /san-jose/joyeria-la-cueva/
-shop: Schmuck
+shop: joyería
 ---

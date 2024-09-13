@@ -1,5 +1,5 @@
 ---
 title: "Publicidad Impresion Digital"
 url: /cartago/publicidad-impresion-digital/
-shop: Allgemein
+shop: general
 ---

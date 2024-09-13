@@ -1,5 +1,5 @@
 ---
 title: "Protecto"
 url: /desamparados/protecto/
-shop: Eisenwaren
+shop: hardware
 ---

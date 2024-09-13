@@ -1,5 +1,5 @@
 ---
 title: "Minisuper La diferente"
 url: /siquirres/minisuper-la-diferente/
-shop: Supermarkt
+shop: supermercado
 ---

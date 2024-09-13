@@ -1,5 +1,5 @@
 ---
 title: "Buena Nena"
 url: /tamarindo/buena-nena/
-shop: Allgemein
+shop: general
 ---

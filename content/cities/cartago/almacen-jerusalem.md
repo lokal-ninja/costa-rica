@@ -1,5 +1,5 @@
 ---
 title: "Almacen Jerusalem"
 url: /cartago/almacen-jerusalem/
-shop: Warenhaus
+shop: grandes almacenes
 ---

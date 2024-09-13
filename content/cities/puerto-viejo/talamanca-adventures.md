@@ -1,5 +1,5 @@
 ---
 title: "Talamanca Adventures"
 url: /puerto-viejo/talamanca-adventures/
-shop: Reisebüro
+shop: agencia de viajes
 ---

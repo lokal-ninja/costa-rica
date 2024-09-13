@@ -1,5 +1,5 @@
 ---
 title: "Licorera Arauz"
 url: /san-sebastian/licorera-arauz/
-shop: Spirituosen
+shop: alcohol
 ---

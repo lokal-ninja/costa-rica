@@ -1,5 +1,5 @@
 ---
 title: "Empaques y Parabrisas"
 url: /zapote/empaques-y-parabrisas/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

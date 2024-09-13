@@ -1,5 +1,5 @@
 ---
 title: "Nefertiti"
 url: /liberia/nefertiti/
-shop: Kleidung
+shop: ropa
 ---

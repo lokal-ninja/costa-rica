@@ -1,5 +1,5 @@
 ---
 title: "LubriTec"
 url: /anselmo-llorente/lubritec/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

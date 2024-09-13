@@ -1,5 +1,5 @@
 ---
 title: "Panadaría Leandro"
 url: /alajuela/panadaria-leandro/
-shop: Bäckerei
+shop: panadería
 ---

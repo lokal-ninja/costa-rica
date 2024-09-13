@@ -1,5 +1,5 @@
 ---
 title: "La Castellana"
 url: /san-jose/la-castellana/
-shop: Lebensmittel
+shop: comodidad
 ---

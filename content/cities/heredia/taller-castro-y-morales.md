@@ -1,5 +1,5 @@
 ---
 title: "Taller Castro y Morales"
 url: /heredia/taller-castro-y-morales/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Abastecedor la Central Fifa"
 url: /monterrey/abastecedor-la-central-fifa/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Joselito Panadería"
 url: /santa-ana/joselito-panaderia/
-shop: Bäckerei
+shop: panadería
 ---

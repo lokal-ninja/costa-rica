@@ -1,5 +1,5 @@
 ---
 title: "Corella"
 url: /heredia/corella/
-shop: Schreibwaren
+shop: material de oficina
 ---

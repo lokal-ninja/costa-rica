@@ -1,5 +1,5 @@
 ---
 title: "Tienday Boutique Cleveland"
 url: /guapiles/tienday-boutique-cleveland/
-shop: Modehaus
+shop: tienda
 ---

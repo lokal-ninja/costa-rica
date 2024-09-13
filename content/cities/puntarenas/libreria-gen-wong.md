@@ -1,5 +1,5 @@
 ---
 title: "Librería Gen Wong"
 url: /puntarenas/libreria-gen-wong/
-shop: Bücher
+shop: libros
 ---

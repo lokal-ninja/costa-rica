@@ -1,5 +1,5 @@
 ---
 title: "Distribuidora Landy-Nova"
 url: /guadalupe/distribuidora-landy-nova/
-shop: Allgemein
+shop: general
 ---

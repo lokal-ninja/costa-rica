@@ -1,5 +1,5 @@
 ---
 title: "Ricesa"
 url: /santa-ana/ricesa-calle-central/
-shop: Elektronik
+shop: electrónica
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Super Ana"
 url: /pavas/super-ana/
-shop: Lebensmittel
+shop: comodidad
 ---

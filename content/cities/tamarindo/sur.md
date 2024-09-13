@@ -1,5 +1,5 @@
 ---
 title: "SUR"
 url: /tamarindo/sur/
-shop: Farben
+shop: pintura
 ---

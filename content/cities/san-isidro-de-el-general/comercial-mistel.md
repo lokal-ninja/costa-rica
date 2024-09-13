@@ -1,5 +1,5 @@
 ---
 title: "Comercial Mistel"
 url: /san-isidro-de-el-general/comercial-mistel/
-shop: Allgemein
+shop: general
 ---

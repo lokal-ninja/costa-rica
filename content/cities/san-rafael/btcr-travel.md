@@ -1,5 +1,5 @@
 ---
 title: "BTCR Travel"
 url: /san-rafael/btcr-travel/
-shop: Reisebüro
+shop: agencia de viajes
 ---

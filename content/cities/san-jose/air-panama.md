@@ -1,5 +1,5 @@
 ---
 title: "Air Panama"
 url: /san-jose/air-panama/
-shop: Reisebüro
+shop: agencia de viajes
 ---

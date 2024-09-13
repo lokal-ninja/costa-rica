@@ -1,5 +1,5 @@
 ---
 title: "Calzado Los Gemelos"
 url: /san-jose/calzado-los-gemelos/
-shop: Schuhe
+shop: zapatos
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carnes Castillo"
 url: /desamparados/carnes-castillo/
-shop: Metzgerei
+shop: carnicero
 ---

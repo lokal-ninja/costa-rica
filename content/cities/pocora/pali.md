@@ -1,5 +1,5 @@
 ---
 title: "Palí"
 url: /pocora/pali/
-shop: Supermarkt
+shop: supermercado
 ---

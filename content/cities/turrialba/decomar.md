@@ -1,5 +1,5 @@
 ---
 title: "DECOMAR"
 url: /turrialba/decomar/
-shop: Eisenwaren
+shop: hardware
 ---

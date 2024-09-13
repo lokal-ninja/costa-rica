@@ -1,5 +1,5 @@
 ---
 title: "Almacén Ancyfer"
 url: /san-jose/almacen-ancyfer/
-shop: Supermarkt
+shop: supermercado
 ---

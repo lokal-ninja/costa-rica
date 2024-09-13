@@ -1,5 +1,5 @@
 ---
 title: "Lotería"
 url: /liberia/loteria/
-shop: Lotterie
+shop: lotería
 ---

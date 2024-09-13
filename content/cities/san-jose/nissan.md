@@ -1,5 +1,5 @@
 ---
 title: "Nissan"
 url: /san-jose/nissan/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Gollo Tienda"
 url: /mogote/gollo-tienda/
-shop: Warenhaus
+shop: grandes almacenes
 ---

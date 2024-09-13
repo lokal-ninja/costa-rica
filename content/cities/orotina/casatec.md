@@ -1,5 +1,5 @@
 ---
 title: "Casatec"
 url: /orotina/casatec/
-shop: Allgemein
+shop: general
 ---

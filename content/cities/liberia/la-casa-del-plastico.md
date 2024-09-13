@@ -1,5 +1,5 @@
 ---
 title: "La Casa del Plastico"
 url: /liberia/la-casa-del-plastico/
-shop: Allgemein
+shop: general
 ---

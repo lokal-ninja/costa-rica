@@ -1,5 +1,5 @@
 ---
 title: "Electrodomésticos Americanos"
 url: /guachipelin/electrodomesticos-americanos/
-shop: Elektronik
+shop: electrónica
 ---

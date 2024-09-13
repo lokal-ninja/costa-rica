@@ -1,5 +1,5 @@
 ---
 title: "Rodimsa"
 url: /san-jose/rodimsa/
-shop: Allgemein
+shop: general
 ---

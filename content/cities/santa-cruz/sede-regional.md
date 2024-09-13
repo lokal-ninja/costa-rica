@@ -1,5 +1,5 @@
 ---
 title: "Sede Regional"
 url: /santa-cruz/sede-regional/
-shop: Bücher
+shop: libros
 ---

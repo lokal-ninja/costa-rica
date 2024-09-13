@@ -1,5 +1,5 @@
 ---
 title: "Licorera Herrera"
 url: /nicoya/licorera-herrera/
-shop: Spirituosen
+shop: alcohol
 ---

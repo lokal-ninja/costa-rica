@@ -1,5 +1,5 @@
 ---
 title: "Rapi Fibras"
 url: /alajuela/rapi-fibras/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

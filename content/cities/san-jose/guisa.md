@@ -1,5 +1,5 @@
 ---
 title: "GuiSa"
 url: /san-jose/guisa/
-shop: Elektronik
+shop: electrónica
 ---

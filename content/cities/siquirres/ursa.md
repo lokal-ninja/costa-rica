@@ -1,5 +1,5 @@
 ---
 title: "Ursa"
 url: /siquirres/ursa/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

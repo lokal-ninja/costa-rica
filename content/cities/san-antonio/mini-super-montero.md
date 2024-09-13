@@ -1,5 +1,5 @@
 ---
 title: "Mini Super Montero"
 url: /san-antonio/mini-super-montero/
-shop: Lebensmittel
+shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "CR"
 url: /hatillo/cr/
-shop: Allgemein
+shop: general
 ---

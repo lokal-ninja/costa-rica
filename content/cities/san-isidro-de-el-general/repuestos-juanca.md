@@ -1,5 +1,5 @@
 ---
 title: "Repuestos Juanca"
 url: /san-isidro-de-el-general/repuestos-juanca/
-shop: Autoteile
+shop: piezas de automóviles
 ---

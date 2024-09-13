@@ -1,5 +1,5 @@
 ---
 title: "Reparacion"
 url: /filadelfia/reparacion/
-shop: Allgemein
+shop: general
 ---

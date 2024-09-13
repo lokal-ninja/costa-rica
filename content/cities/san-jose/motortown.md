@@ -1,5 +1,5 @@
 ---
 title: "MotorTown"
 url: /san-jose/motortown/
-shop: Autoteile
+shop: piezas de automóviles
 ---

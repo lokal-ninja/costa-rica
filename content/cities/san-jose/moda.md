@@ -1,5 +1,5 @@
 ---
 title: "Moda"
 url: /san-jose/moda/
-shop: Allgemein
+shop: general
 ---

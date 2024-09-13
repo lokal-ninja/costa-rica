@@ -1,5 +1,5 @@
 ---
 title: "Honda"
 url: /uruca/honda/
-shop: Autohaus
+shop: coche
 ---

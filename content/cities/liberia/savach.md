@@ -1,5 +1,5 @@
 ---
 title: "Savach"
 url: /liberia/savach/
-shop: Kleidung
+shop: ropa
 ---

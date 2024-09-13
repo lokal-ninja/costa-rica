@@ -1,5 +1,5 @@
 ---
 title: "Autos Los Amigos"
 url: /san-joaquin/autos-los-amigos/
-shop: Autohaus
+shop: coche
 ---

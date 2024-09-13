@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /ciudad-quesada/walmart/
-shop: Warenhaus
+shop: grandes almacenes
 ---

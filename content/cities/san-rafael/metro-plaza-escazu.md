@@ -1,5 +1,5 @@
 ---
 title: "Metro Plaza Escazú"
 url: /san-rafael/metro-plaza-escazu/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Plaza Miogar"
 url: /alajuela/plaza-miogar/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

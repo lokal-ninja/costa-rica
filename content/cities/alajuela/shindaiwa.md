@@ -1,5 +1,5 @@
 ---
 title: "Shindaiwa"
 url: /alajuela/shindaiwa/
-shop: Allgemein
+shop: general
 ---

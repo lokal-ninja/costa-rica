@@ -1,5 +1,5 @@
 ---
 title: "La Favorita"
 url: /cartago/la-favorita/
-shop: Kleidung
+shop: ropa
 ---

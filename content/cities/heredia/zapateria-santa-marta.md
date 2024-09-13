@@ -1,5 +1,5 @@
 ---
 title: "Zapatería Santa Marta"
 url: /heredia/zapateria-santa-marta/
-shop: Schuhe
+shop: zapatos
 ---

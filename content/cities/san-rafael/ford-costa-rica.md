@@ -1,5 +1,5 @@
 ---
 title: "Ford Costa Rica"
 url: /san-rafael/ford-costa-rica/
-shop: Autohaus
+shop: coche
 ---

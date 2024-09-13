@@ -1,5 +1,5 @@
 ---
 title: "Bungaloo Boutique"
 url: /alajuela/bungaloo-boutique/
-shop: Kleidung
+shop: ropa
 ---

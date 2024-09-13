@@ -1,5 +1,5 @@
 ---
 title: "Licorera San Joaquín"
 url: /san-joaquin/licorera-san-joaquin/
-shop: Spirituosen
+shop: alcohol
 ---

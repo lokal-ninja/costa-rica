@@ -1,5 +1,5 @@
 ---
 title: "Samuelito"
 url: /cartago/samuelito/
-shop: Bäckerei
+shop: panadería
 ---

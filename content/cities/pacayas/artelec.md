@@ -1,5 +1,5 @@
 ---
 title: "Artelec"
 url: /pacayas/artelec/
-shop: Elektronik
+shop: electrónica
 ---

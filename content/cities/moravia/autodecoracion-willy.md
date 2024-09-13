@@ -1,5 +1,5 @@
 ---
 title: "Autodecoracion Willy"
 url: /moravia/autodecoracion-willy/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

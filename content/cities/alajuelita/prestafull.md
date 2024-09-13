@@ -1,5 +1,5 @@
 ---
 title: "Prestafull"
 url: /alajuelita/prestafull/
-shop: Leiher
+shop: prestamista
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lucicentro Jireh"
 url: /desamparados/lucicentro-jireh/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

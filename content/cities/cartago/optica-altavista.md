@@ -1,5 +1,5 @@
 ---
 title: "Optica Altavista"
 url: /cartago/optica-altavista/
-shop: Optiker
+shop: óptico
 ---

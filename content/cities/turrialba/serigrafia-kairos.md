@@ -1,5 +1,5 @@
 ---
 title: "Serigrafia Kairos"
 url: /turrialba/serigrafia-kairos/
-shop: Kleidung
+shop: ropa
 ---

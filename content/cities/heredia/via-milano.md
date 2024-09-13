@@ -1,5 +1,5 @@
 ---
 title: "Vía Milano"
 url: /heredia/via-milano/
-shop: Kleidung
+shop: ropa
 ---

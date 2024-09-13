@@ -1,5 +1,5 @@
 ---
 title: "Sasha Boutique"
 url: /san-antonio/sasha-boutique/
-shop: Modehaus
+shop: tienda
 ---

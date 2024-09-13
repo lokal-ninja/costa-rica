@@ -1,5 +1,5 @@
 ---
 title: "Audi"
 url: /san-juan/audi/
-shop: Autohaus
+shop: coche
 ---

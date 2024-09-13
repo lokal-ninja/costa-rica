@@ -1,5 +1,5 @@
 ---
 title: "La Guacamaya"
 url: /liberia/la-guacamaya/
-shop: Autoteile
+shop: piezas de automóviles
 ---

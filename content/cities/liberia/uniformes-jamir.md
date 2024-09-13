@@ -1,5 +1,5 @@
 ---
 title: "Uniformes Jamir"
 url: /liberia/uniformes-jamir/
-shop: Kleidung
+shop: ropa
 ---

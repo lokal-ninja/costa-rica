@@ -1,5 +1,5 @@
 ---
 title: "Panadería Jari"
 url: /cartago/panaderia-jari/
-shop: Bäckerei
+shop: panadería
 ---

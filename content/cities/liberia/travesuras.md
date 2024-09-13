@@ -1,5 +1,5 @@
 ---
 title: "Travesuras"
 url: /liberia/travesuras/
-shop: Babysachen
+shop: artículos para bebés
 ---

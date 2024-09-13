@@ -1,5 +1,5 @@
 ---
 title: "Servirepuestos JG (JG Parts) Sucursal San José"
 url: /san-jose/servirepuestos-jg-jg-parts-sucursal-san-jose/
-shop: Autoteile
+shop: piezas de automóviles
 ---

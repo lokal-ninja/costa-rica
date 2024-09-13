@@ -1,5 +1,5 @@
 ---
 title: "Repuestoes"
 url: /esparza/repuestoes/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

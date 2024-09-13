@@ -1,5 +1,5 @@
 ---
 title: "Mega Súper"
 url: /la-fortuna/mega-super/
-shop: Supermarkt
+shop: supermercado
 ---

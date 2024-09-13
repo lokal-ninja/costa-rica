@@ -1,5 +1,5 @@
 ---
 title: "Taller Electromeanica"
 url: /huacas/taller-electromeanica/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

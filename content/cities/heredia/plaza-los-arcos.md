@@ -1,5 +1,5 @@
 ---
 title: "Plaza Los Arcos"
 url: /heredia/plaza-los-arcos/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

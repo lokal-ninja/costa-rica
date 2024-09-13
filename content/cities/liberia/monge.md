@@ -1,5 +1,5 @@
 ---
 title: "Monge"
 url: /liberia/monge/
-shop: Warenhaus
+shop: grandes almacenes
 ---

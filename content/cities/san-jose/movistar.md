@@ -1,5 +1,5 @@
 ---
 title: "Movistar"
 url: /san-jose/movistar/
-shop: Handy
+shop: teléfono móvil
 ---

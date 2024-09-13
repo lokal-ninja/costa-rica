@@ -1,5 +1,5 @@
 ---
 title: "Abastecedor AYB"
 url: /esparza/abastecedor-ayb/
-shop: Lebensmittel
+shop: comodidad
 ---

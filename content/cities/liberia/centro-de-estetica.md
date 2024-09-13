@@ -1,5 +1,5 @@
 ---
 title: "Centro de Estetica"
 url: /liberia/centro-de-estetica/
-shop: Kosmetik
+shop: cosméticos
 ---

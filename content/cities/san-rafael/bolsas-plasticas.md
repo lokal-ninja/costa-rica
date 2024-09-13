@@ -1,5 +1,5 @@
 ---
 title: "Bolsas Plasticas"
 url: /san-rafael/bolsas-plasticas/
-shop: Allgemein
+shop: general
 ---

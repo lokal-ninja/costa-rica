@@ -1,5 +1,5 @@
 ---
 title: "Metrokilo"
 url: /guapiles/metrokilo/
-shop: Textil
+shop: tela
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Centro de Carnes"
 url: /desamparados/centro-de-carnes/
-shop: Metzgerei
+shop: carnicero
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Chanty"
 url: /heredia/chanty/
-shop: Kramladen
+shop: tienda de variedades
 ---

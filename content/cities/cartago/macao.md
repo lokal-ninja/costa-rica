@@ -1,5 +1,5 @@
 ---
 title: "Macao"
 url: /cartago/macao/
-shop: Allgemein
+shop: general
 ---

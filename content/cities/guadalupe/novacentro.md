@@ -1,5 +1,5 @@
 ---
 title: "Novacentro"
 url: /guadalupe/novacentro/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Componentes Electromecánicos"
 url: /san-jose/componentes-electromecanicos/
-shop: Elektronik
+shop: electrónica
 ---

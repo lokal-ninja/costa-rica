@@ -1,5 +1,5 @@
 ---
 title: "Importadora Monge Quepos"
 url: /quepos/importadora-monge-quepos/
-shop: Elektronik
+shop: electrónica
 ---

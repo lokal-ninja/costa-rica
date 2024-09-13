@@ -1,5 +1,5 @@
 ---
 title: "Centro Comercial Monte General"
 url: /daniel-flores/centro-comercial-monte-general/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

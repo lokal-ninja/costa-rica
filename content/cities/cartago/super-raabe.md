@@ -1,5 +1,5 @@
 ---
 title: "Super Raabe"
 url: /cartago/super-raabe/
-shop: Supermarkt
+shop: supermercado
 ---

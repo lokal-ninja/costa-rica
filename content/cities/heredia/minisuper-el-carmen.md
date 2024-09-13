@@ -1,5 +1,5 @@
 ---
 title: "Minisuper El Carmen"
 url: /heredia/minisuper-el-carmen/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Haga"
 url: /san-jose/haga/
-shop: Kleidung
+shop: ropa
 ---

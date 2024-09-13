@@ -1,5 +1,5 @@
 ---
 title: "Funeraria"
 url: /liberia/funeraria/
-shop: Bestattungen
+shop: directores de funerarias
 ---

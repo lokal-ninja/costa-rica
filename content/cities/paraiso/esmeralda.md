@@ -1,5 +1,5 @@
 ---
 title: "Esmeralda"
 url: /paraiso/esmeralda/
-shop: Schmuck
+shop: joyería
 ---

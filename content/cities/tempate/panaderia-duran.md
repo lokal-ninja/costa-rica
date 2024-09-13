@@ -1,5 +1,5 @@
 ---
 title: "Panadería Durán"
 url: /tempate/panaderia-duran/
-shop: Bäckerei
+shop: panadería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Super Huanca"
 url: /san-jose/super-huanca/
-shop: Lebensmittel
+shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Super El Castillo"
 url: /puntarenas/super-el-castillo/
-shop: Allgemein
+shop: general
 ---

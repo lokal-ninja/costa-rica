@@ -1,5 +1,5 @@
 ---
 title: "Optometría"
 url: /santa-cruz/optometria/
-shop: Optiker
+shop: óptico
 ---

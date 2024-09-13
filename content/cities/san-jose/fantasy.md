@@ -1,5 +1,5 @@
 ---
 title: "Fantasy"
 url: /san-jose/fantasy/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Freedom El Coco"
 url: /sardinal/freedom-el-coco/
-shop: Motorrad
+shop: motocicleta
 ---

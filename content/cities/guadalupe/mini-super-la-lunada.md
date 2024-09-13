@@ -1,5 +1,5 @@
 ---
 title: "Mini Súper La Lunada"
 url: /guadalupe/mini-super-la-lunada/
-shop: Lebensmittel
+shop: comodidad
 ---

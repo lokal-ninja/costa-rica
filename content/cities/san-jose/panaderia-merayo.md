@@ -1,5 +1,5 @@
 ---
 title: "Panadería Merayo"
 url: /san-jose/panaderia-merayo/
-shop: Bäckerei
+shop: panadería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Autodecoración Rally"
 url: /curridabat/autodecoracion-rally/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Motul"
 url: /san-jose/motul/
-shop: Autoteile
+shop: piezas de automóviles
 ---

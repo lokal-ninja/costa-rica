@@ -1,5 +1,5 @@
 ---
 title: "Paca Loca"
 url: /desamparados/paca-loca/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pequeño Mundo"
 url: /san-francisco/pequeno-mundo/
-shop: Warenhaus
+shop: grandes almacenes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bombis"
 url: /esparza/bombis/
-shop: Spirituosen
+shop: alcohol
 ---

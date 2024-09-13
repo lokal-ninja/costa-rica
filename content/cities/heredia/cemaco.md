@@ -1,5 +1,5 @@
 ---
 title: "Cemaco"
 url: /heredia/cemaco/
-shop: Warenhaus
+shop: grandes almacenes
 ---

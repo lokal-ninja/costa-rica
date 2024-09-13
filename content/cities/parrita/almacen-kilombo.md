@@ -1,5 +1,5 @@
 ---
 title: "Almacen Kilombo"
 url: /parrita/almacen-kilombo/
-shop: Supermarkt
+shop: supermercado
 ---

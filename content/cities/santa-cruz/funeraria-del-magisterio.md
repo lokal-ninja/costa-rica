@@ -1,5 +1,5 @@
 ---
 title: "Funeraria del Magisterio"
 url: /santa-cruz/funeraria-del-magisterio/
-shop: Bestattungen
+shop: directores de funerarias
 ---

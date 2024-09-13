@@ -1,5 +1,5 @@
 ---
 title: "Gollo"
 url: /nicoya/gollo/
-shop: Warenhaus
+shop: grandes almacenes
 ---

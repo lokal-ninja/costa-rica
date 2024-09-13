@@ -1,5 +1,5 @@
 ---
 title: "Ticabus"
 url: /san-jose/ticabus/
-shop: Tickets
+shop: entradas
 ---

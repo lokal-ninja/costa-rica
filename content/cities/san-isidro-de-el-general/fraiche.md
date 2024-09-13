@@ -1,5 +1,5 @@
 ---
 title: "Fraiche"
 url: /san-isidro-de-el-general/fraiche/
-shop: Kosmetik
+shop: cosméticos
 ---

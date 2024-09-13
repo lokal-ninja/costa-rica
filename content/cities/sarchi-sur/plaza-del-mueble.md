@@ -1,5 +1,5 @@
 ---
 title: "Plaza Del Mueble"
 url: /sarchi-sur/plaza-del-mueble/
-shop: Möbel
+shop: muebles
 ---

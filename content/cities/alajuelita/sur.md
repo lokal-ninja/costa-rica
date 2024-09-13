@@ -1,5 +1,5 @@
 ---
 title: "SUR"
 url: /alajuelita/sur/
-shop: Farben
+shop: pintura
 ---

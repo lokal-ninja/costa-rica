@@ -1,5 +1,5 @@
 ---
 title: "Pibe's Panadería"
 url: /turrialba/pibes-panaderia/
-shop: Bäckerei
+shop: panadería
 ---

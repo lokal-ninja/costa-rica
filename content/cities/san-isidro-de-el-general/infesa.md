@@ -1,5 +1,5 @@
 ---
 title: "Infesa"
 url: /san-isidro-de-el-general/infesa/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

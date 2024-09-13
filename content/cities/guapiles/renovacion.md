@@ -1,5 +1,5 @@
 ---
 title: "Renovación"
 url: /guapiles/renovacion/
-shop: Kleidung
+shop: ropa
 ---

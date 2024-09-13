@@ -1,5 +1,5 @@
 ---
 title: "Best Brands"
 url: /san-jose/best-brands/
-shop: Warenhaus
+shop: grandes almacenes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cheri Boutique"
 url: /puntarenas/cheri-boutique/
-shop: Kleidung
+shop: ropa
 ---

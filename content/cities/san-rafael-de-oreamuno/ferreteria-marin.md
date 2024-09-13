@@ -1,5 +1,5 @@
 ---
 title: "Ferretería Marín"
 url: /san-rafael-de-oreamuno/ferreteria-marin/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

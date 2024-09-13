@@ -1,5 +1,5 @@
 ---
 title: "Estilos Maternity"
 url: /catedral/estilos-maternity/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cleveland"
 url: /heredia/cleveland/
-shop: Kleidung
+shop: ropa
 ---

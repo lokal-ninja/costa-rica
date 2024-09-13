@@ -1,5 +1,5 @@
 ---
 title: "Ferretería Solís"
 url: /escazu/ferreteria-solis/
-shop: Eisenwaren
+shop: hardware
 ---

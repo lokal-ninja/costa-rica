@@ -1,5 +1,5 @@
 ---
 title: "Gollo"
 url: /batan/gollo/
-shop: Elektronik
+shop: electrónica
 ---

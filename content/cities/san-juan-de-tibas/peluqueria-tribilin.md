@@ -1,5 +1,5 @@
 ---
 title: "Peluqueria Tribilin"
 url: /san-juan-de-tibas/peluqueria-tribilin/
-shop: Friseur
+shop: peluquería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tienda Don John"
 url: /siquirres/tienda-don-john/
-shop: Kleidung
+shop: ropa
 ---

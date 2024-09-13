@@ -1,5 +1,5 @@
 ---
 title: "Musmami"
 url: /pavas/musmami/
-shop: Bäckerei
+shop: panadería
 ---

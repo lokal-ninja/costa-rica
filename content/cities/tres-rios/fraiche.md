@@ -1,5 +1,5 @@
 ---
 title: "Fraiche"
 url: /tres-rios/fraiche/
-shop: Parfümerie
+shop: perfumería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Súper Acosta"
 url: /san-ignacio/super-acosta/
-shop: Supermarkt
+shop: supermercado
 ---

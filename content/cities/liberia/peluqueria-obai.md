@@ -1,5 +1,5 @@
 ---
 title: "Peluqueria Obai"
 url: /liberia/peluqueria-obai/
-shop: Friseur
+shop: peluquería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Repuestos Sabrina"
 url: /atenas/repuestos-sabrina/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

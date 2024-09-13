@@ -1,5 +1,5 @@
 ---
 title: "Fraiche"
 url: /heredia/fraiche/
-shop: Parfümerie
+shop: perfumería
 ---

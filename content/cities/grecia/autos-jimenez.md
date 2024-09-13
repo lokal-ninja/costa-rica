@@ -1,5 +1,5 @@
 ---
 title: "Autos Jiménez"
 url: /grecia/autos-jimenez/
-shop: Autohaus
+shop: coche
 ---

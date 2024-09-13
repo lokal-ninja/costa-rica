@@ -1,5 +1,5 @@
 ---
 title: "Tienda Outlet"
 url: /jesus/tienda-outlet/
-shop: Allgemein
+shop: general
 ---

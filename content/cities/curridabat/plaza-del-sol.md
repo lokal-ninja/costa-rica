@@ -1,5 +1,5 @@
 ---
 title: "Plaza del Sol"
 url: /curridabat/plaza-del-sol/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hot Toys"
 url: /sabana-sur/hot-toys/
-shop: Erotik
+shop: erótico
 ---

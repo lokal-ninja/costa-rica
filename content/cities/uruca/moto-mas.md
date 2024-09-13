@@ -1,5 +1,5 @@
 ---
 title: "Moto Mas"
 url: /uruca/moto-mas/
-shop: Motorrad
+shop: motocicleta
 ---

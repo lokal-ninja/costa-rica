@@ -1,5 +1,5 @@
 ---
 title: "Peniel"
 url: /limon/peniel/
-shop: Allgemein
+shop: general
 ---

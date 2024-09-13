@@ -1,5 +1,5 @@
 ---
 title: "Jetbox"
 url: /alajuela/jetbox/
-shop: Außenstelle
+shop: puesto de avanzada
 ---

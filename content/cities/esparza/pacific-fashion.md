@@ -1,5 +1,5 @@
 ---
 title: "Pacific Fashion"
 url: /esparza/pacific-fashion/
-shop: Kleidung
+shop: ropa
 ---

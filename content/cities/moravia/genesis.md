@@ -1,5 +1,5 @@
 ---
 title: "Genesis"
 url: /moravia/genesis/
-shop: Autohaus
+shop: coche
 ---

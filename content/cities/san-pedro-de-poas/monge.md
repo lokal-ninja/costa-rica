@@ -1,5 +1,5 @@
 ---
 title: "Monge"
 url: /san-pedro-de-poas/monge/
-shop: Haushaltsgeräte
+shop: aparato
 ---

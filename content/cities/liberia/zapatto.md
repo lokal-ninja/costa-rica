@@ -1,5 +1,5 @@
 ---
 title: "Zapatto"
 url: /liberia/zapatto/
-shop: Schuhe
+shop: zapatos
 ---

@@ -1,5 +1,5 @@
 ---
 title: "ADOC"
 url: /heredia/adoc/
-shop: Schmuck
+shop: joyería
 ---

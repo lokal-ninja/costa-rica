@@ -1,5 +1,5 @@
 ---
 title: "Súper El Cruce"
 url: /venado/super-el-cruce/
-shop: Supermarkt
+shop: supermercado
 ---

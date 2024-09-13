@@ -1,5 +1,5 @@
 ---
 title: "Lavandería Dry Cleaning"
 url: /san-jose/lavanderia-dry-cleaning/
-shop: Wäscherei
+shop: lavandería
 ---

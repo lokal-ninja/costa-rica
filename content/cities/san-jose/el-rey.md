@@ -1,5 +1,5 @@
 ---
 title: "El Rey"
 url: /san-jose/el-rey/
-shop: Warenhaus
+shop: grandes almacenes
 ---

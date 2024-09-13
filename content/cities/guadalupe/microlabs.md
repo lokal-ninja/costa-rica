@@ -1,5 +1,5 @@
 ---
 title: "Microlabs"
 url: /guadalupe/microlabs/
-shop: Nahrungsergänzung
+shop: suplementos nutricionales
 ---

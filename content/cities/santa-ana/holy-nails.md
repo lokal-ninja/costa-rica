@@ -1,5 +1,5 @@
 ---
 title: "Holy Nails"
 url: /santa-ana/holy-nails/
-shop: Kosmetik
+shop: cosméticos
 ---

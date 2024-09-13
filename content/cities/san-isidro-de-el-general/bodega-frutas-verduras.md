@@ -1,5 +1,5 @@
 ---
 title: "Bodega Frutas-Verduras"
 url: /san-isidro-de-el-general/bodega-frutas-verduras/
-shop: Gemüse & Obst
+shop: frutería
 ---

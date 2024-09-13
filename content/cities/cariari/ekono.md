@@ -1,5 +1,5 @@
 ---
 title: "Ekono"
 url: /cariari/ekono/
-shop: Kleidung
+shop: ropa
 ---

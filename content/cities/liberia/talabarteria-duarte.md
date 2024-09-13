@@ -1,5 +1,5 @@
 ---
 title: "Talabartería Duarte"
 url: /liberia/talabarteria-duarte/
-shop: Allgemein
+shop: general
 ---

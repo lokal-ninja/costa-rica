@@ -1,5 +1,5 @@
 ---
 title: "K'ites"
 url: /cartago/kites/
-shop: Allgemein
+shop: general
 ---

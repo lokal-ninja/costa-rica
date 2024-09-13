@@ -1,5 +1,5 @@
 ---
 title: "Epa"
 url: /escazu/epa/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

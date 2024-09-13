@@ -1,5 +1,5 @@
 ---
 title: "Pitzone"
 url: /san-jose/pitzone/
-shop: Autoteile
+shop: piezas de automóviles
 ---

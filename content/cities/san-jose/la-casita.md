@@ -1,5 +1,5 @@
 ---
 title: "La Casita"
 url: /san-jose/la-casita/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Importadora Serna"
 url: /alajuela/importadora-serna/
-shop: Kleidung
+shop: ropa
 ---

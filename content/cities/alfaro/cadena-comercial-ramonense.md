@@ -1,5 +1,5 @@
 ---
 title: "Cadena Comercial Ramonense"
 url: /alfaro/cadena-comercial-ramonense/
-shop: Lebensmittel
+shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Para Su Moto"
 url: /san-jose/para-su-moto/
-shop: Autoteile
+shop: piezas de automóviles
 ---

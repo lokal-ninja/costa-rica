@@ -1,5 +1,5 @@
 ---
 title: "Súper Los Almendros"
 url: /desamparados/super-los-almendros/
-shop: Lebensmittel
+shop: comodidad
 ---

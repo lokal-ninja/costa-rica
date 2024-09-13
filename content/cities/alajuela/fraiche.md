@@ -1,5 +1,5 @@
 ---
 title: "Fraiche"
 url: /alajuela/fraiche/
-shop: Parfümerie
+shop: perfumería
 ---

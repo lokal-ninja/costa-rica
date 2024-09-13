@@ -1,5 +1,5 @@
 ---
 title: "Ópticas Visión"
 url: /alajuela/opticas-vision/
-shop: Optiker
+shop: óptico
 ---

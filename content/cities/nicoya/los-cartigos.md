@@ -1,5 +1,5 @@
 ---
 title: "Los Cartigos"
 url: /nicoya/los-cartigos/
-shop: Supermarkt
+shop: supermercado
 ---

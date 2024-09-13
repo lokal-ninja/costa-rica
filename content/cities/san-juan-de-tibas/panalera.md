@@ -1,5 +1,5 @@
 ---
 title: "Pañalera"
 url: /san-juan-de-tibas/panalera/
-shop: Lebensmittel
+shop: comodidad
 ---

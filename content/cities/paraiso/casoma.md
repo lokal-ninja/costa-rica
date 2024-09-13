@@ -1,5 +1,5 @@
 ---
 title: "Casoma"
 url: /paraiso/casoma/
-shop: Allgemein
+shop: general
 ---

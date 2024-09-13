@@ -1,5 +1,5 @@
 ---
 title: "Pindetec"
 url: /canas/pindetec/
-shop: Farben
+shop: pintura
 ---

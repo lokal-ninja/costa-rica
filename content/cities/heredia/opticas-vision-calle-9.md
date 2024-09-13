@@ -1,5 +1,5 @@
 ---
 title: "Ópticas Visión"
 url: /heredia/opticas-vision-calle-9/
-shop: Optiker
+shop: óptico
 ---

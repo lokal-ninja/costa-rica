@@ -1,5 +1,5 @@
 ---
 title: "Megasuper"
 url: /upala/megasuper/
-shop: Supermarkt
+shop: supermercado
 ---

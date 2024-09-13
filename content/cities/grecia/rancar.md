@@ -1,5 +1,5 @@
 ---
 title: "Rancar"
 url: /grecia/rancar/
-shop: Autohaus
+shop: coche
 ---

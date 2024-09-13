@@ -1,5 +1,5 @@
 ---
 title: "Mecanica General"
 url: /san-francisco/mecanica-general/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

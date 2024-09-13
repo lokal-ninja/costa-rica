@@ -1,5 +1,5 @@
 ---
 title: "Mundo Mágico"
 url: /san-isidro-de-el-general/mundo-magico/
-shop: Warenhaus
+shop: grandes almacenes
 ---

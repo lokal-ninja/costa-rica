@@ -1,5 +1,5 @@
 ---
 title: "Taljim"
 url: /guadalupe/taljim/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

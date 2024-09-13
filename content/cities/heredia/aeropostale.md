@@ -1,5 +1,5 @@
 ---
 title: "Aeropostale"
 url: /heredia/aeropostale/
-shop: Kleidung
+shop: ropa
 ---

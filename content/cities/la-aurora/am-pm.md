@@ -1,5 +1,5 @@
 ---
 title: "AM PM"
 url: /la-aurora/am-pm/
-shop: Lebensmittel
+shop: comodidad
 ---

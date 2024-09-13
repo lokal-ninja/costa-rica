@@ -1,5 +1,5 @@
 ---
 title: "De Gustibus Panaderia"
 url: /puerto-viejo/de-gustibus-panaderia/
-shop: Bäckerei
+shop: panadería
 ---

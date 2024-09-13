@@ -1,5 +1,5 @@
 ---
 title: "bestbrands"
 url: /san-jose/bestbrands/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Decavisa"
 url: /guapiles/decavisa/
-shop: Kleidung
+shop: ropa
 ---

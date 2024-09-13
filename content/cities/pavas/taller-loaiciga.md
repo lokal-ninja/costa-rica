@@ -1,5 +1,5 @@
 ---
 title: "Taller Loaiciga"
 url: /pavas/taller-loaiciga/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

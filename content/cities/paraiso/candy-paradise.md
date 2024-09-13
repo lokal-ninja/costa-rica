@@ -1,5 +1,5 @@
 ---
 title: "Candy Paradise"
 url: /paraiso/candy-paradise/
-shop: Allgemein
+shop: general
 ---

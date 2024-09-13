@@ -1,5 +1,5 @@
 ---
 title: "Bazar Alicia"
 url: /heredia/bazar-alicia/
-shop: Warenhaus
+shop: grandes almacenes
 ---

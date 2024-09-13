@@ -1,5 +1,5 @@
 ---
 title: "Plaza San Pedro"
 url: /san-pedro/plaza-san-pedro/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

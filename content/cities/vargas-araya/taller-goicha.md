@@ -1,5 +1,5 @@
 ---
 title: "Taller Goicha"
 url: /vargas-araya/taller-goicha/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

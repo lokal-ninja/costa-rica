@@ -1,5 +1,5 @@
 ---
 title: "Sufro Tattoo"
 url: /guadalupe/sufro-tattoo/
-shop: Tattoo
+shop: tatuaje
 ---

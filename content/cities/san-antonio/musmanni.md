@@ -1,5 +1,5 @@
 ---
 title: "Musmanni"
 url: /san-antonio/musmanni/
-shop: Bäckerei
+shop: panadería
 ---

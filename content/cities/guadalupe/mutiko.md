@@ -1,5 +1,5 @@
 ---
 title: "Mutiko"
 url: /guadalupe/mutiko/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Italpan"
 url: /guadalupe/italpan/
-shop: Bäckerei
+shop: panadería
 ---

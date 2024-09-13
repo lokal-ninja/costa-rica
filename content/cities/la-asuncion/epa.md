@@ -1,5 +1,5 @@
 ---
 title: "Epa"
 url: /la-asuncion/epa/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

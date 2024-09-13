@@ -1,5 +1,5 @@
 ---
 title: "Mini Súper Leticia"
 url: /chomes/mini-super-leticia/
-shop: Supermarkt
+shop: supermercado
 ---

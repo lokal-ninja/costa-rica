@@ -1,5 +1,5 @@
 ---
 title: "Gollo"
 url: /cervantes/gollo/
-shop: Elektronik
+shop: electrónica
 ---

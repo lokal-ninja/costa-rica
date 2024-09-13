@@ -1,5 +1,5 @@
 ---
 title: "Peri"
 url: /pavas/peri/
-shop: Supermarkt
+shop: supermercado
 ---

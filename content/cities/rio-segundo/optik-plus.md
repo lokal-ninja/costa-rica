@@ -1,5 +1,5 @@
 ---
 title: "Optik Plus"
 url: /rio-segundo/optik-plus/
-shop: Optiker
+shop: óptico
 ---

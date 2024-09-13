@@ -1,5 +1,5 @@
 ---
 title: "Deli Mart"
 url: /san-jose/deli-mart/
-shop: Feinkost
+shop: charcutería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fraiche"
 url: /puntarenas/fraiche/
-shop: Parfümerie
+shop: perfumería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Plaza Guayabo"
 url: /rio-segundo/plaza-guayabo/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

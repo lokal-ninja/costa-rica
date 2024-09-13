@@ -1,5 +1,5 @@
 ---
 title: "Lanco"
 url: /guadalupe/lanco/
-shop: Farben
+shop: pintura
 ---

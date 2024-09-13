@@ -1,5 +1,5 @@
 ---
 title: "Cocoy's Footwear"
 url: /canas/cocoys-footwear/
-shop: Schuhe
+shop: zapatos
 ---

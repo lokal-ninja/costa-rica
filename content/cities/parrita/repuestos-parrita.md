@@ -1,5 +1,5 @@
 ---
 title: "Repuestos Parrita"
 url: /parrita/repuestos-parrita/
-shop: Autoteile
+shop: piezas de automóviles
 ---

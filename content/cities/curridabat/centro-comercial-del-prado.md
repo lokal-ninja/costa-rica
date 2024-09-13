@@ -1,5 +1,5 @@
 ---
 title: "Centro Comercial Del Prado"
 url: /curridabat/centro-comercial-del-prado/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Opticas Jiménez"
 url: /heredia/opticas-jimenez-avenida-2/
-shop: Optiker
+shop: óptico
 ---

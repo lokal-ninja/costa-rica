@@ -1,5 +1,5 @@
 ---
 title: "Tienda Ocasiones"
 url: /alajuelita/tienda-ocasiones/
-shop: Allgemein
+shop: general
 ---

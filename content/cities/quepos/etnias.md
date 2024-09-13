@@ -1,5 +1,5 @@
 ---
 title: "Etnias"
 url: /quepos/etnias/
-shop: Friseur
+shop: peluquería
 ---

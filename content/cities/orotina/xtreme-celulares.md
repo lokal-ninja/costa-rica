@@ -1,5 +1,5 @@
 ---
 title: "Xtreme Celulares"
 url: /orotina/xtreme-celulares/
-shop: Handy
+shop: teléfono móvil
 ---

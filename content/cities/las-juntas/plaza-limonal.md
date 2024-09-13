@@ -1,5 +1,5 @@
 ---
 title: "Plaza Limonal"
 url: /las-juntas/plaza-limonal/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

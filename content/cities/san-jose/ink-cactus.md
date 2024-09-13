@@ -1,5 +1,5 @@
 ---
 title: "Ink Cactus"
 url: /san-jose/ink-cactus/
-shop: Kleidung
+shop: ropa
 ---

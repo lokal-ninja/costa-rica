@@ -1,5 +1,5 @@
 ---
 title: "Distrito Uno"
 url: /guadalupe/distrito-uno/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

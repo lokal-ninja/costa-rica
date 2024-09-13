@@ -1,5 +1,5 @@
 ---
 title: "Labores de Hogar"
 url: /pavas/labores-de-hogar/
-shop: Allgemein
+shop: general
 ---

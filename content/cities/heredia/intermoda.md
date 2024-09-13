@@ -1,5 +1,5 @@
 ---
 title: "Intermoda"
 url: /heredia/intermoda/
-shop: Allgemein
+shop: general
 ---

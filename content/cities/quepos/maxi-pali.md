@@ -1,5 +1,5 @@
 ---
 title: "Maxi Palí"
 url: /quepos/maxi-pali/
-shop: Warenhaus
+shop: grandes almacenes
 ---

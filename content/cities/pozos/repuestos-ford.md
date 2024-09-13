@@ -1,5 +1,5 @@
 ---
 title: "Repuestos Ford"
 url: /pozos/repuestos-ford/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Flexi"
 url: /heredia/flexi/
-shop: Schuhe
+shop: zapatos
 ---

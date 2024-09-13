@@ -1,5 +1,5 @@
 ---
 title: "Productos - Seracsa"
 url: /san-diego/productos-seracsa/
-shop: Landwirtschaftlich
+shop: agraria
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Óptica"
 url: /liberia/optica/
-shop: Optiker
+shop: óptico
 ---

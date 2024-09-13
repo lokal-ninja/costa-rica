@@ -1,5 +1,5 @@
 ---
 title: "Agencia Destinos Viajes"
 url: /san-jose/agencia-destinos-viajes/
-shop: Reisebüro
+shop: agencia de viajes
 ---

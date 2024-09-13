@@ -1,5 +1,5 @@
 ---
 title: "Optica Fonseca"
 url: /san-juan/optica-fonseca/
-shop: Optiker
+shop: óptico
 ---

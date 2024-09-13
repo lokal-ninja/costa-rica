@@ -1,5 +1,5 @@
 ---
 title: "Boutique Palmettos"
 url: /san-jose/boutique-palmettos/
-shop: Kleidung
+shop: ropa
 ---

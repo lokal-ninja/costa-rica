@@ -1,5 +1,5 @@
 ---
 title: "B's"
 url: /heredia/bs/
-shop: Bäckerei
+shop: panadería
 ---

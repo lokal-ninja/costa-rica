@@ -1,5 +1,5 @@
 ---
 title: "Happy Hill"
 url: /heredia/happy-hill/
-shop: Kleidung
+shop: ropa
 ---

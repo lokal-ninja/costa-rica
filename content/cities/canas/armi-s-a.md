@@ -1,5 +1,5 @@
 ---
 title: "ARMI, S.A."
 url: /canas/armi-s-a/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

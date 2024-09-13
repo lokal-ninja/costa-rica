@@ -1,5 +1,5 @@
 ---
 title: "Importaciones Alfa"
 url: /turrialba/importaciones-alfa/
-shop: Allgemein
+shop: general
 ---

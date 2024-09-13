@@ -1,5 +1,5 @@
 ---
 title: "Maxi Palí"
 url: /santa-ana/maxi-pali/
-shop: Supermarkt
+shop: supermercado
 ---

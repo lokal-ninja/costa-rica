@@ -1,5 +1,5 @@
 ---
 title: "Palí"
 url: /san-rafael/pali/
-shop: Supermarkt
+shop: supermercado
 ---

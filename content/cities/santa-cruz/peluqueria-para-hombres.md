@@ -1,5 +1,5 @@
 ---
 title: "Peluquería Para Hombres"
 url: /santa-cruz/peluqueria-para-hombres/
-shop: Friseur
+shop: peluquería
 ---

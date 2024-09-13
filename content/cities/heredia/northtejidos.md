@@ -1,5 +1,5 @@
 ---
 title: "Northtejidos"
 url: /heredia/northtejidos/
-shop: Kleidung
+shop: ropa
 ---

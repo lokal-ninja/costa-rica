@@ -1,5 +1,5 @@
 ---
 title: "ampm"
 url: /escazu/ampm/
-shop: Lebensmittel
+shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carroceria Pintura"
 url: /pavas/carroceria-pintura/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

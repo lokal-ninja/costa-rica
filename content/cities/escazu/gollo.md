@@ -1,5 +1,5 @@
 ---
 title: "Gollo"
 url: /escazu/gollo/
-shop: Haushaltsgeräte
+shop: aparato
 ---

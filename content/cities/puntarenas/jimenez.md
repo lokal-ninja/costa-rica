@@ -1,5 +1,5 @@
 ---
 title: "Jiménez"
 url: /puntarenas/jimenez/
-shop: Allgemein
+shop: general
 ---

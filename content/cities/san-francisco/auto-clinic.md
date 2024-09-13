@@ -1,5 +1,5 @@
 ---
 title: "Auto Clinic"
 url: /san-francisco/auto-clinic/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Musmanni"
 url: /alajuela/musmanni/
-shop: Bäckerei
+shop: panadería
 ---

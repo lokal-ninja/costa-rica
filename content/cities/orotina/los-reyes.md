@@ -1,5 +1,5 @@
 ---
 title: "Los Reyes"
 url: /orotina/los-reyes/
-shop: Autoteile
+shop: piezas de automóviles
 ---

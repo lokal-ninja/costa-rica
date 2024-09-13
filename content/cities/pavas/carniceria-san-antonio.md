@@ -1,5 +1,5 @@
 ---
 title: "Carnicería San Antonio"
 url: /pavas/carniceria-san-antonio/
-shop: Metzgerei
+shop: carnicero
 ---

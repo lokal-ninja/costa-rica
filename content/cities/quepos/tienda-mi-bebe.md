@@ -1,5 +1,5 @@
 ---
 title: "Tienda Mi Bebe"
 url: /quepos/tienda-mi-bebe/
-shop: Babysachen
+shop: artículos para bebés
 ---

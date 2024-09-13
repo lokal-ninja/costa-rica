@@ -1,5 +1,5 @@
 ---
 title: "Mecanica General"
 url: /calle-blancos/mecanica-general/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

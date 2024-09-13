@@ -1,5 +1,5 @@
 ---
 title: "Auto Repuestos"
 url: /san-jose/auto-repuestos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Goodlife Liberia"
 url: /liberia/goodlife-liberia/
-shop: Nahrungsergänzung
+shop: suplementos nutricionales
 ---

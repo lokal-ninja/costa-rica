@@ -1,5 +1,5 @@
 ---
 title: "Rinde Más"
 url: /nosara/rinde-mas/
-shop: Supermarkt
+shop: supermercado
 ---

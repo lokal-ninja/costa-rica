@@ -1,5 +1,5 @@
 ---
 title: "Panadería y Cafetería Siloé"
 url: /pital/panaderia-y-cafeteria-siloe/
-shop: Bäckerei
+shop: panadería
 ---

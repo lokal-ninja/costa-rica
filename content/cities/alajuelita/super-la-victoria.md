@@ -1,5 +1,5 @@
 ---
 title: "Super La Victoria"
 url: /alajuelita/super-la-victoria/
-shop: Supermarkt
+shop: supermercado
 ---

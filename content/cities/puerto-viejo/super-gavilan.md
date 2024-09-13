@@ -1,5 +1,5 @@
 ---
 title: "Súper Gavilán"
 url: /puerto-viejo/super-gavilan/
-shop: Lebensmittel
+shop: comodidad
 ---

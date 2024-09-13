@@ -1,5 +1,5 @@
 ---
 title: "Taller Pipo"
 url: /guapiles/taller-pipo/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

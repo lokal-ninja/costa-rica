@@ -1,5 +1,5 @@
 ---
 title: "Repuestos Belén"
 url: /san-antonio/repuestos-belen/
-shop: Autoteile
+shop: piezas de automóviles
 ---

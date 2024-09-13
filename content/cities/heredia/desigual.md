@@ -1,5 +1,5 @@
 ---
 title: "Desigual"
 url: /heredia/desigual/
-shop: Schuhe
+shop: zapatos
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Peri Liberia"
 url: /liberia/peri-liberia/
-shop: Supermarkt
+shop: supermercado
 ---

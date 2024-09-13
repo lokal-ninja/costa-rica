@@ -1,5 +1,5 @@
 ---
 title: "Lady Label"
 url: /orotina/lady-label/
-shop: Allgemein
+shop: general
 ---

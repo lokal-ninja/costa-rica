@@ -1,5 +1,5 @@
 ---
 title: "Delta"
 url: /san-rafael/delta/
-shop: Lebensmittel
+shop: comodidad
 ---

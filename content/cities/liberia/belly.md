@@ -1,5 +1,5 @@
 ---
 title: "Belly"
 url: /liberia/belly/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Unifami"
 url: /san-luis/unifami/
-shop: Kramladen
+shop: tienda de variedades
 ---

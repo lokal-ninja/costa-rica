@@ -1,5 +1,5 @@
 ---
 title: "Calzado Infantil Vanessa"
 url: /cartago/calzado-infantil-vanessa/
-shop: Babysachen
+shop: artículos para bebés
 ---

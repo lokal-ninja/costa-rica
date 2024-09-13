@@ -1,5 +1,5 @@
 ---
 title: "Ivonitos Place"
 url: /puerto-viejo/ivonitos-place/
-shop: Bäckerei
+shop: panadería
 ---

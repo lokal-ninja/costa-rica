@@ -1,5 +1,5 @@
 ---
 title: "CDC"
 url: /san-jose/cdc/
-shop: Radiotechnik
+shop: radiotecnia
 ---

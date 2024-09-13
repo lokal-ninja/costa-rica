@@ -1,5 +1,5 @@
 ---
 title: "Reppesa"
 url: /aguas-zarcas/reppesa/
-shop: Autoteile
+shop: piezas de automóviles
 ---

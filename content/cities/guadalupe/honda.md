@@ -1,5 +1,5 @@
 ---
 title: "Honda"
 url: /guadalupe/honda/
-shop: Motorrad
+shop: motocicleta
 ---

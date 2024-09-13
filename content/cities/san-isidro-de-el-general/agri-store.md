@@ -1,5 +1,5 @@
 ---
 title: "Agri Store"
 url: /san-isidro-de-el-general/agri-store/
-shop: Supermarkt
+shop: supermercado
 ---

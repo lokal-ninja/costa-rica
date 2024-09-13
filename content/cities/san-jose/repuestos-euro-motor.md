@@ -1,5 +1,5 @@
 ---
 title: "Repuestos Euro Motor"
 url: /san-jose/repuestos-euro-motor/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

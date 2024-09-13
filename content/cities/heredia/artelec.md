@@ -1,5 +1,5 @@
 ---
 title: "Artelec"
 url: /heredia/artelec/
-shop: Elektronik
+shop: electrónica
 ---

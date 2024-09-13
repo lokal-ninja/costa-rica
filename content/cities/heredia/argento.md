@@ -1,5 +1,5 @@
 ---
 title: "Argento"
 url: /heredia/argento/
-shop: Schmuck
+shop: joyería
 ---

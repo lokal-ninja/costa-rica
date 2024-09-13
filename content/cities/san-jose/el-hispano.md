@@ -1,5 +1,5 @@
 ---
 title: "El Hispano"
 url: /san-jose/el-hispano/
-shop: Allgemein
+shop: general
 ---

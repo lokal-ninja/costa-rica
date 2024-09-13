@@ -1,5 +1,5 @@
 ---
 title: "Musmanni"
 url: /mercedes-norte/musmanni/
-shop: Bäckerei
+shop: panadería
 ---

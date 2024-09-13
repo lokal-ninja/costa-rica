@@ -1,5 +1,5 @@
 ---
 title: "Lázaro"
 url: /alajuela/lazaro/
-shop: Textil
+shop: tela
 ---

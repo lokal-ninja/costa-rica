@@ -1,5 +1,5 @@
 ---
 title: "Plaza Pueblo del Rey"
 url: /san-vicente/plaza-pueblo-del-rey/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

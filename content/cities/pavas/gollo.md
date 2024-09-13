@@ -1,5 +1,5 @@
 ---
 title: "Gollo"
 url: /pavas/gollo/
-shop: Elektronik
+shop: electrónica
 ---

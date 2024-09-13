@@ -1,5 +1,5 @@
 ---
 title: "Súper Servicio"
 url: /liberia/super-servicio/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

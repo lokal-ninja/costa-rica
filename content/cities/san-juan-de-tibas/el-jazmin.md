@@ -1,5 +1,5 @@
 ---
 title: "El Jazmin"
 url: /san-juan-de-tibas/el-jazmin/
-shop: Blumen
+shop: floristería
 ---

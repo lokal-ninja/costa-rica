@@ -1,5 +1,5 @@
 ---
 title: "Galería Central"
 url: /san-jose/galeria-central/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

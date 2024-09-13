@@ -1,5 +1,5 @@
 ---
 title: "Video Planet Movies"
 url: /san-juan-de-tibas/video-planet-movies/
-shop: Videothek
+shop: vídeo
 ---

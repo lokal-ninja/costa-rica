@@ -1,5 +1,5 @@
 ---
 title: "La Curacao"
 url: /cartago/la-curacao/
-shop: Elektronik
+shop: electrónica
 ---

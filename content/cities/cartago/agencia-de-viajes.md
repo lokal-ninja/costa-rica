@@ -1,5 +1,5 @@
 ---
 title: "Agencia de Viajes"
 url: /cartago/agencia-de-viajes/
-shop: Reisebüro
+shop: agencia de viajes
 ---

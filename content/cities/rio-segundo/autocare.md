@@ -1,5 +1,5 @@
 ---
 title: "AutoCare+"
 url: /rio-segundo/autocare/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

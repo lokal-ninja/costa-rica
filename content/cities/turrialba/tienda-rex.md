@@ -1,5 +1,5 @@
 ---
 title: "Tienda Rex"
 url: /turrialba/tienda-rex/
-shop: Kleidung
+shop: ropa
 ---

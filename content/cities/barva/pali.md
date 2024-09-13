@@ -1,5 +1,5 @@
 ---
 title: "Palí"
 url: /barva/pali/
-shop: Supermarkt
+shop: supermercado
 ---

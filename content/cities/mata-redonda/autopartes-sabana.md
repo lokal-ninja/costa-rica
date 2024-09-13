@@ -1,5 +1,5 @@
 ---
 title: "Autopartes Sabana"
 url: /mata-redonda/autopartes-sabana/
-shop: Autoteile
+shop: piezas de automóviles
 ---

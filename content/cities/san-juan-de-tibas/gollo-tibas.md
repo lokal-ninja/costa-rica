@@ -1,5 +1,5 @@
 ---
 title: "Gollo Tibás"
 url: /san-juan-de-tibas/gollo-tibas/
-shop: Haushaltsgeräte
+shop: aparato
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Armo Tours"
 url: /san-jose/armo-tours/
-shop: Reisebüro
+shop: agencia de viajes
 ---

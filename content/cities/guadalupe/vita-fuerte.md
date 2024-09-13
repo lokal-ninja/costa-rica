@@ -1,5 +1,5 @@
 ---
 title: "Vita Fuerte"
 url: /guadalupe/vita-fuerte/
-shop: Nahrungsergänzung
+shop: suplementos nutricionales
 ---

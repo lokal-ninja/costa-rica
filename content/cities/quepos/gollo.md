@@ -1,5 +1,5 @@
 ---
 title: "Gollo"
 url: /quepos/gollo/
-shop: Warenhaus
+shop: grandes almacenes
 ---

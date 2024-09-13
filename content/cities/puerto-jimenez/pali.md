@@ -1,5 +1,5 @@
 ---
 title: "Palí"
 url: /puerto-jimenez/pali/
-shop: Supermarkt
+shop: supermercado
 ---

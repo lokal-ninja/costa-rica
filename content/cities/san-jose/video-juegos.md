@@ -1,5 +1,5 @@
 ---
 title: "Video Juegos"
 url: /san-jose/video-juegos/
-shop: Videospiele
+shop: videojuegos
 ---

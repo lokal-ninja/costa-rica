@@ -1,5 +1,5 @@
 ---
 title: "Mundo Magico"
 url: /heredia/mundo-magico/
-shop: Kramladen
+shop: tienda de variedades
 ---

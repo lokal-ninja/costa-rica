@@ -1,5 +1,5 @@
 ---
 title: "Nissan"
 url: /liberia/nissan/
-shop: Autohaus
+shop: coche
 ---

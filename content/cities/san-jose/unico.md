@@ -1,5 +1,5 @@
 ---
 title: "Unico"
 url: /san-jose/unico/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

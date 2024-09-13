@@ -1,5 +1,5 @@
 ---
 title: "Instacredit"
 url: /quepos/instacredit/
-shop: Leiher
+shop: prestamista
 ---

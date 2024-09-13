@@ -1,5 +1,5 @@
 ---
 title: "Lubricentro Sabrina"
 url: /atenas/lubricentro-sabrina/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

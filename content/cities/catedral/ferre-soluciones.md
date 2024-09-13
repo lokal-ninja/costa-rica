@@ -1,5 +1,5 @@
 ---
 title: "Ferre Soluciones"
 url: /catedral/ferre-soluciones/
-shop: Eisenwaren
+shop: hardware
 ---

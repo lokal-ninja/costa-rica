@@ -1,5 +1,5 @@
 ---
 title: "TRAA Repuestos"
 url: /merced/traa-repuestos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

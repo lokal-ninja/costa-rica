@@ -1,5 +1,5 @@
 ---
 title: "Automechanix"
 url: /liberia/automechanix/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

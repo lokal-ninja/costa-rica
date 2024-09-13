@@ -1,5 +1,5 @@
 ---
 title: "Prestafull"
 url: /hatillo/prestafull/
-shop: Leiher
+shop: prestamista
 ---

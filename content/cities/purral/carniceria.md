@@ -1,5 +1,5 @@
 ---
 title: "Carnicería"
 url: /purral/carniceria/
-shop: Metzgerei
+shop: carnicero
 ---

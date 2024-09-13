@@ -1,5 +1,5 @@
 ---
 title: "Libricentro Purral"
 url: /purral/libricentro-purral/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

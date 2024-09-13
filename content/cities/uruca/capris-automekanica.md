@@ -1,5 +1,5 @@
 ---
 title: "Capris Automekanica"
 url: /uruca/capris-automekanica/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

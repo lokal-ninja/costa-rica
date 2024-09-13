@@ -1,5 +1,5 @@
 ---
 title: "Cellulares"
 url: /liberia/cellulares/
-shop: Elektronik
+shop: electrónica
 ---

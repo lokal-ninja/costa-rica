@@ -1,5 +1,5 @@
 ---
 title: "Lubricentro Norber"
 url: /la-garita/lubricentro-norber/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

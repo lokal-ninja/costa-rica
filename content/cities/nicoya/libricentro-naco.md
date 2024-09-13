@@ -1,5 +1,5 @@
 ---
 title: "Libricentro naco"
 url: /nicoya/libricentro-naco/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

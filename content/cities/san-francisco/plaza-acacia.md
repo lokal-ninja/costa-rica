@@ -1,5 +1,5 @@
 ---
 title: "Plaza Acacia"
 url: /san-francisco/plaza-acacia/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

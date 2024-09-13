@@ -1,5 +1,5 @@
 ---
 title: "Suministros CoopePalmares"
 url: /palmares/suministros-coopepalmares/
-shop: Eisenwaren
+shop: hardware
 ---

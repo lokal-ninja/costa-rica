@@ -1,5 +1,5 @@
 ---
 title: "Plaza del Rio"
 url: /san-rafael-de-escazu/plaza-del-rio/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

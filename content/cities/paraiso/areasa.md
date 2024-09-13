@@ -1,5 +1,5 @@
 ---
 title: "Areasa"
 url: /paraiso/areasa/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

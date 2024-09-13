@@ -1,5 +1,5 @@
 ---
 title: "Librería Quepos"
 url: /quepos/libreria-quepos/
-shop: Schreibwaren
+shop: material de oficina
 ---

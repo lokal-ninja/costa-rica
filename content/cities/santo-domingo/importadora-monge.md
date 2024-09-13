@@ -1,5 +1,5 @@
 ---
 title: "Importadora Monge"
 url: /santo-domingo/importadora-monge/
-shop: Warenhaus
+shop: grandes almacenes
 ---

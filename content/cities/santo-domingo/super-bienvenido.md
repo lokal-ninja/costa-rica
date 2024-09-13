@@ -1,5 +1,5 @@
 ---
 title: "Súper Bienvenido"
 url: /santo-domingo/super-bienvenido/
-shop: Supermarkt
+shop: supermercado
 ---

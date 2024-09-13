@@ -1,5 +1,5 @@
 ---
 title: "Decasa"
 url: /hatillo/decasa/
-shop: Haushaltsartikel
+shop: menaje del hogar
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sabata Outlet"
 url: /san-jose/sabata-outlet/
-shop: Allgemein
+shop: general
 ---

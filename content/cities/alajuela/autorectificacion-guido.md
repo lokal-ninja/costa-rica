@@ -1,5 +1,5 @@
 ---
 title: "Autorectificación Guido"
 url: /alajuela/autorectificacion-guido/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

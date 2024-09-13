@@ -1,5 +1,5 @@
 ---
 title: "Taller Mecanico Avilés"
 url: /atenas/taller-mecanico-aviles/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

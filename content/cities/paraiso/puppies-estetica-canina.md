@@ -1,5 +1,5 @@
 ---
 title: "Puppies Estética Canina"
 url: /paraiso/puppies-estetica-canina/
-shop: Tiere
+shop: mascotas
 ---

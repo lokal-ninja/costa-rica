@@ -1,5 +1,5 @@
 ---
 title: "TCBY"
 url: /heredia/tcby/
-shop: Süßwaren
+shop: confitería
 ---

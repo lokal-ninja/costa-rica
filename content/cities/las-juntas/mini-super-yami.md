@@ -1,5 +1,5 @@
 ---
 title: "Mini Súper Yami"
 url: /las-juntas/mini-super-yami/
-shop: Lebensmittel
+shop: comodidad
 ---

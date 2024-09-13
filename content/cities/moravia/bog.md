@@ -1,5 +1,5 @@
 ---
 title: "BOG"
 url: /moravia/bog/
-shop: Allgemein
+shop: general
 ---

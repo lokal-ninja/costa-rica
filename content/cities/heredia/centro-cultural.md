@@ -1,5 +1,5 @@
 ---
 title: "Centro Cultural"
 url: /heredia/centro-cultural/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cartech Soluciones Automotrices"
 url: /san-vicente/cartech-soluciones-automotrices/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

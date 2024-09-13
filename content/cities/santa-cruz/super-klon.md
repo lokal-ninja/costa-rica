@@ -1,5 +1,5 @@
 ---
 title: "Super Klon"
 url: /santa-cruz/super-klon/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Puertas"
 url: /san-juan/puertas/
-shop: Allgemein
+shop: general
 ---

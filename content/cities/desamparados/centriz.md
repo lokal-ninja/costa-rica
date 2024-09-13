@@ -1,5 +1,5 @@
 ---
 title: "Centriz"
 url: /desamparados/centriz/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

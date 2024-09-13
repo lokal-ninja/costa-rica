@@ -1,5 +1,5 @@
 ---
 title: "Terramall"
 url: /san-diego/terramall/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

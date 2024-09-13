@@ -1,5 +1,5 @@
 ---
 title: "Lubicentro"
 url: /san-antonio-de-belen/lubicentro/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

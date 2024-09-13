@@ -1,5 +1,5 @@
 ---
 title: "Plaza Los Olivos"
 url: /san-pablo/plaza-los-olivos/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

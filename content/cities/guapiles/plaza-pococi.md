@@ -1,5 +1,5 @@
 ---
 title: "Plaza Pococí"
 url: /guapiles/plaza-pococi/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Calzado Alison"
 url: /heredia/calzado-alison/
-shop: Schuhe
+shop: zapatos
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Celulares Dereck Cell"
 url: /san-isidro/celulares-dereck-cell/
-shop: Handy
+shop: teléfono móvil
 ---

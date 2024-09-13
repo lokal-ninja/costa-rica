@@ -1,5 +1,5 @@
 ---
 title: "Mawi"
 url: /san-francisco/mawi/
-shop: Autoteile
+shop: piezas de automóviles
 ---

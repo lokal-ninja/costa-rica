@@ -1,5 +1,5 @@
 ---
 title: "El Lagar"
 url: /san-juan-de-tibas/el-lagar/
-shop: Eisenwaren
+shop: hardware
 ---

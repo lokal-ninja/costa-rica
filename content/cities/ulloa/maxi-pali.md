@@ -1,5 +1,5 @@
 ---
 title: "Maxi Palí"
 url: /ulloa/maxi-pali/
-shop: Supermarkt
+shop: supermercado
 ---

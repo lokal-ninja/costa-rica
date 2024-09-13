@@ -1,5 +1,5 @@
 ---
-title: "Ópticas Visión"
+title: "Opticas Vision"
 url: /santa-ana/opticas-vision/
-shop: Optiker
+shop: óptico
 ---

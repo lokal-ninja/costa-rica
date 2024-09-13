@@ -1,5 +1,5 @@
 ---
 title: "Sinai"
 url: /siquirres/sinai/
-shop: Kleidung
+shop: ropa
 ---

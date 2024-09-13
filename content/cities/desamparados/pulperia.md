@@ -1,5 +1,5 @@
 ---
 title: "Pulpería"
 url: /desamparados/pulperia/
-shop: Allgemein
+shop: general
 ---

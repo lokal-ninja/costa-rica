@@ -1,5 +1,5 @@
 ---
 title: "Agencia Pipasa"
 url: /filadelfia/agencia-pipasa/
-shop: Allgemein
+shop: general
 ---

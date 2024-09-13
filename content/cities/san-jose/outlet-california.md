@@ -1,5 +1,5 @@
 ---
 title: "Outlet California"
 url: /san-jose/outlet-california/
-shop: Allgemein
+shop: general
 ---

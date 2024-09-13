@@ -1,5 +1,5 @@
 ---
 title: "Agencia Stihl"
 url: /liberia/agencia-stihl/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Taller Refrigeración Peniel"
 url: /san-sebastian/taller-refrigeracion-peniel/
-shop: Allgemein
+shop: general
 ---

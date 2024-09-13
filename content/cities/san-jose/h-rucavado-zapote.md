@@ -1,5 +1,5 @@
 ---
 title: "H.Rucavado Zapote"
 url: /san-jose/h-rucavado-zapote/
-shop: Reifen
+shop: neumáticos
 ---

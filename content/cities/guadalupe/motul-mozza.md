@@ -1,5 +1,5 @@
 ---
 title: "Motul Mozza"
 url: /guadalupe/motul-mozza/
-shop: Autoteile
+shop: piezas de automóviles
 ---

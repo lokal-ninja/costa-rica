@@ -1,5 +1,5 @@
 ---
 title: "Infinity"
 url: /cartago/infinity/
-shop: Allgemein
+shop: general
 ---

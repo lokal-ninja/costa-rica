@@ -1,5 +1,5 @@
 ---
 title: "Bordallo"
 url: /escazu/bordallo/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

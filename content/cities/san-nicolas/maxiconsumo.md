@@ -1,5 +1,5 @@
 ---
 title: "Maxiconsumo"
 url: /san-nicolas/maxiconsumo/
-shop: Warenhaus
+shop: grandes almacenes
 ---

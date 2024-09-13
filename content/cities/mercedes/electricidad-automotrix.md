@@ -1,5 +1,5 @@
 ---
 title: "Electricidad Automotrix"
 url: /mercedes/electricidad-automotrix/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

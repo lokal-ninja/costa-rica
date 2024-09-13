@@ -1,5 +1,5 @@
 ---
 title: "Boutique Marva"
 url: /santa-cruz/boutique-marva/
-shop: Kleidung
+shop: ropa
 ---

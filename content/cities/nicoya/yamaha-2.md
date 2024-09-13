@@ -1,5 +1,5 @@
 ---
 title: "Yamaha"
 url: /nicoya/yamaha-2/
-shop: Motorrad
+shop: motocicleta
 ---

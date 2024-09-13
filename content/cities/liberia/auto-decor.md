@@ -1,5 +1,5 @@
 ---
 title: "Auto Decor"
 url: /liberia/auto-decor/
-shop: Autoteile
+shop: piezas de automóviles
 ---

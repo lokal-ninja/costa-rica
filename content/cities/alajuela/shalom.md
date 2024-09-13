@@ -1,5 +1,5 @@
 ---
 title: "Shalom"
 url: /alajuela/shalom/
-shop: Kosmetik
+shop: cosméticos
 ---

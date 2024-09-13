@@ -1,5 +1,5 @@
 ---
 title: "Repuestos Automotrices Granados"
 url: /san-rafael/repuestos-automotrices-granados/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fruteras Y Verdanas"
 url: /alajuela/fruteras-y-verdanas/
-shop: Lebensmittel
+shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Musmanni"
 url: /limon/musmanni/
-shop: Bäckerei
+shop: panadería
 ---

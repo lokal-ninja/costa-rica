@@ -1,5 +1,5 @@
 ---
 title: "Ibiza"
 url: /san-jose/ibiza/
-shop: Allgemein
+shop: general
 ---

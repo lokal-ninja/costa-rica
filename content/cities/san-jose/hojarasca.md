@@ -1,5 +1,5 @@
 ---
 title: "Hojarasca"
 url: /san-jose/hojarasca/
-shop: Modehaus
+shop: tienda
 ---

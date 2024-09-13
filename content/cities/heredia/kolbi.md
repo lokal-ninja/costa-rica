@@ -1,5 +1,5 @@
 ---
 title: "Kolbi"
 url: /heredia/kolbi/
-shop: Handy
+shop: teléfono móvil
 ---

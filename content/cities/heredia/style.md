@@ -1,5 +1,5 @@
 ---
 title: "Style"
 url: /heredia/style/
-shop: Modehaus
+shop: tienda
 ---

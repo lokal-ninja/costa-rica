@@ -1,5 +1,5 @@
 ---
 title: "Zapatería"
 url: /san-vicente/zapateria/
-shop: Schuhe
+shop: zapatos
 ---

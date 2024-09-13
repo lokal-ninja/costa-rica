@@ -1,5 +1,5 @@
 ---
 title: "Importadora Méndez"
 url: /san-jose/importadora-mendez/
-shop: Allgemein
+shop: general
 ---

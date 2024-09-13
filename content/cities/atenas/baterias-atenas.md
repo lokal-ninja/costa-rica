@@ -1,5 +1,5 @@
 ---
 title: "Baterías Atenas"
 url: /atenas/baterias-atenas/
-shop: Autoteile
+shop: piezas de automóviles
 ---

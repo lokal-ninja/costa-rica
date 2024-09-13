@@ -1,5 +1,5 @@
 ---
 title: "Pink Rose"
 url: /barva/pink-rose/
-shop: Kramladen
+shop: tienda de variedades
 ---

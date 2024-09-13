@@ -1,5 +1,5 @@
 ---
 title: "Palí"
 url: /zarcero/pali/
-shop: Supermarkt
+shop: supermercado
 ---

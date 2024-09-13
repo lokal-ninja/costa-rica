@@ -1,5 +1,5 @@
 ---
 title: "Candelas"
 url: /escazu/candelas/
-shop: Allgemein
+shop: general
 ---

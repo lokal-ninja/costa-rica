@@ -1,5 +1,5 @@
 ---
 title: "Claro"
 url: /san-jose/claro-calle-6/
-shop: Handy
+shop: teléfono móvil
 ---

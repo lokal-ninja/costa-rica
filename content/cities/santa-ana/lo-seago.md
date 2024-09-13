@@ -1,5 +1,5 @@
 ---
 title: "Lo Seago"
 url: /santa-ana/lo-seago/
-shop: Allgemein
+shop: general
 ---

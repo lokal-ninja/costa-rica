@@ -1,5 +1,5 @@
 ---
 title: "Parabrisas Express"
 url: /san-francisco-de-dos-rios/parabrisas-express/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

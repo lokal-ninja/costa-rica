@@ -1,5 +1,5 @@
 ---
 title: "Palí"
 url: /colima/pali/
-shop: Supermarkt
+shop: supermercado
 ---

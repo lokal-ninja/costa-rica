@@ -1,5 +1,5 @@
 ---
 title: "Joyeria"
 url: /liberia/joyeria/
-shop: Schmuck
+shop: joyería
 ---

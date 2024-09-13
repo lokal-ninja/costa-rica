@@ -1,5 +1,5 @@
 ---
 title: "Congo"
 url: /heredia/congo/
-shop: Warenhaus
+shop: grandes almacenes
 ---

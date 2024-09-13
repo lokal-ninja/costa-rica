@@ -1,5 +1,5 @@
 ---
 title: "Fresh Market"
 url: /san-pedro/fresh-market/
-shop: Lebensmittel
+shop: comodidad
 ---

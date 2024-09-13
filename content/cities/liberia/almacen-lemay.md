@@ -1,5 +1,5 @@
 ---
 title: "Almacén Lemay"
 url: /liberia/almacen-lemay/
-shop: Warenhaus
+shop: grandes almacenes
 ---

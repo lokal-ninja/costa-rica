@@ -1,5 +1,5 @@
 ---
 title: "Carnicería Gallo Solo"
 url: /alajuela/carniceria-gallo-solo/
-shop: Metzgerei
+shop: carnicero
 ---

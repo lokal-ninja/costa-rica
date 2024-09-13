@@ -1,5 +1,5 @@
 ---
 title: "RPM Repuestos"
 url: /san-francisco/rpm-repuestos/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

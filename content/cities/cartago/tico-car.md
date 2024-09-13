@@ -1,5 +1,5 @@
 ---
 title: "Tico Car"
 url: /cartago/tico-car/
-shop: Autohaus
+shop: coche
 ---

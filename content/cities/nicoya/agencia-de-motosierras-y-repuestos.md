@@ -1,5 +1,5 @@
 ---
 title: "Agencia de Motosierras y Repuestos"
 url: /nicoya/agencia-de-motosierras-y-repuestos/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

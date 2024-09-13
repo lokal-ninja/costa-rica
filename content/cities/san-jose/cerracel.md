@@ -1,5 +1,5 @@
 ---
 title: "Cerracel"
 url: /san-jose/cerracel/
-shop: Schlüsseldienst
+shop: cerrajero
 ---

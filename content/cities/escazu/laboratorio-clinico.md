@@ -1,5 +1,5 @@
 ---
 title: "Laboratorio Clinico"
 url: /escazu/laboratorio-clinico/
-shop: Sanitätshaus
+shop: suministros médicos
 ---

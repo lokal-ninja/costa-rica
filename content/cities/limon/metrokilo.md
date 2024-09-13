@@ -1,5 +1,5 @@
 ---
 title: "Metrokilo"
 url: /limon/metrokilo/
-shop: Allgemein
+shop: general
 ---

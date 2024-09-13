@@ -1,5 +1,5 @@
 ---
 title: "Muebles Marbeth"
 url: /san-vicente/muebles-marbeth/
-shop: Möbel
+shop: muebles
 ---

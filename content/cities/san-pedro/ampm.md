@@ -1,5 +1,5 @@
 ---
 title: "ampm"
 url: /san-pedro/ampm/
-shop: Lebensmittel
+shop: comodidad
 ---

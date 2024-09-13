@@ -1,5 +1,5 @@
 ---
 title: "Conexpres"
 url: /san-jose/conexpres/
-shop: Reisebüro
+shop: agencia de viajes
 ---

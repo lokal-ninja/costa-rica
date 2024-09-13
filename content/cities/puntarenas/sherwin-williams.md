@@ -1,5 +1,5 @@
 ---
 title: "Sherwin-Williams"
 url: /puntarenas/sherwin-williams/
-shop: Farben
+shop: pintura
 ---

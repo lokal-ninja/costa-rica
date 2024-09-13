@@ -1,5 +1,5 @@
 ---
 title: "Friends Boutique"
 url: /esparza/friends-boutique/
-shop: Modehaus
+shop: tienda
 ---

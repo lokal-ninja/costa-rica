@@ -1,5 +1,5 @@
 ---
 title: "Lubricar"
 url: /guacimo/lubricar/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Claro"
 url: /san-antonio-de-belen/claro/
-shop: Handy
+shop: teléfono móvil
 ---

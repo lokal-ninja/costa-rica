@@ -1,5 +1,5 @@
 ---
 title: "Pacific Fashion"
 url: /puntarenas/pacific-fashion/
-shop: Kleidung
+shop: ropa
 ---

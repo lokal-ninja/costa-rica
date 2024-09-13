@@ -1,5 +1,5 @@
 ---
 title: "Repuestos Bonilla"
 url: /cartago/repuestos-bonilla/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tentaciones"
 url: /puntarenas/tentaciones/
-shop: Bäckerei
+shop: panadería
 ---

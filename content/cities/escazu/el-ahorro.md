@@ -1,5 +1,5 @@
 ---
 title: "El Ahorro"
 url: /escazu/el-ahorro/
-shop: Kleidung
+shop: ropa
 ---

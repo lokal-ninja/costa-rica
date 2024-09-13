@@ -1,5 +1,5 @@
 ---
 title: "Agencia ICE"
 url: /turrucares/agencia-ice/
-shop: Handy
+shop: teléfono móvil
 ---

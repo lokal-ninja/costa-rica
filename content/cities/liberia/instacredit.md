@@ -1,5 +1,5 @@
 ---
 title: "Instacredit"
 url: /liberia/instacredit/
-shop: Leiher
+shop: prestamista
 ---

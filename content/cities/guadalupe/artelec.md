@@ -1,5 +1,5 @@
 ---
 title: "Artelec"
 url: /guadalupe/artelec/
-shop: Haushaltsgeräte
+shop: aparato
 ---

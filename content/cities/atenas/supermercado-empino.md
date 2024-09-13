@@ -1,5 +1,5 @@
 ---
 title: "Supermercado Empino"
 url: /atenas/supermercado-empino/
-shop: Lebensmittel
+shop: comodidad
 ---

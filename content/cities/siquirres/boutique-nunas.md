@@ -1,5 +1,5 @@
 ---
 title: "Boutique Nunas"
 url: /siquirres/boutique-nunas/
-shop: Kosmetik
+shop: cosméticos
 ---

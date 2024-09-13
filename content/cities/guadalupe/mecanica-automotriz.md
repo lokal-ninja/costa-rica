@@ -1,5 +1,5 @@
 ---
 title: "Mecanica Automotriz"
 url: /guadalupe/mecanica-automotriz/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

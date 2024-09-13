@@ -1,5 +1,5 @@
 ---
 title: "Foto Clik"
 url: /liberia/foto-clik/
-shop: Foto
+shop: foto
 ---

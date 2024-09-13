@@ -1,5 +1,5 @@
 ---
 title: "Global Automotriz"
 url: /ulloa/global-automotriz/
-shop: Autohaus
+shop: coche
 ---

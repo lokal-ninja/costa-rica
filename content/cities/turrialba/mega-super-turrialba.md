@@ -1,5 +1,5 @@
 ---
 title: "Mega Súper Turrialba"
 url: /turrialba/mega-super-turrialba/
-shop: Supermarkt
+shop: supermercado
 ---

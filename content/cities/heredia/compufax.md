@@ -1,5 +1,5 @@
 ---
 title: "CompuFax"
 url: /heredia/compufax/
-shop: Computer
+shop: ordenador
 ---

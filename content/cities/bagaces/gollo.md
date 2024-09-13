@@ -1,5 +1,5 @@
 ---
 title: "Gollo"
 url: /bagaces/gollo/
-shop: Warenhaus
+shop: grandes almacenes
 ---

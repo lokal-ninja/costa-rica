@@ -1,5 +1,5 @@
 ---
 title: "Rofersa Motor"
 url: /san-jose/rofersa-motor/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

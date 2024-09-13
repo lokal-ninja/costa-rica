@@ -1,5 +1,5 @@
 ---
 title: "Autozona"
 url: /heredia/autozona/
-shop: Autoteile
+shop: piezas de automóviles
 ---

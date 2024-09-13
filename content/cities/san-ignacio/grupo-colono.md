@@ -1,5 +1,5 @@
 ---
 title: "Grupo Colono"
 url: /san-ignacio/grupo-colono/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

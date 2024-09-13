@@ -1,5 +1,5 @@
 ---
 title: "Bridgestone"
 url: /nicoya/bridgestone/
-shop: Reifen
+shop: neumáticos
 ---

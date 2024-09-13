@@ -1,5 +1,5 @@
 ---
 title: "Autopits"
 url: /san-jose/autopits/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

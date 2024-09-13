@@ -1,5 +1,5 @@
 ---
 title: "Tecno phone"
 url: /alajuela/tecno-phone/
-shop: Handy
+shop: teléfono móvil
 ---

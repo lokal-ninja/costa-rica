@@ -1,5 +1,5 @@
 ---
 title: "Plaza El Nogal"
 url: /san-francisco/plaza-el-nogal/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

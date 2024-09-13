@@ -1,5 +1,5 @@
 ---
 title: "Perimercados"
 url: /san-jose/perimercados/
-shop: Supermarkt
+shop: supermercado
 ---

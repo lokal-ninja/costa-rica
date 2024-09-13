@@ -1,5 +1,5 @@
 ---
 title: "Tigo"
 url: /heredia/tigo/
-shop: Handy
+shop: teléfono móvil
 ---

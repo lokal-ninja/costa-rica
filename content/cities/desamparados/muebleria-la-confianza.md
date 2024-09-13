@@ -1,5 +1,5 @@
 ---
 title: "Muebleria La Confianza"
 url: /desamparados/muebleria-la-confianza/
-shop: Möbel
+shop: muebles
 ---

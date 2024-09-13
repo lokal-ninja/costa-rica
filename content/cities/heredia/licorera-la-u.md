@@ -1,5 +1,5 @@
 ---
 title: "Licorera La U"
 url: /heredia/licorera-la-u/
-shop: Spirituosen
+shop: alcohol
 ---

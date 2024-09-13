@@ -1,5 +1,5 @@
 ---
 title: "Auto Carroceria"
 url: /liberia/auto-carroceria/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

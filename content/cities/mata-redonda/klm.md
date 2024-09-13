@@ -1,5 +1,5 @@
 ---
 title: "KLM"
 url: /mata-redonda/klm/
-shop: Reisebüro
+shop: agencia de viajes
 ---

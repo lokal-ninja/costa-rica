@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /sanchez/walmart/
-shop: Warenhaus
+shop: grandes almacenes
 ---

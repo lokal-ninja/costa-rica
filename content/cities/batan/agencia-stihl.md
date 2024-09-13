@@ -1,5 +1,5 @@
 ---
 title: "Agencia Stihl"
 url: /batan/agencia-stihl/
-shop: Eisenwaren
+shop: hardware
 ---

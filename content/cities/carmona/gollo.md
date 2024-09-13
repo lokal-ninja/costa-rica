@@ -1,5 +1,5 @@
 ---
 title: "Gollo"
 url: /carmona/gollo/
-shop: Warenhaus
+shop: grandes almacenes
 ---

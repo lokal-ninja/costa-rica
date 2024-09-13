@@ -1,5 +1,5 @@
 ---
 title: "Multiservicios"
 url: /desamparados/multiservicios/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

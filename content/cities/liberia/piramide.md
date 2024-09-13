@@ -1,5 +1,5 @@
 ---
 title: "Piramide"
 url: /liberia/piramide/
-shop: Allgemein
+shop: general
 ---

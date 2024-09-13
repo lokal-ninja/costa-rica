@@ -1,5 +1,5 @@
 ---
 title: "Zeledón Maffio"
 url: /santa-cruz/zeledon-maffio/
-shop: Allgemein
+shop: general
 ---

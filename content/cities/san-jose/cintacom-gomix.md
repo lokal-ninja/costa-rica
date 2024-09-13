@@ -1,5 +1,5 @@
 ---
 title: "Cintacom Gomix"
 url: /san-jose/cintacom-gomix/
-shop: Autoteile
+shop: piezas de automóviles
 ---

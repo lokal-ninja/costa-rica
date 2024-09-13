@@ -1,5 +1,5 @@
 ---
 title: "Lulu"
 url: /heredia/lulu/
-shop: Kleidung
+shop: ropa
 ---

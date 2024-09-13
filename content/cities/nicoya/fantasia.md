@@ -1,5 +1,5 @@
 ---
 title: "Fantasía"
 url: /nicoya/fantasia/
-shop: Sport
+shop: deportes
 ---

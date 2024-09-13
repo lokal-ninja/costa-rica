@@ -1,5 +1,5 @@
 ---
 title: "Celulares Entel"
 url: /santa-barbara/celulares-entel/
-shop: Handy
+shop: teléfono móvil
 ---

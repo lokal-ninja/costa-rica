@@ -1,5 +1,5 @@
 ---
 title: "Gollo"
 url: /frailes/gollo/
-shop: Elektronik
+shop: electrónica
 ---

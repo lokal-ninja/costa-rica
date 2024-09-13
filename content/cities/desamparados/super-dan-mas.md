@@ -1,5 +1,5 @@
 ---
 title: "Super Dan Mas"
 url: /desamparados/super-dan-mas/
-shop: Lebensmittel
+shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Shamela"
 url: /san-jose/shamela/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Metrocentro"
 url: /cartago/metrocentro/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Plaza Talamanca"
 url: /guapiles/plaza-talamanca/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

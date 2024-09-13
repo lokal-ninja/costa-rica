@@ -1,5 +1,5 @@
 ---
 title: "Mini Mundo"
 url: /nicoya/mini-mundo/
-shop: Kleidung
+shop: ropa
 ---

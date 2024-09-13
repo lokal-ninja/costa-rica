@@ -1,5 +1,5 @@
 ---
 title: "Funeraria Nicoya"
 url: /nicoya/funeraria-nicoya/
-shop: Bestattungen
+shop: directores de funerarias
 ---

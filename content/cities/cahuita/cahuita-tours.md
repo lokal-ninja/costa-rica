@@ -1,5 +1,5 @@
 ---
 title: "Cahuita Tours"
 url: /cahuita/cahuita-tours/
-shop: Reisebüro
+shop: agencia de viajes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Presta Mucho"
 url: /san-isidro/presta-mucho/
-shop: Leiher
+shop: prestamista
 ---

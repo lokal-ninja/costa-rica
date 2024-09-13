@@ -1,5 +1,5 @@
 ---
 title: "Carnicería La Choza"
 url: /desamparados/carniceria-la-choza/
-shop: Metzgerei
+shop: carnicero
 ---

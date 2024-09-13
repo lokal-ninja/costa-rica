@@ -1,5 +1,5 @@
 ---
 title: "Abastecedor Feliz Feliz"
 url: /limon/abastecedor-feliz-feliz/
-shop: Lebensmittel
+shop: comodidad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Multiservicios Alfa"
 url: /quesada/multiservicios-alfa/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

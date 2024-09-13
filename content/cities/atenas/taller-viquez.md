@@ -1,5 +1,5 @@
 ---
 title: "Taller Víquez"
 url: /atenas/taller-viquez/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

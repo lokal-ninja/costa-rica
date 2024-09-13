@@ -1,5 +1,5 @@
 ---
 title: "Yamaha"
 url: /liberia/yamaha/
-shop: Motorrad
+shop: motocicleta
 ---

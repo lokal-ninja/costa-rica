@@ -1,5 +1,5 @@
 ---
 title: "Supermercado Coopeatenas"
 url: /atenas/supermercado-coopeatenas/
-shop: Supermarkt
+shop: supermercado
 ---

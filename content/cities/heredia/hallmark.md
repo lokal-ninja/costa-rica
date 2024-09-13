@@ -1,5 +1,5 @@
 ---
 title: "Hallmark"
 url: /heredia/hallmark/
-shop: Kramladen
+shop: tienda de variedades
 ---

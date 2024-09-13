@@ -1,5 +1,5 @@
 ---
 title: "MRI"
 url: /cartago/mri/
-shop: Autoteile
+shop: piezas de automóviles
 ---

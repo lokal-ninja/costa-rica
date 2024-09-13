@@ -1,5 +1,5 @@
 ---
 title: "Calzado MJ"
 url: /santa-barbara/calzado-mj/
-shop: Schuhe
+shop: zapatos
 ---

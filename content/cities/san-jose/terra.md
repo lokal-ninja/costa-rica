@@ -1,5 +1,5 @@
 ---
 title: "Terra"
 url: /san-jose/terra/
-shop: Allgemein
+shop: general
 ---

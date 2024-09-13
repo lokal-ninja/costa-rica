@@ -1,5 +1,5 @@
 ---
 title: "Intaco"
 url: /san-jose/intaco/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

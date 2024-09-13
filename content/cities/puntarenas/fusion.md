@@ -1,5 +1,5 @@
 ---
 title: "Fusión"
 url: /puntarenas/fusion/
-shop: Schuhe
+shop: zapatos
 ---

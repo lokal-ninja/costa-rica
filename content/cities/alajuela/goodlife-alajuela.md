@@ -1,5 +1,5 @@
 ---
 title: "Goodlife Alajuela"
 url: /alajuela/goodlife-alajuela/
-shop: Nahrungsergänzung
+shop: suplementos nutricionales
 ---

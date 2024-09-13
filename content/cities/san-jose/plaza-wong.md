@@ -1,5 +1,5 @@
 ---
 title: "Plaza Wong"
 url: /san-jose/plaza-wong/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

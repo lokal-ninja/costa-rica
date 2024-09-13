@@ -1,5 +1,5 @@
 ---
 title: "Ofertel"
 url: /san-jose/ofertel/
-shop: Warenhaus
+shop: grandes almacenes
 ---

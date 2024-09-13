@@ -1,5 +1,5 @@
 ---
 title: "Autodecoracion Gomez"
 url: /guadalupe/autodecoracion-gomez/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

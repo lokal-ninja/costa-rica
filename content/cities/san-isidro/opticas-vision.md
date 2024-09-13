@@ -1,5 +1,5 @@
 ---
 title: "Opticas Vision"
 url: /san-isidro/opticas-vision/
-shop: Optiker
+shop: óptico
 ---

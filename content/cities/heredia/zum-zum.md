@@ -1,5 +1,5 @@
 ---
 title: "Zum Zum"
 url: /heredia/zum-zum/
-shop: Schuhe
+shop: zapatos
 ---

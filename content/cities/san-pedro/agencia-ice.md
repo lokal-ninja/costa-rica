@@ -1,5 +1,5 @@
 ---
 title: "Agencia ICE"
 url: /san-pedro/agencia-ice/
-shop: Handy
+shop: teléfono móvil
 ---

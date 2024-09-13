@@ -1,5 +1,5 @@
 ---
 title: "Agencia ICE"
 url: /anselmo-llorente/agencia-ice/
-shop: Handy
+shop: teléfono móvil
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Edificio Kauri"
 url: /heredia/edificio-kauri/
-shop: Allgemein
+shop: general
 ---

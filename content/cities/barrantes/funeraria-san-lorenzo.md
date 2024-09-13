@@ -1,5 +1,5 @@
 ---
 title: "Funeraria San Lorenzo"
 url: /barrantes/funeraria-san-lorenzo/
-shop: Bestattungen
+shop: directores de funerarias
 ---

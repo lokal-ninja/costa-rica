@@ -1,5 +1,5 @@
 ---
 title: "Ofertel"
 url: /heredia/ofertel/
-shop: Kramladen
+shop: tienda de variedades
 ---

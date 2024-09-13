@@ -1,5 +1,5 @@
 ---
 title: "Muflas"
 url: /alajuelita/muflas/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Novedades Cristy"
 url: /san-isidro/novedades-cristy/
-shop: Kramladen
+shop: tienda de variedades
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Friocar"
 url: /san-isidro-de-el-general/friocar/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

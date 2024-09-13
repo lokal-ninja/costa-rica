@@ -1,5 +1,5 @@
 ---
 title: "Pescasdema"
 url: /puntarenas/pescasdema/
-shop: Allgemein
+shop: general
 ---

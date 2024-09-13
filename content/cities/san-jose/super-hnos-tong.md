@@ -1,5 +1,5 @@
 ---
 title: "Super Hnos Tong"
 url: /san-jose/super-hnos-tong/
-shop: Lebensmittel
+shop: comodidad
 ---

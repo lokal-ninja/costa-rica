@@ -1,5 +1,5 @@
 ---
 title: "Art and Jewelry"
 url: /tamarindo/art-and-jewelry/
-shop: Allgemein
+shop: general
 ---

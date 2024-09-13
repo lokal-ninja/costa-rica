@@ -1,5 +1,5 @@
 ---
 title: "Boston"
 url: /guapiles/boston/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Auto Mercado"
 url: /san-jose/auto-mercado/
-shop: Feinkost
+shop: charcutería
 ---

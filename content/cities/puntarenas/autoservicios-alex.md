@@ -1,5 +1,5 @@
 ---
 title: "Autoservicios Alex"
 url: /puntarenas/autoservicios-alex/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

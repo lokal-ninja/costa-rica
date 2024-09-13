@@ -1,5 +1,5 @@
 ---
 title: "Mini Super"
 url: /merced/mini-super/
-shop: Lebensmittel
+shop: comodidad
 ---

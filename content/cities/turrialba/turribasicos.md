@@ -1,5 +1,5 @@
 ---
 title: "Turribásicos"
 url: /turrialba/turribasicos/
-shop: Supermarkt
+shop: supermercado
 ---

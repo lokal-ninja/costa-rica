@@ -1,5 +1,5 @@
 ---
 title: "Motorepuestos"
 url: /cartago/motorepuestos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Super New China"
 url: /brasilito/super-new-china/
-shop: Lebensmittel
+shop: comodidad
 ---

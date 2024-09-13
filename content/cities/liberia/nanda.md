@@ -1,5 +1,5 @@
 ---
 title: "Nanda"
 url: /liberia/nanda/
-shop: Allgemein
+shop: general
 ---

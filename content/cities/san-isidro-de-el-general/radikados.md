@@ -1,5 +1,5 @@
 ---
 title: "Radikados"
 url: /san-isidro-de-el-general/radikados/
-shop: Kleidung
+shop: ropa
 ---

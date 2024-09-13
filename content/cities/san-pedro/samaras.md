@@ -1,5 +1,5 @@
 ---
 title: "Samaras"
 url: /san-pedro/samaras/
-shop: Allgemein
+shop: general
 ---

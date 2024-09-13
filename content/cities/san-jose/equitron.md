@@ -1,5 +1,5 @@
 ---
 title: "Equitron"
 url: /san-jose/equitron/
-shop: Allgemein
+shop: general
 ---

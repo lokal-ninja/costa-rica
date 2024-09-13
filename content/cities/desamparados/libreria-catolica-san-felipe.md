@@ -1,5 +1,5 @@
 ---
 title: "Librería Católica San Felipe"
 url: /desamparados/libreria-catolica-san-felipe/
-shop: Bücher
+shop: libros
 ---

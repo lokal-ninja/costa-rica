@@ -1,5 +1,5 @@
 ---
 title: "AeroMéxico"
 url: /mata-redonda/aeromexico/
-shop: Reisebüro
+shop: agencia de viajes
 ---

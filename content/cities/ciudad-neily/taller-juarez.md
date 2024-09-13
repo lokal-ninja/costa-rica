@@ -1,5 +1,5 @@
 ---
 title: "Taller Juárez"
 url: /ciudad-neily/taller-juarez/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

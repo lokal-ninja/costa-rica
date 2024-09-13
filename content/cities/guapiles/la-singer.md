@@ -1,5 +1,5 @@
 ---
 title: "La Singer"
 url: /guapiles/la-singer/
-shop: Motorrad
+shop: motocicleta
 ---

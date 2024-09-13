@@ -1,5 +1,5 @@
 ---
 title: "La Guacamaya"
 url: /guadalupe/la-guacamaya/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

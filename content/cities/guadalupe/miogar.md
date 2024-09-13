@@ -1,5 +1,5 @@
 ---
 title: "Miogar"
 url: /guadalupe/miogar/
-shop: Möbel
+shop: muebles
 ---

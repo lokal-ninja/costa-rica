@@ -1,5 +1,5 @@
 ---
 title: "Lapiz y Papel"
 url: /liberia/lapiz-y-papel/
-shop: Computer
+shop: ordenador
 ---

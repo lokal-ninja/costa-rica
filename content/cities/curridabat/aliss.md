@@ -1,5 +1,5 @@
 ---
 title: "Aliss"
 url: /curridabat/aliss/
-shop: Warenhaus
+shop: grandes almacenes
 ---

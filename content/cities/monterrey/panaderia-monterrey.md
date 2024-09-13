@@ -1,5 +1,5 @@
 ---
 title: "Panaderia Monterrey"
 url: /monterrey/panaderia-monterrey/
-shop: Bäckerei
+shop: panadería
 ---

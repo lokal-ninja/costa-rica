@@ -1,5 +1,5 @@
 ---
 title: "Peisa"
 url: /san-jose/peisa/
-shop: Motorrad
+shop: motocicleta
 ---

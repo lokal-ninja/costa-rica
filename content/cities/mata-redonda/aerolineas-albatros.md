@@ -1,5 +1,5 @@
 ---
 title: "Aerolíneas Albatros"
 url: /mata-redonda/aerolineas-albatros/
-shop: Reisebüro
+shop: agencia de viajes
 ---

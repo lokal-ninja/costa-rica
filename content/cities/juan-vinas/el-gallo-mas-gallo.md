@@ -1,5 +1,5 @@
 ---
 title: "El Gallo Mas Gallo"
 url: /juan-vinas/el-gallo-mas-gallo/
-shop: Warenhaus
+shop: grandes almacenes
 ---

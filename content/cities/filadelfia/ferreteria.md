@@ -1,5 +1,5 @@
 ---
 title: "Ferretería"
 url: /filadelfia/ferreteria/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Outlet Brands"
 url: /canas/outlet-brands/
-shop: Kramladen
+shop: tienda de variedades
 ---

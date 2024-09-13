@@ -1,5 +1,5 @@
 ---
 title: "Motorix"
 url: /san-jose/motorix/
-shop: Autoteile
+shop: piezas de automóviles
 ---

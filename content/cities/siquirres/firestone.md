@@ -1,5 +1,5 @@
 ---
 title: "Firestone"
 url: /siquirres/firestone/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

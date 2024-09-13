@@ -1,5 +1,5 @@
 ---
 title: "AutoPits"
 url: /heredia/autopits/
-shop: Reifen
+shop: neumáticos
 ---

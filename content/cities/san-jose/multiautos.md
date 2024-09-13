@@ -1,5 +1,5 @@
 ---
 title: "MultiAutos"
 url: /san-jose/multiautos/
-shop: Autohaus
+shop: coche
 ---

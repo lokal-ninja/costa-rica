@@ -1,5 +1,5 @@
 ---
 title: "La Vitrino"
 url: /san-roque/la-vitrino/
-shop: Möbel
+shop: muebles
 ---

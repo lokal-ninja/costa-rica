@@ -1,5 +1,5 @@
 ---
 title: "Motos Orion"
 url: /alajuela/motos-orion/
-shop: Autoteile
+shop: piezas de automóviles
 ---

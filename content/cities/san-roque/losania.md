@@ -1,5 +1,5 @@
 ---
 title: "Losanía"
 url: /san-roque/losania/
-shop: Bioladen
+shop: alimentación sana
 ---

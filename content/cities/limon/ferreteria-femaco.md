@@ -1,5 +1,5 @@
 ---
 title: "Ferretería Femaco"
 url: /limon/ferreteria-femaco/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

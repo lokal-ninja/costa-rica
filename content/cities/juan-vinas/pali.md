@@ -1,5 +1,5 @@
 ---
 title: "Palí"
 url: /juan-vinas/pali/
-shop: Supermarkt
+shop: supermercado
 ---

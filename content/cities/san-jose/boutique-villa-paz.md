@@ -1,5 +1,5 @@
 ---
 title: "Boutique Villa Paz"
 url: /san-jose/boutique-villa-paz/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "TIGO"
 url: /turrialba/tigo/
-shop: Handy
+shop: teléfono móvil
 ---

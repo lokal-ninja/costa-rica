@@ -1,5 +1,5 @@
 ---
 title: "JetBox"
 url: /escazu/jetbox/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Super Crecen"
 url: /san-jose/super-crecen/
-shop: Allgemein
+shop: general
 ---

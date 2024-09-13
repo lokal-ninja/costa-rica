@@ -1,5 +1,5 @@
 ---
 title: "Jaikel"
 url: /alajuela/jaikel/
-shop: Kleidung
+shop: ropa
 ---

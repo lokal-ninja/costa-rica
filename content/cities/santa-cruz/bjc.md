@@ -1,5 +1,5 @@
 ---
 title: "BJC"
 url: /santa-cruz/bjc/
-shop: Allgemein
+shop: general
 ---

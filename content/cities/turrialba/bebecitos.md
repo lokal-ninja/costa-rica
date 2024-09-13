@@ -1,5 +1,5 @@
 ---
 title: "Bebécitos"
 url: /turrialba/bebecitos/
-shop: Kleidung
+shop: ropa
 ---

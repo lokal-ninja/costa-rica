@@ -1,5 +1,5 @@
 ---
 title: "BOZAPE"
 url: /golfito/bozape/
-shop: Computer
+shop: ordenador
 ---

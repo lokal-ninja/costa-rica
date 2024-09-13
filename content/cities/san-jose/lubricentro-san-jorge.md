@@ -1,5 +1,5 @@
 ---
 title: "Lubricentro San Jorge"
 url: /san-jose/lubricentro-san-jorge/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

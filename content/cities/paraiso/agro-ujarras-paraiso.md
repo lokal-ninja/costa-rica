@@ -1,5 +1,5 @@
 ---
 title: "Agro Ujarrás Paraiso"
 url: /paraiso/agro-ujarras-paraiso/
-shop: Allgemein
+shop: general
 ---

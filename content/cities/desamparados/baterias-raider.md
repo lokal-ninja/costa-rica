@@ -1,5 +1,5 @@
 ---
 title: "Baterias Raider"
 url: /desamparados/baterias-raider/
-shop: Autoteile
+shop: piezas de automóviles
 ---

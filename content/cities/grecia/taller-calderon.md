@@ -1,5 +1,5 @@
 ---
 title: "Taller Calderón"
 url: /grecia/taller-calderon/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

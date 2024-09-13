@@ -1,5 +1,5 @@
 ---
 title: "Zapatería Lorna"
 url: /quepos/zapateria-lorna/
-shop: Schuhe
+shop: zapatos
 ---

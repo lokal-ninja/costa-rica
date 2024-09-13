@@ -1,5 +1,5 @@
 ---
 title: "Bebe Mundo"
 url: /heredia/bebe-mundo/
-shop: Warenhaus
+shop: grandes almacenes
 ---

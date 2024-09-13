@@ -1,5 +1,5 @@
 ---
 title: "Plaza Paseo Nuevo"
 url: /san-isidro/plaza-paseo-nuevo/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

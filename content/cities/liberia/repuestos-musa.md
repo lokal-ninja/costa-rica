@@ -1,5 +1,5 @@
 ---
 title: "Repuestos Musa"
 url: /liberia/repuestos-musa/
-shop: Autoteile
+shop: piezas de automóviles
 ---

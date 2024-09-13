@@ -1,5 +1,5 @@
 ---
 title: "ServiTeca"
 url: /san-jose/serviteca/
-shop: Autoteile
+shop: piezas de automóviles
 ---

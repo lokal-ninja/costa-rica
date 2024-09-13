@@ -1,5 +1,5 @@
 ---
 title: "Ferretería San Felipe"
 url: /alajuelita/ferreteria-san-felipe/
-shop: Eisenwaren
+shop: hardware
 ---

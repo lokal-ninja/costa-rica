@@ -1,5 +1,5 @@
 ---
 title: "Tattoo"
 url: /san-juan-de-tibas/tattoo/
-shop: Tattoo
+shop: tatuaje
 ---

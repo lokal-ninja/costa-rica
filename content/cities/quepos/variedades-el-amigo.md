@@ -1,5 +1,5 @@
 ---
 title: "Variedades el Amigo"
 url: /quepos/variedades-el-amigo/
-shop: Kramladen
+shop: tienda de variedades
 ---

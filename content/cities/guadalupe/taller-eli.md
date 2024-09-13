@@ -1,5 +1,5 @@
 ---
 title: "Taller Eli"
 url: /guadalupe/taller-eli/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

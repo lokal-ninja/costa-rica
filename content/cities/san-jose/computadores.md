@@ -1,5 +1,5 @@
 ---
 title: "Computadores"
 url: /san-jose/computadores/
-shop: Computer
+shop: ordenador
 ---

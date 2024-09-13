@@ -1,5 +1,5 @@
 ---
 title: "Oroz"
 url: /heredia/oroz/
-shop: Schmuck
+shop: joyería
 ---

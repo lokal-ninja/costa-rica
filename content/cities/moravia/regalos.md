@@ -1,5 +1,5 @@
 ---
 title: "Regalos"
 url: /moravia/regalos/
-shop: Andenken
+shop: regalo
 ---

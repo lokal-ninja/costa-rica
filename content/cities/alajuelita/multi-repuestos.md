@@ -1,5 +1,5 @@
 ---
 title: "Multi Repuestos"
 url: /alajuelita/multi-repuestos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

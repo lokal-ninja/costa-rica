@@ -1,5 +1,5 @@
 ---
 title: "Compucell"
 url: /moravia/compucell/
-shop: Allgemein
+shop: general
 ---

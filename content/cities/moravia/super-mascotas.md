@@ -1,5 +1,5 @@
 ---
 title: "Super Mascotas"
 url: /moravia/super-mascotas/
-shop: Tiere
+shop: mascotas
 ---

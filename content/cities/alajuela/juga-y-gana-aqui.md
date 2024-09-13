@@ -1,5 +1,5 @@
 ---
 title: "Juga y ganá aqui"
 url: /alajuela/juga-y-gana-aqui/
-shop: Lotterie
+shop: lotería
 ---

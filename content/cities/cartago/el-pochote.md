@@ -1,5 +1,5 @@
 ---
 title: "El Pochote"
 url: /cartago/el-pochote/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ferretería Barva"
 url: /barva/ferreteria-barva/
-shop: Eisenwaren
+shop: hardware
 ---

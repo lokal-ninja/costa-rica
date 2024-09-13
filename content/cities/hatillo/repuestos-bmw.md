@@ -1,5 +1,5 @@
 ---
 title: "Repuestos BMW"
 url: /hatillo/repuestos-bmw/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ekono"
 url: /cartago/ekono/
-shop: Kleidung
+shop: ropa
 ---

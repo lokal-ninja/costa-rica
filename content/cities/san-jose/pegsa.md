@@ -1,5 +1,5 @@
 ---
 title: "Pegsa"
 url: /san-jose/pegsa/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "intergame"
 url: /cartago/intergame/
-shop: Handy
+shop: teléfono móvil
 ---

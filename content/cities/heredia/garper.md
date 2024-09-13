@@ -1,5 +1,5 @@
 ---
 title: "Garper"
 url: /heredia/garper/
-shop: Kleidung
+shop: ropa
 ---

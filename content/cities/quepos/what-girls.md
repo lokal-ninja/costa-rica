@@ -1,5 +1,5 @@
 ---
 title: "What! Girls"
 url: /quepos/what-girls/
-shop: Kleidung
+shop: ropa
 ---

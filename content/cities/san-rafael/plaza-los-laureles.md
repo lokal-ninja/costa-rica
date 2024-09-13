@@ -1,5 +1,5 @@
 ---
 title: "Plaza Los Laureles"
 url: /san-rafael/plaza-los-laureles/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

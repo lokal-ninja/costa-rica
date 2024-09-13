@@ -1,5 +1,5 @@
 ---
 title: "Abastecedor Eliza"
 url: /guadalupe/abastecedor-eliza/
-shop: Lebensmittel
+shop: comodidad
 ---

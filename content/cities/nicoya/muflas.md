@@ -1,5 +1,5 @@
 ---
 title: "Muflas"
 url: /nicoya/muflas/
-shop: Autoteile
+shop: piezas de automóviles
 ---

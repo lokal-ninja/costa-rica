@@ -1,5 +1,5 @@
 ---
 title: "Stihl"
 url: /nicoya/stihl/
-shop: Eisenwaren
+shop: hardware
 ---

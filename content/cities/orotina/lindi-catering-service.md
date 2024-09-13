@@ -1,5 +1,5 @@
 ---
 title: "Lindi Catering Service"
 url: /orotina/lindi-catering-service/
-shop: Allgemein
+shop: general
 ---

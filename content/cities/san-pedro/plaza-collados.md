@@ -1,5 +1,5 @@
 ---
 title: "Plaza Collados"
 url: /san-pedro/plaza-collados/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

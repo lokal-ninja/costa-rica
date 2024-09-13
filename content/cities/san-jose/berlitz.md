@@ -1,5 +1,5 @@
 ---
 title: "Berlitz"
 url: /san-jose/berlitz/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Centro de Servicio Automotriz"
 url: /san-jose/centro-de-servicio-automotriz/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

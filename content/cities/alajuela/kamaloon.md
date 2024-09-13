@@ -1,5 +1,5 @@
 ---
 title: "Kamaloon"
 url: /alajuela/kamaloon/
-shop: Kleidung
+shop: ropa
 ---

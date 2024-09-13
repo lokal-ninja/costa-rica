@@ -1,5 +1,5 @@
 ---
 title: "Macrobiotica"
 url: /orotina/macrobiotica/
-shop: Nahrungsergänzung
+shop: suplementos nutricionales
 ---

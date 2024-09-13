@@ -1,5 +1,5 @@
 ---
 title: "Colono Construcción"
 url: /arenal/colono-construccion/
-shop: Eisenwaren
+shop: hardware
 ---

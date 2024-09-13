@@ -1,5 +1,5 @@
 ---
 title: "Ticolombia Soda y Panadería"
 url: /san-jose/ticolombia-soda-y-panaderia/
-shop: Bäckerei
+shop: panadería
 ---

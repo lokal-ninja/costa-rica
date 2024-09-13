@@ -1,5 +1,5 @@
 ---
 title: "Merci Mercy"
 url: /escazu/merci-mercy/
-shop: Kunst
+shop: arte
 ---

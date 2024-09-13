@@ -1,5 +1,5 @@
 ---
 title: "Celulares Nanda"
 url: /heredia/celulares-nanda/
-shop: Handy
+shop: teléfono móvil
 ---

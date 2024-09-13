@@ -1,5 +1,5 @@
 ---
 title: "Floristería"
 url: /moravia/floristeria/
-shop: Blumen
+shop: floristería
 ---

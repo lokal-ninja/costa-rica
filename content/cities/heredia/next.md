@@ -1,5 +1,5 @@
 ---
 title: "Next"
 url: /heredia/next/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cromatec Pinturas"
 url: /san-rafael/cromatec-pinturas/
-shop: Farben
+shop: pintura
 ---

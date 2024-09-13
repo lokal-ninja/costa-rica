@@ -1,5 +1,5 @@
 ---
 title: "Súper Fanny"
 url: /tures/super-fanny/
-shop: Supermarkt
+shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jireh"
 url: /alajuela/jireh/
-shop: Schuhe
+shop: zapatos
 ---

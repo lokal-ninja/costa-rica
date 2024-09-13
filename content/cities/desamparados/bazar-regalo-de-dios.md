@@ -1,5 +1,5 @@
 ---
 title: "Bazar Regalo de Dios"
 url: /desamparados/bazar-regalo-de-dios/
-shop: Andenken
+shop: regalo
 ---

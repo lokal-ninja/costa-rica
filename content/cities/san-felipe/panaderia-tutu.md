@@ -1,5 +1,5 @@
 ---
 title: "Panadería Tutú"
 url: /san-felipe/panaderia-tutu/
-shop: Bäckerei
+shop: panadería
 ---

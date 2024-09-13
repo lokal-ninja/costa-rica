@@ -1,5 +1,5 @@
 ---
 title: "Claro"
 url: /santa-cruz/claro/
-shop: Handy
+shop: teléfono móvil
 ---

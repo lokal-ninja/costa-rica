@@ -1,5 +1,5 @@
 ---
 title: "Jirón"
 url: /san-jose/jiron/
-shop: Betten
+shop: cama
 ---

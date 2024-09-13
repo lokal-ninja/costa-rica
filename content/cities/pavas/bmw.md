@@ -1,5 +1,5 @@
 ---
 title: "BMW"
 url: /pavas/bmw/
-shop: Motorrad
+shop: motocicleta
 ---

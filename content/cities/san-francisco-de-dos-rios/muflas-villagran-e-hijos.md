@@ -1,5 +1,5 @@
 ---
 title: "Muflas Villagran e Hijos"
 url: /san-francisco-de-dos-rios/muflas-villagran-e-hijos/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

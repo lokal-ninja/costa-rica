@@ -1,5 +1,5 @@
 ---
 title: "Colono Agropecuario"
 url: /parrita/colono-agropecuario/
-shop: Landwirtschaftlich
+shop: agraria
 ---

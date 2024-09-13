@@ -1,5 +1,5 @@
 ---
 title: "Agencia ICE"
 url: /el-roble/agencia-ice/
-shop: Handy
+shop: teléfono móvil
 ---

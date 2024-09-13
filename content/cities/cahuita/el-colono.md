@@ -1,5 +1,5 @@
 ---
 title: "El Colono"
 url: /cahuita/el-colono/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

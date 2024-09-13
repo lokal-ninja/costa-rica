@@ -1,5 +1,5 @@
 ---
 title: "ampm"
 url: /uruca/ampm/
-shop: Lebensmittel
+shop: comodidad
 ---

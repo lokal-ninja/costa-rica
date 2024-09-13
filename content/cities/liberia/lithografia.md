@@ -1,5 +1,5 @@
 ---
 title: "Líthografía"
 url: /liberia/lithografia/
-shop: Kopieren
+shop: copyshop
 ---

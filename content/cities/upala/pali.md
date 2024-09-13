@@ -1,5 +1,5 @@
 ---
 title: "Palí"
 url: /upala/pali/
-shop: Supermarkt
+shop: supermercado
 ---

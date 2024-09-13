@@ -1,5 +1,5 @@
 ---
 title: "Repuestos Navarro"
 url: /san-joaquin/repuestos-navarro/
-shop: Autoteile
+shop: piezas de automóviles
 ---

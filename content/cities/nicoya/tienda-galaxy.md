@@ -1,5 +1,5 @@
 ---
 title: "Tienda Galaxy"
 url: /nicoya/tienda-galaxy/
-shop: Sport
+shop: deportes
 ---

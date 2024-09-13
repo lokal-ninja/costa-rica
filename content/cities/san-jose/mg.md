@@ -1,5 +1,5 @@
 ---
 title: "MG"
 url: /san-jose/mg/
-shop: Autohaus
+shop: coche
 ---

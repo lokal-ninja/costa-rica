@@ -1,5 +1,5 @@
 ---
 title: "Todo En Uno"
 url: /cartago/todo-en-uno/
-shop: Lebensmittel
+shop: comodidad
 ---

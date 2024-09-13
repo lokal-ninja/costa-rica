@@ -1,5 +1,5 @@
 ---
 title: "King Kolar"
 url: /san-jose/king-kolar/
-shop: Kopieren
+shop: copyshop
 ---

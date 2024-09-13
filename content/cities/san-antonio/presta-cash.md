@@ -1,5 +1,5 @@
 ---
 title: "Presta Cash"
 url: /san-antonio/presta-cash/
-shop: Leiher
+shop: prestamista
 ---

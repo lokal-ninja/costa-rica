@@ -1,5 +1,5 @@
 ---
 title: "Pintacasa Projecto"
 url: /cartago/pintacasa-projecto/
-shop: Farben
+shop: pintura
 ---

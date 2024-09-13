@@ -1,5 +1,5 @@
 ---
 title: "La Uvita"
 url: /alajuelita/la-uvita/
-shop: Allgemein
+shop: general
 ---

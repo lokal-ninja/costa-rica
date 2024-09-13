@@ -1,5 +1,5 @@
 ---
 title: "Duralac"
 url: /alajuelita/duralac/
-shop: Autoteile
+shop: piezas de automóviles
 ---

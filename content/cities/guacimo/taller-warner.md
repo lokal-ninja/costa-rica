@@ -1,5 +1,5 @@
 ---
 title: "Taller Warner"
 url: /guacimo/taller-warner/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

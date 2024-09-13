@@ -1,5 +1,5 @@
 ---
 title: "ExceColor"
 url: /alajuela/excecolor/
-shop: Kopieren
+shop: copyshop
 ---

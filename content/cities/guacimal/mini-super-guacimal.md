@@ -1,5 +1,5 @@
 ---
 title: "Mini Super Guacimal"
 url: /guacimal/mini-super-guacimal/
-shop: Lebensmittel
+shop: comodidad
 ---

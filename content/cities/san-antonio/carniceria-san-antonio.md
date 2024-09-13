@@ -1,5 +1,5 @@
 ---
 title: "Carnicería San Antonio"
 url: /san-antonio/carniceria-san-antonio/
-shop: Metzgerei
+shop: carnicero
 ---

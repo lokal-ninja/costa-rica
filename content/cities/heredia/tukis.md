@@ -1,5 +1,5 @@
 ---
 title: "Tukis"
 url: /heredia/tukis/
-shop: Elektronik
+shop: electrónica
 ---

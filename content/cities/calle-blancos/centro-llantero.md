@@ -1,5 +1,5 @@
 ---
 title: "Centro Llantero"
 url: /calle-blancos/centro-llantero/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

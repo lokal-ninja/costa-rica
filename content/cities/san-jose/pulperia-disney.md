@@ -1,5 +1,5 @@
 ---
 title: "Pulpería Disney"
 url: /san-jose/pulperia-disney/
-shop: Kiosk
+shop: quiosco
 ---

@@ -1,5 +1,5 @@
 ---
 title: "NM"
 url: /heredia/nm/
-shop: Kleidung
+shop: ropa
 ---

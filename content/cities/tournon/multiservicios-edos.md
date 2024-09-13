@@ -1,5 +1,5 @@
 ---
 title: "Multiservicios Edos"
 url: /tournon/multiservicios-edos/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

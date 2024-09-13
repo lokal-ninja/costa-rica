@@ -1,5 +1,5 @@
 ---
 title: "Autotech"
 url: /san-jose/autotech/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

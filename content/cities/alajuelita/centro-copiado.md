@@ -1,5 +1,5 @@
 ---
 title: "Centro Copiado"
 url: /alajuelita/centro-copiado/
-shop: Kopieren
+shop: copyshop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Monge"
 url: /rio-cuarto/monge/
-shop: Haushaltsgeräte
+shop: aparato
 ---

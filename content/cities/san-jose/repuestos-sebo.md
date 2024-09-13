@@ -1,5 +1,5 @@
 ---
 title: "Repuestos Sebo"
 url: /san-jose/repuestos-sebo/
-shop: Autoteile
+shop: piezas de automóviles
 ---

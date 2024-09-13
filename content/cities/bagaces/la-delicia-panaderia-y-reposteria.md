@@ -1,5 +1,5 @@
 ---
 title: "La Delicia Panadería y Repostería"
 url: /bagaces/la-delicia-panaderia-y-reposteria/
-shop: Bäckerei
+shop: panadería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lucas"
 url: /paraiso/lucas/
-shop: Eisenwaren
+shop: hardware
 ---

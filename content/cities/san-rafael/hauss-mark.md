@@ -1,5 +1,5 @@
 ---
 title: "Haus's Mark"
 url: /san-rafael/hauss-mark/
-shop: Allgemein
+shop: general
 ---

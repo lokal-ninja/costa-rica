@@ -1,5 +1,5 @@
 ---
 title: "Mini Súper Belén"
 url: /belen/mini-super-belen/
-shop: Lebensmittel
+shop: comodidad
 ---

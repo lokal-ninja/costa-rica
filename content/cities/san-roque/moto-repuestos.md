@@ -1,5 +1,5 @@
 ---
 title: "Moto Repuestos"
 url: /san-roque/moto-repuestos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

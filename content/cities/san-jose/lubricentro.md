@@ -1,5 +1,5 @@
 ---
 title: "Lubricentro"
 url: /san-jose/lubricentro/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

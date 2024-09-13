@@ -1,5 +1,5 @@
 ---
 title: "epasa"
 url: /llorente/epasa/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

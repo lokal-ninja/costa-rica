@@ -1,5 +1,5 @@
 ---
 title: "Claro"
 url: /heredia/claro-calle-4/
-shop: Handy
+shop: teléfono móvil
 ---

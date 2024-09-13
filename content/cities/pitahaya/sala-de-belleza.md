@@ -1,5 +1,5 @@
 ---
 title: "Sala De Belleza"
 url: /pitahaya/sala-de-belleza/
-shop: Kosmetik
+shop: cosméticos
 ---

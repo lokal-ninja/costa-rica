@@ -1,5 +1,5 @@
 ---
 title: "Transco"
 url: /san-jose/transco/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

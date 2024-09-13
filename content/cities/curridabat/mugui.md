@@ -1,5 +1,5 @@
 ---
 title: "Mugui"
 url: /curridabat/mugui/
-shop: Möbel
+shop: muebles
 ---

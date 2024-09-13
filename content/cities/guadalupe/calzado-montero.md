@@ -1,5 +1,5 @@
 ---
 title: "Calzado Montero"
 url: /guadalupe/calzado-montero/
-shop: Schuhe
+shop: zapatos
 ---

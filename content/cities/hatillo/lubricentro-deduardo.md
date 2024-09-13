@@ -1,5 +1,5 @@
 ---
 title: "Lubricentro D'Eduardo"
 url: /hatillo/lubricentro-deduardo/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

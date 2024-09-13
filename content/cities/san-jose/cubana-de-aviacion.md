@@ -1,5 +1,5 @@
 ---
 title: "Cubana de Aviación"
 url: /san-jose/cubana-de-aviacion/
-shop: Reisebüro
+shop: agencia de viajes
 ---

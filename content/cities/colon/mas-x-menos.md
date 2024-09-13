@@ -1,5 +1,5 @@
 ---
 title: "Más X Menos"
 url: /colon/mas-x-menos/
-shop: Supermarkt
+shop: supermercado
 ---

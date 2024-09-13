@@ -1,5 +1,5 @@
 ---
 title: "Herbalife"
 url: /san-jose/herbalife/
-shop: Allgemein
+shop: general
 ---

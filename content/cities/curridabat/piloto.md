@@ -1,5 +1,5 @@
 ---
 title: "Piloto"
 url: /curridabat/piloto/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Suzuki"
 url: /san-francisco/suzuki/
-shop: Autohaus
+shop: coche
 ---

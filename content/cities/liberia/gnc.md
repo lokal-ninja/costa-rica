@@ -1,5 +1,5 @@
 ---
 title: "GNC"
 url: /liberia/gnc/
-shop: Allgemein
+shop: general
 ---

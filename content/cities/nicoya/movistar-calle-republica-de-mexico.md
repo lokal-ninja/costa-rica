@@ -1,5 +1,5 @@
 ---
 title: "Movistar"
 url: /nicoya/movistar-calle-republica-de-mexico/
-shop: Handy
+shop: teléfono móvil
 ---

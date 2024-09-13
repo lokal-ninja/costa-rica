@@ -1,5 +1,5 @@
 ---
 title: "Musmanni"
 url: /cartago/musmanni-2/
-shop: Bäckerei
+shop: panadería
 ---

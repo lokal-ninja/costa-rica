@@ -1,5 +1,5 @@
 ---
 title: "Supesca"
 url: /cartago/supesca/
-shop: Eisenwaren
+shop: hardware
 ---

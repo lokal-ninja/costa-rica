@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /rincon-de-sabanilla/walmart/
-shop: Warenhaus
+shop: grandes almacenes
 ---

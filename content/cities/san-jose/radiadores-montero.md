@@ -1,5 +1,5 @@
 ---
 title: "Radiadores Montero"
 url: /san-jose/radiadores-montero/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

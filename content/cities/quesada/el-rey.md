@@ -1,5 +1,5 @@
 ---
 title: "El Rey"
 url: /quesada/el-rey/
-shop: Warenhaus
+shop: grandes almacenes
 ---

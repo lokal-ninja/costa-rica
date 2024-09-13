@@ -1,5 +1,5 @@
 ---
 title: "Mercado Ancyfer"
 url: /heredia/mercado-ancyfer/
-shop: Lebensmittel
+shop: comodidad
 ---

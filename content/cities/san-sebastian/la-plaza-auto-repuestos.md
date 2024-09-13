@@ -1,5 +1,5 @@
 ---
 title: "La Plaza Auto Repuestos"
 url: /san-sebastian/la-plaza-auto-repuestos/
-shop: Autoteile
+shop: piezas de automóviles
 ---

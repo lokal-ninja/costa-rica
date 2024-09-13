@@ -1,5 +1,5 @@
 ---
 title: "Toys"
 url: /heredia/toys/
-shop: Spielzeug
+shop: juguetes
 ---

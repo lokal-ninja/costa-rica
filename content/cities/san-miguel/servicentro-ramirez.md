@@ -1,5 +1,5 @@
 ---
 title: "Servicentro Ramirez"
 url: /san-miguel/servicentro-ramirez/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

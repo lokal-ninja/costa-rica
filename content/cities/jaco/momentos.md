@@ -1,5 +1,5 @@
 ---
 title: "Momentos"
 url: /jaco/momentos/
-shop: Allgemein
+shop: general
 ---

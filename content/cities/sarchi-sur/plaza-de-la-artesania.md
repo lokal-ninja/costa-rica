@@ -1,5 +1,5 @@
 ---
 title: "Plaza de la Artesanía"
 url: /sarchi-sur/plaza-de-la-artesania/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

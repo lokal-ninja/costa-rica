@@ -1,5 +1,5 @@
 ---
 title: "Paseo Metropoli"
 url: /guadalupe/paseo-metropoli/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

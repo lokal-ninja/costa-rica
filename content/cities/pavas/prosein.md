@@ -1,5 +1,5 @@
 ---
 title: "Prosein"
 url: /pavas/prosein/
-shop: Badezimmer
+shop: cuarto de baño
 ---

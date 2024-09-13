@@ -1,5 +1,5 @@
 ---
 title: "MUFLAS TSO"
 url: /zapote/muflas-tso/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

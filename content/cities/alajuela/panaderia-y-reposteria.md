@@ -1,5 +1,5 @@
 ---
 title: "Panadería y Reposteria"
 url: /alajuela/panaderia-y-reposteria/
-shop: Bäckerei
+shop: panadería
 ---

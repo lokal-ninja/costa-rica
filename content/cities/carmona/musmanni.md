@@ -1,5 +1,5 @@
 ---
 title: "Musmanni"
 url: /carmona/musmanni/
-shop: Bäckerei
+shop: panadería
 ---

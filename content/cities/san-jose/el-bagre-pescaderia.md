@@ -1,5 +1,5 @@
 ---
 title: "El Bagre Pescaderia"
 url: /san-jose/el-bagre-pescaderia/
-shop: Fisch
+shop: marisco
 ---

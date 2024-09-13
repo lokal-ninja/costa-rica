@@ -1,5 +1,5 @@
 ---
 title: "Auto Clase"
 url: /san-jose/auto-clase/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

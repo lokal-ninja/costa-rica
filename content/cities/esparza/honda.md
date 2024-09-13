@@ -1,5 +1,5 @@
 ---
 title: "Honda"
 url: /esparza/honda/
-shop: Motorrad
+shop: motocicleta
 ---

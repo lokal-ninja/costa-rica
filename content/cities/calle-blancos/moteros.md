@@ -1,5 +1,5 @@
 ---
 title: "Moteros"
 url: /calle-blancos/moteros/
-shop: Autoteile
+shop: piezas de automóviles
 ---

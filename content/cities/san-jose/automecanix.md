@@ -1,5 +1,5 @@
 ---
 title: "AutoMecanix"
 url: /san-jose/automecanix/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

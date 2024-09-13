@@ -1,5 +1,5 @@
 ---
 title: "Deliciosos Quesos"
 url: /san-vicente/deliciosos-quesos/
-shop: Allgemein
+shop: general
 ---

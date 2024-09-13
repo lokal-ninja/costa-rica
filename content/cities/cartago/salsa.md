@@ -1,5 +1,5 @@
 ---
 title: "Salsa"
 url: /cartago/salsa/
-shop: Kleidung
+shop: ropa
 ---

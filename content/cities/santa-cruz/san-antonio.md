@@ -1,5 +1,5 @@
 ---
 title: "San Antonio"
 url: /santa-cruz/san-antonio/
-shop: Kleidung
+shop: ropa
 ---

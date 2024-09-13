@@ -1,5 +1,5 @@
 ---
 title: "Autostar"
 url: /mercedes-norte/autostar/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

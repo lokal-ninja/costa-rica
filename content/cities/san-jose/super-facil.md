@@ -1,5 +1,5 @@
 ---
 title: "Súper Fácil"
 url: /san-jose/super-facil/
-shop: Supermarkt
+shop: supermercado
 ---

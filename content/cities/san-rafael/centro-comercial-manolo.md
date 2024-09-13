@@ -1,5 +1,5 @@
 ---
 title: "Centro Comercial Manolo"
 url: /san-rafael/centro-comercial-manolo/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

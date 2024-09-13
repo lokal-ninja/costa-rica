@@ -1,5 +1,5 @@
 ---
 title: "Mueblería Anita"
 url: /desamparados/muebleria-anita/
-shop: Möbel
+shop: muebles
 ---

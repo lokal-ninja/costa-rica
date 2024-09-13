@@ -1,5 +1,5 @@
 ---
 title: "Auto Willy Repuestos"
 url: /huacas/auto-willy-repuestos/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

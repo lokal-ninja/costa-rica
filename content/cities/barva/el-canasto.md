@@ -1,5 +1,5 @@
 ---
 title: "El Canasto"
 url: /barva/el-canasto/
-shop: Spirituosen
+shop: alcohol
 ---

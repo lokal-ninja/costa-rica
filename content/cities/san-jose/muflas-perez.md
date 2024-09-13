@@ -1,5 +1,5 @@
 ---
 title: "Muflas Perez"
 url: /san-jose/muflas-perez/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

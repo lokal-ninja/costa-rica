@@ -1,5 +1,5 @@
 ---
 title: "Ehops"
 url: /heredia/ehops/
-shop: Warenhaus
+shop: grandes almacenes
 ---

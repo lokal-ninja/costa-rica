@@ -1,5 +1,5 @@
 ---
 title: "Gollo"
 url: /aserri/gollo/
-shop: Haushaltsgeräte
+shop: aparato
 ---

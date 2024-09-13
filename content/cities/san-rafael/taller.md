@@ -1,5 +1,5 @@
 ---
 title: "Taller"
 url: /san-rafael/taller/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

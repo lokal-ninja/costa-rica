@@ -1,5 +1,5 @@
 ---
 title: "Taller Meneses"
 url: /san-diego/taller-meneses/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

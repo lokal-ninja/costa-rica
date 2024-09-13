@@ -1,5 +1,5 @@
 ---
 title: "Pierre Cardin"
 url: /heredia/pierre-cardin/
-shop: Kleidung
+shop: ropa
 ---

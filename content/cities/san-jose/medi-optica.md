@@ -1,5 +1,5 @@
 ---
 title: "Medi Óptica"
 url: /san-jose/medi-optica/
-shop: Optiker
+shop: óptico
 ---

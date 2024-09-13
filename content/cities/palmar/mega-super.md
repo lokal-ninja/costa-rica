@@ -1,5 +1,5 @@
 ---
 title: "Mega Súper"
 url: /palmar/mega-super/
-shop: Supermarkt
+shop: supermercado
 ---

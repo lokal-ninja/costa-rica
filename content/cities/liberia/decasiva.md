@@ -1,5 +1,5 @@
 ---
 title: "Decasiva"
 url: /liberia/decasiva/
-shop: Haushaltsartikel
+shop: menaje del hogar
 ---

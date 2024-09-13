@@ -1,5 +1,5 @@
 ---
 title: "Uniformes Deportivos"
 url: /limon/uniformes-deportivos/
-shop: Kleidung
+shop: ropa
 ---

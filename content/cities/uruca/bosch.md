@@ -1,5 +1,5 @@
 ---
 title: "Bosch"
 url: /uruca/bosch/
-shop: Haushaltsartikel
+shop: menaje del hogar
 ---

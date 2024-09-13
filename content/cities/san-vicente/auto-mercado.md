@@ -1,5 +1,5 @@
 ---
 title: "Auto Mercado"
 url: /san-vicente/auto-mercado/
-shop: Supermarkt
+shop: supermercado
 ---

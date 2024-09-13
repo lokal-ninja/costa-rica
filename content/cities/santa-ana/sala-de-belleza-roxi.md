@@ -1,5 +1,5 @@
 ---
 title: "Sala de Belleza Roxi"
 url: /santa-ana/sala-de-belleza-roxi/
-shop: Friseur
+shop: peluquería
 ---

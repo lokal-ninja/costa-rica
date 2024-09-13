@@ -1,5 +1,5 @@
 ---
 title: "Optical Center"
 url: /heredia/optical-center/
-shop: Optiker
+shop: óptico
 ---

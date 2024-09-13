@@ -1,5 +1,5 @@
 ---
 title: "Linda"
 url: /alajuela/linda/
-shop: Kramladen
+shop: tienda de variedades
 ---

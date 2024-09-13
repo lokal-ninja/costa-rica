@@ -1,5 +1,5 @@
 ---
 title: "Paso Canoas"
 url: /san-jose/paso-canoas/
-shop: Kleidung
+shop: ropa
 ---

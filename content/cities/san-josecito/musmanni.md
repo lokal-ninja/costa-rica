@@ -1,5 +1,5 @@
 ---
 title: "Musmanni"
 url: /san-josecito/musmanni/
-shop: Bäckerei
+shop: panadería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rosabal"
 url: /san-francisco/rosabal/
-shop: Kleidung
+shop: ropa
 ---

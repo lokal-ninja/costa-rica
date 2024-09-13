@@ -1,5 +1,5 @@
 ---
 title: "Repuestos Cavallini"
 url: /san-jose/repuestos-cavallini/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Distribuidora Koena"
 url: /cartago/distribuidora-koena/
-shop: Allgemein
+shop: general
 ---

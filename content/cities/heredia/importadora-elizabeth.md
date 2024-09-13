@@ -1,5 +1,5 @@
 ---
 title: "Importadora Elizabeth"
 url: /heredia/importadora-elizabeth/
-shop: Allgemein
+shop: general
 ---

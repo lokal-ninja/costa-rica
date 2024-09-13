@@ -1,5 +1,5 @@
 ---
 title: "Redshop"
 url: /san-jose/redshop/
-shop: Allgemein
+shop: general
 ---

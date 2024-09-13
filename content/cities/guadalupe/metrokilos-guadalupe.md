@@ -1,5 +1,5 @@
 ---
 title: "Metrokilos Guadalupe"
 url: /guadalupe/metrokilos-guadalupe/
-shop: Textil
+shop: tela
 ---

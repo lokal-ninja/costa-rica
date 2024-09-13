@@ -1,5 +1,5 @@
 ---
 title: "Repuestos San Fancisco"
 url: /san-francisco/repuestos-san-fancisco/
-shop: Autoteile
+shop: piezas de automóviles
 ---

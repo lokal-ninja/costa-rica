@@ -1,5 +1,5 @@
 ---
 title: "Venegas Garage"
 url: /jesus/venegas-garage/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

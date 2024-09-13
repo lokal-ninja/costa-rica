@@ -1,5 +1,5 @@
 ---
 title: "Maco"
 url: /alajuelita/maco/
-shop: Lotterie
+shop: lotería
 ---

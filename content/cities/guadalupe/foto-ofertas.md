@@ -1,5 +1,5 @@
 ---
 title: "Foto Ofertas"
 url: /guadalupe/foto-ofertas/
-shop: Foto
+shop: foto
 ---

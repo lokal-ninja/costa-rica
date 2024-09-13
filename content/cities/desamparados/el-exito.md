@@ -1,5 +1,5 @@
 ---
 title: "El Éxito"
 url: /desamparados/el-exito/
-shop: Lebensmittel
+shop: comodidad
 ---

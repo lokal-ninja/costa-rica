@@ -1,5 +1,5 @@
 ---
 title: "El Lagar"
 url: /san-isidro/el-lagar/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

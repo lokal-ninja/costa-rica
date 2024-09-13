@@ -1,5 +1,5 @@
 ---
 title: "Pinturas Sur"
 url: /liberia/pinturas-sur/
-shop: Farben
+shop: pintura
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Plaza María Isabel"
 url: /occidental/plaza-maria-isabel/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

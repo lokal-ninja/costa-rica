@@ -1,5 +1,5 @@
 ---
 title: "Payless"
 url: /san-jose/payless/
-shop: Allgemein
+shop: general
 ---

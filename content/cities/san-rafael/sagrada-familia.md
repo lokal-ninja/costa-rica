@@ -1,5 +1,5 @@
 ---
 title: "Sagrada Familia"
 url: /san-rafael/sagrada-familia/
-shop: Lebensmittel
+shop: comodidad
 ---

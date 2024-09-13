@@ -1,5 +1,5 @@
 ---
 title: "Tienda Santo Domingo"
 url: /santo-domingo/tienda-santo-domingo/
-shop: Allgemein
+shop: general
 ---

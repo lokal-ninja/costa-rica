@@ -1,5 +1,5 @@
 ---
 title: "Movistar"
 url: /atenas/movistar/
-shop: Handy
+shop: teléfono móvil
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Repuestos Reveko"
 url: /san-jose/repuestos-reveko/
-shop: Autoteile
+shop: piezas de automóviles
 ---

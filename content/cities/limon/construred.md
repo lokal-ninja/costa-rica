@@ -1,5 +1,5 @@
 ---
 title: "ConstruRed"
 url: /limon/construred/
-shop: Eisenwaren
+shop: hardware
 ---

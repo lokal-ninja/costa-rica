@@ -1,5 +1,5 @@
 ---
 title: "Pasos"
 url: /turrialba/pasos/
-shop: Kleidung
+shop: ropa
 ---

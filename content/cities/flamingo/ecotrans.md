@@ -1,5 +1,5 @@
 ---
 title: "Ecotrans"
 url: /flamingo/ecotrans/
-shop: Kleidung
+shop: ropa
 ---

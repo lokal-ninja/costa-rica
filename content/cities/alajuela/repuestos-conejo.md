@@ -1,5 +1,5 @@
 ---
 title: "Repuestos Conejo"
 url: /alajuela/repuestos-conejo/
-shop: Autoteile
+shop: piezas de automóviles
 ---

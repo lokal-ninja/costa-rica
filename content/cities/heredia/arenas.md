@@ -1,5 +1,5 @@
 ---
 title: "Arenas"
 url: /heredia/arenas/
-shop: Kleidung
+shop: ropa
 ---

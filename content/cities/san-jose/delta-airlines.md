@@ -1,5 +1,5 @@
 ---
 title: "Delta Airlines"
 url: /san-jose/delta-airlines/
-shop: Reisebüro
+shop: agencia de viajes
 ---

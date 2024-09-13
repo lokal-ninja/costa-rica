@@ -1,5 +1,5 @@
 ---
 title: "Palí"
 url: /san-jose/pali-via-104-2/
-shop: Supermarkt
+shop: supermercado
 ---

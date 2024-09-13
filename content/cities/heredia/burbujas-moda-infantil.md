@@ -1,5 +1,5 @@
 ---
 title: "Burbujas  Moda Infantil"
 url: /heredia/burbujas-moda-infantil/
-shop: Babysachen
+shop: artículos para bebés
 ---

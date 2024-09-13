@@ -1,5 +1,5 @@
 ---
 title: "Llantera Rodríguez"
 url: /san-jose/llantera-rodriguez/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

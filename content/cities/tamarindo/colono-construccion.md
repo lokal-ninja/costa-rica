@@ -1,5 +1,5 @@
 ---
 title: "Colono Construcción"
 url: /tamarindo/colono-construccion/
-shop: Eisenwaren
+shop: hardware
 ---

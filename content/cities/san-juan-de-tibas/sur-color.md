@@ -1,5 +1,5 @@
 ---
 title: "Sur Color"
 url: /san-juan-de-tibas/sur-color/
-shop: Farben
+shop: pintura
 ---

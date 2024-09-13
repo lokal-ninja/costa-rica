@@ -1,5 +1,5 @@
 ---
 title: "Licorera Pejivalle"
 url: /pejibaye/licorera-pejivalle/
-shop: Spirituosen
+shop: alcohol
 ---

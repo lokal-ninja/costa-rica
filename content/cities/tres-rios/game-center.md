@@ -1,5 +1,5 @@
 ---
 title: "Game Center"
 url: /tres-rios/game-center/
-shop: Elektronik
+shop: electrónica
 ---

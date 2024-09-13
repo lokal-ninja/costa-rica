@@ -1,5 +1,5 @@
 ---
 title: "Pequeño Mundo"
 url: /mercedes/pequeno-mundo/
-shop: Warenhaus
+shop: grandes almacenes
 ---

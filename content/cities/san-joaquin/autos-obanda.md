@@ -1,5 +1,5 @@
 ---
 title: "Autos Obanda"
 url: /san-joaquin/autos-obanda/
-shop: Autoteile
+shop: piezas de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pequeño Mundo"
 url: /alajuela/pequeno-mundo/
-shop: Warenhaus
+shop: grandes almacenes
 ---

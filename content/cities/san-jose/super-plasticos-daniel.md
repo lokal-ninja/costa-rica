@@ -1,5 +1,5 @@
 ---
 title: "Super Plasticos Daniel"
 url: /san-jose/super-plasticos-daniel/
-shop: Haushaltsartikel
+shop: menaje del hogar
 ---

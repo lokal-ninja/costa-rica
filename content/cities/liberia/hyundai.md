@@ -1,5 +1,5 @@
 ---
 title: "Hyundai"
 url: /liberia/hyundai/
-shop: Autohaus
+shop: coche
 ---

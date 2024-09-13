@@ -1,5 +1,5 @@
 ---
 title: "Serigrafia Charlotte Sublimación"
 url: /liberia/serigrafia-charlotte-sublimacion/
-shop: Allgemein
+shop: general
 ---

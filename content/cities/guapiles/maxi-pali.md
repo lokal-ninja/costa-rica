@@ -1,5 +1,5 @@
 ---
 title: "Maxi Palí"
 url: /guapiles/maxi-pali/
-shop: Supermarkt
+shop: supermercado
 ---

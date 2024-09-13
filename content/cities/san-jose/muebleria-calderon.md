@@ -1,5 +1,5 @@
 ---
 title: "Muebleria Calderon"
 url: /san-jose/muebleria-calderon/
-shop: Möbel
+shop: muebles
 ---

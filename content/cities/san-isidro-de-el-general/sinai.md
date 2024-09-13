@@ -1,5 +1,5 @@
 ---
 title: "Sinai"
 url: /san-isidro-de-el-general/sinai/
-shop: Kleidung
+shop: ropa
 ---

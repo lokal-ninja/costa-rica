@@ -1,5 +1,5 @@
 ---
 title: "El Rey"
 url: /alajuela/el-rey/
-shop: Warenhaus
+shop: grandes almacenes
 ---

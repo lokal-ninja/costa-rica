@@ -1,5 +1,5 @@
 ---
 title: "Mega Telas"
 url: /turrialba/mega-telas/
-shop: Allgemein
+shop: general
 ---

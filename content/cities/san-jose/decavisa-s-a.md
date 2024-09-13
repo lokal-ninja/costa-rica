@@ -1,5 +1,5 @@
 ---
 title: "Decavisa S.A."
 url: /san-jose/decavisa-s-a/
-shop: Warenhaus
+shop: grandes almacenes
 ---

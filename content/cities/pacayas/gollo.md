@@ -1,5 +1,5 @@
 ---
 title: "Gollo"
 url: /pacayas/gollo/
-shop: Elektronik
+shop: electrónica
 ---

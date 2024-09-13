@@ -1,5 +1,5 @@
 ---
 title: "Super Gangas"
 url: /san-jose/super-gangas/
-shop: Allgemein
+shop: general
 ---

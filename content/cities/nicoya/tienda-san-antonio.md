@@ -1,5 +1,5 @@
 ---
 title: "Tienda San Antonio"
 url: /nicoya/tienda-san-antonio/
-shop: Allgemein
+shop: general
 ---

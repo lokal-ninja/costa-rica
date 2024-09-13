@@ -1,5 +1,5 @@
 ---
 title: "Musi"
 url: /san-jose/musi/
-shop: Lebensmittel
+shop: comodidad
 ---

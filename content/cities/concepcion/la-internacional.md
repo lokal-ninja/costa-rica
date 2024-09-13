@@ -1,5 +1,5 @@
 ---
 title: "La Internacional"
 url: /concepcion/la-internacional/
-shop: Leiher
+shop: prestamista
 ---

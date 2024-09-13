@@ -1,5 +1,5 @@
 ---
 title: "Claro"
 url: /puntarenas/claro/
-shop: Handy
+shop: teléfono móvil
 ---

@@ -1,5 +1,5 @@
 ---
 title: "OCA Multi Marka"
 url: /cartago/oca-multi-marka/
-shop: Autoteile
+shop: piezas de automóviles
 ---

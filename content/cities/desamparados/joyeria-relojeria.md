@@ -1,5 +1,5 @@
 ---
 title: "Joyería Relojería"
 url: /desamparados/joyeria-relojeria/
-shop: Schmuck
+shop: joyería
 ---

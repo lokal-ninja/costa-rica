@@ -1,5 +1,5 @@
 ---
 title: "Casa Blanca"
 url: /turrialba/casa-blanca/
-shop: Warenhaus
+shop: grandes almacenes
 ---

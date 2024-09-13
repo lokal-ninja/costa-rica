@@ -1,5 +1,5 @@
 ---
 title: "San Jorge"
 url: /san-isidro/san-jorge/
-shop: Bestattungen
+shop: directores de funerarias
 ---

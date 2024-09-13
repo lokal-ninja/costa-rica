@@ -1,5 +1,5 @@
 ---
 title: "Soda La Nacional"
 url: /siquirres/soda-la-nacional/
-shop: Lebensmittel
+shop: comodidad
 ---

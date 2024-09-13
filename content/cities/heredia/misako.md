@@ -1,5 +1,5 @@
 ---
 title: "Misako"
 url: /heredia/misako/
-shop: Kleidung
+shop: ropa
 ---

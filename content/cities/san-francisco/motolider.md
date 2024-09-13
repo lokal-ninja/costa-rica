@@ -1,5 +1,5 @@
 ---
 title: "MotoLider"
 url: /san-francisco/motolider/
-shop: Autoteile
+shop: piezas de automóviles
 ---

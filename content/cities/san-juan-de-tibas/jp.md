@@ -1,5 +1,5 @@
 ---
 title: "JP"
 url: /san-juan-de-tibas/jp/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

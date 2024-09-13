@@ -1,5 +1,5 @@
 ---
 title: "Tienda"
 url: /san-jose/tienda/
-shop: Kleidung
+shop: ropa
 ---

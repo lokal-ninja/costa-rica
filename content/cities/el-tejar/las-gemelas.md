@@ -1,5 +1,5 @@
 ---
 title: "Las Gemelas"
 url: /el-tejar/las-gemelas/
-shop: Allgemein
+shop: general
 ---

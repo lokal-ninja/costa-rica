@@ -1,5 +1,5 @@
 ---
 title: "La casita"
 url: /siquirres/la-casita/
-shop: Kramladen
+shop: tienda de variedades
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Supermercado Dominical"
 url: /bahia-ballena/supermercado-dominical/
-shop: Supermarkt
+shop: supermercado
 ---

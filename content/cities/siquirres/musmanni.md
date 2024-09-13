@@ -1,5 +1,5 @@
 ---
 title: "Musmanni"
 url: /siquirres/musmanni/
-shop: Bäckerei
+shop: panadería
 ---

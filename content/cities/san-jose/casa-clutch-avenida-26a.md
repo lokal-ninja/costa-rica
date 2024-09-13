@@ -1,5 +1,5 @@
 ---
 title: "Casa Clutch"
 url: /san-jose/casa-clutch-avenida-26a/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

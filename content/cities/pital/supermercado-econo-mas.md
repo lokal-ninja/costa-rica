@@ -1,5 +1,5 @@
 ---
 title: "Supermercado Econo Más"
 url: /pital/supermercado-econo-mas/
-shop: Supermarkt
+shop: supermercado
 ---

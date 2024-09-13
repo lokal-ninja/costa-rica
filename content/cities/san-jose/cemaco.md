@@ -1,5 +1,5 @@
 ---
 title: "CEMACO"
 url: /san-jose/cemaco/
-shop: Warenhaus
+shop: grandes almacenes
 ---

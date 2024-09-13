@@ -1,5 +1,5 @@
 ---
 title: "Paqueñuelos"
 url: /heredia/paquenuelos/
-shop: Kleidung
+shop: ropa
 ---

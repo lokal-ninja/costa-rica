@@ -1,5 +1,5 @@
 ---
 title: "Ferretería Pereira"
 url: /siquirres/ferreteria-pereira/
-shop: Eisenwaren
+shop: hardware
 ---

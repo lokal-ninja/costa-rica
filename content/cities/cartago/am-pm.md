@@ -1,5 +1,5 @@
 ---
 title: "AM PM"
 url: /cartago/am-pm/
-shop: Feinkost
+shop: charcutería
 ---

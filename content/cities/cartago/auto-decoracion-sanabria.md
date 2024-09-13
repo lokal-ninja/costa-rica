@@ -1,5 +1,5 @@
 ---
 title: "Auto Decoracion Sanabria"
 url: /cartago/auto-decoracion-sanabria/
-shop: Autoteile
+shop: piezas de automóviles
 ---

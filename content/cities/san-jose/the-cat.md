@@ -1,5 +1,5 @@
 ---
 title: "The Cat"
 url: /san-jose/the-cat/
-shop: Andenken
+shop: regalo
 ---

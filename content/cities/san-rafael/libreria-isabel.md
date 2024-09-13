@@ -1,5 +1,5 @@
 ---
 title: "Librería Isabel"
 url: /san-rafael/libreria-isabel/
-shop: Bücher
+shop: libros
 ---

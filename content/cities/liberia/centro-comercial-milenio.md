@@ -1,5 +1,5 @@
 ---
 title: "Centro Comercial Milenio"
 url: /liberia/centro-comercial-milenio/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

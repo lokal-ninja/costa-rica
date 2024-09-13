@@ -1,5 +1,5 @@
 ---
 title: "Super Servicio"
 url: /cartago/super-servicio/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

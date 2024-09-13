@@ -1,5 +1,5 @@
 ---
 title: "Morocco"
 url: /san-juan/morocco/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

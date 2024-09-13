@@ -1,5 +1,5 @@
 ---
 title: "Prestafull"
 url: /san-jose/prestafull/
-shop: Leiher
+shop: prestamista
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Autoboss"
 url: /sardinal/autoboss/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

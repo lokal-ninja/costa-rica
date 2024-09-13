@@ -1,5 +1,5 @@
 ---
 title: "Feria del Calzado"
 url: /san-jose/feria-del-calzado/
-shop: Schuhe
+shop: zapatos
 ---

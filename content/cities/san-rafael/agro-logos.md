@@ -1,5 +1,5 @@
 ---
 title: "Agro Logos"
 url: /san-rafael/agro-logos/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

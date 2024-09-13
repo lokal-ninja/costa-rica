@@ -1,5 +1,5 @@
 ---
 title: "Todo Mascotas CR"
 url: /barreal/todo-mascotas-cr/
-shop: Tiere
+shop: mascotas
 ---

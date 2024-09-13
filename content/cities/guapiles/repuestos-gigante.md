@@ -1,5 +1,5 @@
 ---
 title: "Repuestos Gigante"
 url: /guapiles/repuestos-gigante/
-shop: Autoteile
+shop: piezas de automóviles
 ---

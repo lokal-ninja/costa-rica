@@ -1,5 +1,5 @@
 ---
 title: "UM"
 url: /san-jose/um/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Musmami Lomas del Rio"
 url: /pavas/musmami-lomas-del-rio/
-shop: Bäckerei
+shop: panadería
 ---

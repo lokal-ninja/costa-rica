@@ -1,5 +1,5 @@
 ---
 title: "Revel"
 url: /san-jose/revel/
-shop: Autoteile
+shop: piezas de automóviles
 ---

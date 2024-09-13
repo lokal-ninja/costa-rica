@@ -1,5 +1,5 @@
 ---
 title: "Honda"
 url: /curridabat/honda/
-shop: Autoteile
+shop: piezas de automóviles
 ---

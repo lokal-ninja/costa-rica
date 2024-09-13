@@ -1,5 +1,5 @@
 ---
 title: "Claro"
 url: /quepos/claro/
-shop: Handy
+shop: teléfono móvil
 ---

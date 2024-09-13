@@ -1,5 +1,5 @@
 ---
 title: "Gollo"
 url: /barva/gollo/
-shop: Elektronik
+shop: electrónica
 ---

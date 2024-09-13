@@ -1,5 +1,5 @@
 ---
 title: "RapiAuto"
 url: /heredia/rapiauto/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

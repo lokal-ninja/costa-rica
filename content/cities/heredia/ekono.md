@@ -1,5 +1,5 @@
 ---
 title: "Ekono"
 url: /heredia/ekono/
-shop: Kleidung
+shop: ropa
 ---

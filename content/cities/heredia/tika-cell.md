@@ -1,5 +1,5 @@
 ---
 title: "Tika Cell"
 url: /heredia/tika-cell/
-shop: Handy
+shop: teléfono móvil
 ---

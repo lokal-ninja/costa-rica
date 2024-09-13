@@ -1,5 +1,5 @@
 ---
 title: "Mundo Mágico"
 url: /alajuela/mundo-magico/
-shop: Warenhaus
+shop: grandes almacenes
 ---

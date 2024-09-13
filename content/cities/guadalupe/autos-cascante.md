@@ -1,5 +1,5 @@
 ---
 title: "Autos Cascante"
 url: /guadalupe/autos-cascante/
-shop: Autohaus
+shop: coche
 ---

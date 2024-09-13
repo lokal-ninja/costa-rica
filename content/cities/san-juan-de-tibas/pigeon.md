@@ -1,5 +1,5 @@
 ---
 title: "Pigeon"
 url: /san-juan-de-tibas/pigeon/
-shop: Babysachen
+shop: artículos para bebés
 ---

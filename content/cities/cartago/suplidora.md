@@ -1,5 +1,5 @@
 ---
 title: "Suplidora"
 url: /cartago/suplidora/
-shop: Allgemein
+shop: general
 ---

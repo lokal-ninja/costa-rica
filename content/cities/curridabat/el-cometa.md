@@ -1,5 +1,5 @@
 ---
 title: "El Cometa"
 url: /curridabat/el-cometa/
-shop: Schuhe
+shop: zapatos
 ---

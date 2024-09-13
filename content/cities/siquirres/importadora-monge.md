@@ -1,5 +1,5 @@
 ---
 title: "Importadora Monge"
 url: /siquirres/importadora-monge/
-shop: Warenhaus
+shop: grandes almacenes
 ---

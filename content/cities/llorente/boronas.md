@@ -1,5 +1,5 @@
 ---
 title: "Boronas"
 url: /llorente/boronas/
-shop: Bäckerei
+shop: panadería
 ---

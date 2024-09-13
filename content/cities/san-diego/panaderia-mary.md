@@ -1,5 +1,5 @@
 ---
 title: "Panadería Mary"
 url: /san-diego/panaderia-mary/
-shop: Bäckerei
+shop: panadería
 ---

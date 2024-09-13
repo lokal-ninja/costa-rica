@@ -1,5 +1,5 @@
 ---
 title: "Óptica Santa Lucía"
 url: /cartago/optica-santa-lucia/
-shop: Optiker
+shop: óptico
 ---

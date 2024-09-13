@@ -1,5 +1,5 @@
 ---
 title: "Instacredit"
 url: /paraiso/instacredit/
-shop: Leiher
+shop: prestamista
 ---

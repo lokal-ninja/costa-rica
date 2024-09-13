@@ -1,5 +1,5 @@
 ---
 title: "Repuestos Yosomi"
 url: /santo-domingo/repuestos-yosomi/
-shop: Autoteile
+shop: piezas de automóviles
 ---

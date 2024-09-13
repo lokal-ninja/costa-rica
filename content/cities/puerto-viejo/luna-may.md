@@ -1,5 +1,5 @@
 ---
 title: "Luna May"
 url: /puerto-viejo/luna-may/
-shop: Kleidung
+shop: ropa
 ---

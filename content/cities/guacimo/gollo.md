@@ -1,5 +1,5 @@
 ---
 title: "Gollo"
 url: /guacimo/gollo/
-shop: Warenhaus
+shop: grandes almacenes
 ---

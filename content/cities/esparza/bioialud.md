@@ -1,5 +1,5 @@
 ---
 title: "Bioialud"
 url: /esparza/bioialud/
-shop: Allgemein
+shop: general
 ---

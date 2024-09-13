@@ -1,5 +1,5 @@
 ---
 title: "Panadería Delicious"
 url: /curridabat/panaderia-delicious/
-shop: Bäckerei
+shop: panadería
 ---

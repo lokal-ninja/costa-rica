@@ -1,5 +1,5 @@
 ---
 title: "Plaza Escazú"
 url: /escazu/plaza-escazu/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

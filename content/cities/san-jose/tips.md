@@ -1,5 +1,5 @@
 ---
 title: "Tips"
 url: /san-jose/tips/
-shop: Allgemein
+shop: general
 ---

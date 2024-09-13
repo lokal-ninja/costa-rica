@@ -1,5 +1,5 @@
 ---
 title: "Cool"
 url: /orotina/cool/
-shop: Allgemein
+shop: general
 ---

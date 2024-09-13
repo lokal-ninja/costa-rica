@@ -1,5 +1,5 @@
 ---
 title: "Movistar"
 url: /heredia/movistar/
-shop: Handy
+shop: teléfono móvil
 ---

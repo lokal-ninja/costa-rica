@@ -1,5 +1,5 @@
 ---
 title: "Joyeria"
 url: /guapiles/joyeria/
-shop: Schmuck
+shop: joyería
 ---

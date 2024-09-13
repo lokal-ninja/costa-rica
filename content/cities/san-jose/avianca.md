@@ -1,5 +1,5 @@
 ---
 title: "Avianca"
 url: /san-jose/avianca/
-shop: Reisebüro
+shop: agencia de viajes
 ---

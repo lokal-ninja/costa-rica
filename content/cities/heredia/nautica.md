@@ -1,5 +1,5 @@
 ---
 title: "Nautica"
 url: /heredia/nautica/
-shop: Kleidung
+shop: ropa
 ---

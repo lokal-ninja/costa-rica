@@ -1,5 +1,5 @@
 ---
 title: "AutoPits"
 url: /alajuela/autopits/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

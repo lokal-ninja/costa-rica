@@ -1,5 +1,5 @@
 ---
 title: "Carnes La Hacienda"
 url: /cartago/carnes-la-hacienda/
-shop: Metzgerei
+shop: carnicero
 ---

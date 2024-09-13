@@ -1,5 +1,5 @@
 ---
 title: "Mega Súper"
 url: /guadalupe/mega-super/
-shop: Supermarkt
+shop: supermercado
 ---

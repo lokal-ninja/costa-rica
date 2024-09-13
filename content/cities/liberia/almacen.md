@@ -1,5 +1,5 @@
 ---
 title: "Almacén"
 url: /liberia/almacen/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Juturna"
 url: /liberia/juturna/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Aliss"
 url: /desamparados/aliss/
-shop: Warenhaus
+shop: grandes almacenes
 ---

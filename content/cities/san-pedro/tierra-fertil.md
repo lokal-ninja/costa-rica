@@ -1,5 +1,5 @@
 ---
 title: "Tierra Fertil"
 url: /san-pedro/tierra-fertil/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Puppy's"
 url: /guadalupe/puppys/
-shop: Tiere
+shop: mascotas
 ---

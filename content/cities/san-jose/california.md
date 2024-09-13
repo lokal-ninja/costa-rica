@@ -1,5 +1,5 @@
 ---
 title: "California"
 url: /san-jose/california/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Copias Betel"
 url: /el-molino/copias-betel/
-shop: Kopieren
+shop: copyshop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Abast. Medio Queso"
 url: /los-chiles/abast-medio-queso/
-shop: Supermarkt
+shop: supermercado
 ---

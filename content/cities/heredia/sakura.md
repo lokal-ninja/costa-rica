@@ -1,5 +1,5 @@
 ---
 title: "Sakura"
 url: /heredia/sakura/
-shop: Handy
+shop: teléfono móvil
 ---

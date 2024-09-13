@@ -1,5 +1,5 @@
 ---
 title: "Fraiche"
 url: /desamparados/fraiche/
-shop: Allgemein
+shop: general
 ---

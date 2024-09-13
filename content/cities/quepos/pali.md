@@ -1,5 +1,5 @@
 ---
 title: "Palí"
 url: /quepos/pali/
-shop: Supermarkt
+shop: supermercado
 ---

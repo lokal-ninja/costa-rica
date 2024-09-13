@@ -1,5 +1,5 @@
 ---
 title: "Yarish"
 url: /heredia/yarish/
-shop: Kosmetik
+shop: cosméticos
 ---

@@ -1,5 +1,5 @@
 ---
 title: "La Floresta"
 url: /heredia/la-floresta/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

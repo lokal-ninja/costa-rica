@@ -1,5 +1,5 @@
 ---
 title: "Agropecuaria Jateo"
 url: /turrucares/agropecuaria-jateo/
-shop: Landwirtschaftlich
+shop: agraria
 ---

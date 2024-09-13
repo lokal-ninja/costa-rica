@@ -1,5 +1,5 @@
 ---
 title: "Refritecor"
 url: /santa-cruz/refritecor/
-shop: Elektronik
+shop: electrónica
 ---

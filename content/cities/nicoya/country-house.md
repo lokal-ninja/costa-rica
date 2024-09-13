@@ -1,5 +1,5 @@
 ---
 title: "Country House"
 url: /nicoya/country-house/
-shop: Supermarkt
+shop: supermercado
 ---

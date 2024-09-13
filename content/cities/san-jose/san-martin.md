@@ -1,5 +1,5 @@
 ---
 title: "San Martin"
 url: /san-jose/san-martin/
-shop: Autoteile
+shop: piezas de automóviles
 ---

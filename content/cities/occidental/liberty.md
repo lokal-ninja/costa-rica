@@ -1,5 +1,5 @@
 ---
 title: "Liberty"
 url: /occidental/liberty/
-shop: Handy
+shop: teléfono móvil
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Musmanni"
 url: /san-diego/musmanni/
-shop: Bäckerei
+shop: panadería
 ---

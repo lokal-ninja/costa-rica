@@ -1,5 +1,5 @@
 ---
 title: "Shanaga"
 url: /san-rafael-de-escazu/shanaga/
-shop: Allgemein
+shop: general
 ---

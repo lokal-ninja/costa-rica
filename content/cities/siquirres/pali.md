@@ -1,5 +1,5 @@
 ---
 title: "Palí"
 url: /siquirres/pali/
-shop: Supermarkt
+shop: supermercado
 ---

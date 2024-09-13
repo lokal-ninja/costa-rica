@@ -1,5 +1,5 @@
 ---
 title: "Plaza Santa Rosa"
 url: /liberia/plaza-santa-rosa/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

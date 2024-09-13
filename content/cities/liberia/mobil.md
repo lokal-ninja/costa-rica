@@ -1,5 +1,5 @@
 ---
 title: "Mobil"
 url: /liberia/mobil/
-shop: Lebensmittel
+shop: comodidad
 ---

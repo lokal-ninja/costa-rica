@@ -1,5 +1,5 @@
 ---
 title: "Megasúper"
 url: /colima/megasuper/
-shop: Supermarkt
+shop: supermercado
 ---

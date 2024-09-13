@@ -1,5 +1,5 @@
 ---
 title: "Abastecedor SJ"
 url: /el-cairo/abastecedor-sj/
-shop: Lebensmittel
+shop: comodidad
 ---

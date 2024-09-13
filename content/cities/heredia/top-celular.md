@@ -1,5 +1,5 @@
 ---
 title: "Top Celular"
 url: /heredia/top-celular/
-shop: Handy
+shop: teléfono móvil
 ---

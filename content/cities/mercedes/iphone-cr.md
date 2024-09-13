@@ -1,5 +1,5 @@
 ---
 title: "iPhone CR"
 url: /mercedes/iphone-cr/
-shop: Handy
+shop: teléfono móvil
 ---

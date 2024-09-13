@@ -1,5 +1,5 @@
 ---
 title: "EcoFri"
 url: /san-jose/ecofri/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Llorona Commissary"
 url: /quepos/llorona-commissary/
-shop: Lebensmittel
+shop: comodidad
 ---

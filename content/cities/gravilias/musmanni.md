@@ -1,5 +1,5 @@
 ---
 title: "Musmanni"
 url: /gravilias/musmanni/
-shop: Allgemein
+shop: general
 ---

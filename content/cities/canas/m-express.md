@@ -1,5 +1,5 @@
 ---
 title: "M Express"
 url: /canas/m-express/
-shop: Möbel
+shop: muebles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Calzado K-che"
 url: /alajuela/calzado-k-che/
-shop: Schuhe
+shop: zapatos
 ---

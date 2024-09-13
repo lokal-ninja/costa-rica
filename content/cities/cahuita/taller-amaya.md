@@ -1,5 +1,5 @@
 ---
 title: "Taller Amaya"
 url: /cahuita/taller-amaya/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

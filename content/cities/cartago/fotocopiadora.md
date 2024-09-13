@@ -1,5 +1,5 @@
 ---
 title: "Fotocopiadora"
 url: /cartago/fotocopiadora/
-shop: Kopieren
+shop: copyshop
 ---

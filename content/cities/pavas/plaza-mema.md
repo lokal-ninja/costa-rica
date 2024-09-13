@@ -1,5 +1,5 @@
 ---
 title: "Plaza Mema"
 url: /pavas/plaza-mema/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

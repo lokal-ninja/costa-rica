@@ -1,5 +1,5 @@
 ---
 title: "Ursa"
 url: /san-pedro/ursa/
-shop: Autoteile
+shop: piezas de automóviles
 ---

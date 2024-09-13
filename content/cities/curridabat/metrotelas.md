@@ -1,5 +1,5 @@
 ---
 title: "Metrotelas"
 url: /curridabat/metrotelas/
-shop: Textil
+shop: tela
 ---

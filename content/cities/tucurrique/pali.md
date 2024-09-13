@@ -1,5 +1,5 @@
 ---
 title: "Palí"
 url: /tucurrique/pali/
-shop: Supermarkt
+shop: supermercado
 ---

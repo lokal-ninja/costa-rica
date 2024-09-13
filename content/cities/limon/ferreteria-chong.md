@@ -1,5 +1,5 @@
 ---
 title: "Ferretería Chong"
 url: /limon/ferreteria-chong/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

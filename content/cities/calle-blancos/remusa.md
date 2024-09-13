@@ -1,5 +1,5 @@
 ---
 title: "Remusa"
 url: /calle-blancos/remusa/
-shop: Baumarkt
+shop: hágalo usted mismo
 ---

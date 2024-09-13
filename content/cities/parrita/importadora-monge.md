@@ -1,5 +1,5 @@
 ---
 title: "Importadora Monge"
 url: /parrita/importadora-monge/
-shop: Haushaltsgeräte
+shop: aparato
 ---

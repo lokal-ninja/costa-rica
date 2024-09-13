@@ -1,5 +1,5 @@
 ---
 title: "Palí"
 url: /palmares/pali/
-shop: Supermarkt
+shop: supermercado
 ---

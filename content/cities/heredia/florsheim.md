@@ -1,5 +1,5 @@
 ---
 title: "FlorSheim"
 url: /heredia/florsheim/
-shop: Schuhe
+shop: zapatos
 ---

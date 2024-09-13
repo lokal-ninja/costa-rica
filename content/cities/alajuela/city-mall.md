@@ -1,5 +1,5 @@
 ---
 title: "City Mall"
 url: /alajuela/city-mall/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

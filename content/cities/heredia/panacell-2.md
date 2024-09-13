@@ -1,5 +1,5 @@
 ---
 title: "Panacell #2"
 url: /heredia/panacell-2/
-shop: Handy
+shop: teléfono móvil
 ---

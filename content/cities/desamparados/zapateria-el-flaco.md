@@ -1,5 +1,5 @@
 ---
 title: "Zapatería El Flaco"
 url: /desamparados/zapateria-el-flaco/
-shop: Schuhe
+shop: zapatos
 ---

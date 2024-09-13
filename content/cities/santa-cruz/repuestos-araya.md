@@ -1,5 +1,5 @@
 ---
 title: "Repuestos Araya"
 url: /santa-cruz/repuestos-araya/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

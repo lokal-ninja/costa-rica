@@ -1,5 +1,5 @@
 ---
 title: "Jenny"
 url: /filadelfia/jenny/
-shop: Allgemein
+shop: general
 ---

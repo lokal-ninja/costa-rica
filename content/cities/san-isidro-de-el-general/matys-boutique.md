@@ -1,5 +1,5 @@
 ---
 title: "Maty's Boutique"
 url: /san-isidro-de-el-general/matys-boutique/
-shop: Kleidung
+shop: ropa
 ---

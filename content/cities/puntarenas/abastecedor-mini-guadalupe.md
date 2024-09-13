@@ -1,5 +1,5 @@
 ---
 title: "Abastecedor Mini Guadalupe"
 url: /puntarenas/abastecedor-mini-guadalupe/
-shop: Lebensmittel
+shop: comodidad
 ---

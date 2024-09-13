@@ -1,5 +1,5 @@
 ---
 title: "Sala de Belleza"
 url: /cartago/sala-de-belleza/
-shop: Kosmetik
+shop: cosméticos
 ---

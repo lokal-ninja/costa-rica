@@ -1,5 +1,5 @@
 ---
 title: "Taquito Store"
 url: /san-pablo/taquito-store/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tienda El Santuario"
 url: /cartago/tienda-el-santuario/
-shop: Religion
+shop: religión
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hallmark"
 url: /rohrmoser/hallmark/
-shop: Andenken
+shop: regalo
 ---

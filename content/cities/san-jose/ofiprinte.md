@@ -1,5 +1,5 @@
 ---
 title: "Ofiprinte"
 url: /san-jose/ofiprinte/
-shop: Kopieren
+shop: copyshop
 ---

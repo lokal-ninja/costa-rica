@@ -1,5 +1,5 @@
 ---
 title: "Monge"
 url: /paquera/monge/
-shop: Warenhaus
+shop: grandes almacenes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fantasy"
 url: /desamparados/fantasy/
-shop: Kleidung
+shop: ropa
 ---

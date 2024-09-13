@@ -1,5 +1,5 @@
 ---
 title: "The Gift"
 url: /heredia/the-gift/
-shop: Kopieren
+shop: copyshop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Auto Partes Fraga"
 url: /desamparados/auto-partes-fraga/
-shop: Autoteile
+shop: piezas de automóviles
 ---

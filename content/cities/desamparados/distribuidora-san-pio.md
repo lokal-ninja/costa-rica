@@ -1,5 +1,5 @@
 ---
 title: "Distribuidora San Pio"
 url: /desamparados/distribuidora-san-pio/
-shop: Eisenwaren
+shop: hardware
 ---

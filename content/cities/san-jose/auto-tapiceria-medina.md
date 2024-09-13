@@ -1,5 +1,5 @@
 ---
 title: "Auto Tapiceria Medina"
 url: /san-jose/auto-tapiceria-medina/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

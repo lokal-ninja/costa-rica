@@ -1,5 +1,5 @@
 ---
 title: "Gases y Soldadura"
 url: /liberia/gases-y-soldadura/
-shop: Allgemein
+shop: general
 ---

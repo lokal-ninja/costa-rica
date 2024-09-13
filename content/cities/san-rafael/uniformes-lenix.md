@@ -1,5 +1,5 @@
 ---
 title: "Uniformes Lenix"
 url: /san-rafael/uniformes-lenix/
-shop: Kleidung
+shop: ropa
 ---

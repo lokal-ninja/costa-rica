@@ -1,5 +1,5 @@
 ---
 title: "Judy's Place"
 url: /esparza/judys-place/
-shop: Allgemein
+shop: general
 ---

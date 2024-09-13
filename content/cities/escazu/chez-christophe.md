@@ -1,5 +1,5 @@
 ---
 title: "Chez Christophe"
 url: /escazu/chez-christophe/
-shop: Bäckerei
+shop: panadería
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Happy Baby"
 url: /san-jose/happy-baby/
-shop: Kleidung
+shop: ropa
 ---

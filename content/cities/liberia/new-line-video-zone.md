@@ -1,5 +1,5 @@
 ---
 title: "New Line Video Zone"
 url: /liberia/new-line-video-zone/
-shop: Videothek
+shop: vídeo
 ---

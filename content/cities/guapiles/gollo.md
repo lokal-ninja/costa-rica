@@ -1,5 +1,5 @@
 ---
 title: "Gollo"
 url: /guapiles/gollo/
-shop: Haushaltsgeräte
+shop: aparato
 ---

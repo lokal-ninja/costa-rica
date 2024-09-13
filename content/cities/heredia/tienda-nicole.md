@@ -1,5 +1,5 @@
 ---
 title: "Tienda Nicole"
 url: /heredia/tienda-nicole/
-shop: Kleidung
+shop: ropa
 ---

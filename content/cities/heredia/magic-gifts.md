@@ -1,5 +1,5 @@
 ---
 title: "Magic Gifts"
 url: /heredia/magic-gifts/
-shop: Kramladen
+shop: tienda de variedades
 ---

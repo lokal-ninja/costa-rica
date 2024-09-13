@@ -1,5 +1,5 @@
 ---
 title: "Jugados"
 url: /san-isidro/jugados/
-shop: Allgemein
+shop: general
 ---

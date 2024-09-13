@@ -1,5 +1,5 @@
 ---
 title: "Multicentro Puerto Viejo"
 url: /cahuita/multicentro-puerto-viejo/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

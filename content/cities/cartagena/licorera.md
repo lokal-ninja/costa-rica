@@ -1,5 +1,5 @@
 ---
 title: "Licorera"
 url: /cartagena/licorera/
-shop: Spirituosen
+shop: alcohol
 ---

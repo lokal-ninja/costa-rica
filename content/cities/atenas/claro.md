@@ -1,5 +1,5 @@
 ---
 title: "Claro"
 url: /atenas/claro/
-shop: Handy
+shop: teléfono móvil
 ---

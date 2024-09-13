@@ -1,5 +1,5 @@
 ---
 title: "Dominic"
 url: /heredia/dominic/
-shop: Kosmetik
+shop: cosméticos
 ---

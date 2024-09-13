@@ -1,5 +1,5 @@
 ---
 title: "Geely"
 url: /san-rafael/geely/
-shop: Autohaus
+shop: coche
 ---

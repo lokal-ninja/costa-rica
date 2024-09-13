@@ -1,5 +1,5 @@
 ---
 title: "Decomar Pisos"
 url: /paraiso/decomar-pisos/
-shop: Fußböden
+shop: suelos
 ---

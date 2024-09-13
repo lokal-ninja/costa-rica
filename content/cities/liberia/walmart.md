@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /liberia/walmart/
-shop: Warenhaus
+shop: grandes almacenes
 ---

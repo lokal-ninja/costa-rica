@@ -1,5 +1,5 @@
 ---
 title: "Toto"
 url: /guadalupe/toto/
-shop: Tiere
+shop: mascotas
 ---

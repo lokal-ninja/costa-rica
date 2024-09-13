@@ -1,5 +1,5 @@
 ---
 title: "Ekono"
 url: /guapiles/ekono/
-shop: Kleidung
+shop: ropa
 ---

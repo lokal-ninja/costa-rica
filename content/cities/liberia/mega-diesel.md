@@ -1,5 +1,5 @@
 ---
 title: "Mega Diesel"
 url: /liberia/mega-diesel/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

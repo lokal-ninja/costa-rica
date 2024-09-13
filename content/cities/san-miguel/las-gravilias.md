@@ -1,5 +1,5 @@
 ---
 title: "Las Gravilias"
 url: /san-miguel/las-gravilias/
-shop: Allgemein
+shop: general
 ---

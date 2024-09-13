@@ -1,5 +1,5 @@
 ---
 title: "Pinturas Koral"
 url: /el-tejar/pinturas-koral/
-shop: Farben
+shop: pintura
 ---

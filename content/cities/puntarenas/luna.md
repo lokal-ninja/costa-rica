@@ -1,5 +1,5 @@
 ---
 title: "Luna"
 url: /puntarenas/luna/
-shop: Kleidung
+shop: ropa
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Super Familiar"
 url: /alajuelita/super-familiar/
-shop: Lebensmittel
+shop: comodidad
 ---

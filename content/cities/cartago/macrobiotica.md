@@ -1,5 +1,5 @@
 ---
 title: "Macrobiotica"
 url: /cartago/macrobiotica/
-shop: Kräuter
+shop: herbolario
 ---

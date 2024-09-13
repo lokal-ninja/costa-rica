@@ -1,5 +1,5 @@
 ---
 title: "Plaza Rohrmoser"
 url: /san-jose/plaza-rohrmoser/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Calzado Exclusivo"
 url: /liberia/calzado-exclusivo/
-shop: Allgemein
+shop: general
 ---

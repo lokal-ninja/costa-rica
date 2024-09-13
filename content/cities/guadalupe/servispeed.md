@@ -1,5 +1,5 @@
 ---
 title: "ServiSpeed"
 url: /guadalupe/servispeed/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

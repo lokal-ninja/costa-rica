@@ -1,5 +1,5 @@
 ---
 title: "RadioShack"
 url: /liberia/radioshack/
-shop: Elektronik
+shop: electrónica
 ---

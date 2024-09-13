@@ -1,5 +1,5 @@
 ---
 title: "Remsa"
 url: /curridabat/remsa/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Air France"
 url: /mata-redonda/air-france/
-shop: Reisebüro
+shop: agencia de viajes
 ---

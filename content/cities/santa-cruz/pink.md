@@ -1,5 +1,5 @@
 ---
 title: "Pink"
 url: /santa-cruz/pink/
-shop: Kleidung
+shop: ropa
 ---

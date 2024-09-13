@@ -1,5 +1,5 @@
 ---
 title: "Mini Mora"
 url: /guayabo/mini-mora/
-shop: Supermarkt
+shop: supermercado
 ---

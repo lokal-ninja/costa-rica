@@ -1,5 +1,5 @@
 ---
 title: "Calzado Romy"
 url: /caballo-blanco/calzado-romy/
-shop: Schuhe
+shop: zapatos
 ---

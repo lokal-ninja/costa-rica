@@ -1,5 +1,5 @@
 ---
 title: "Mall San Pedro"
 url: /san-pedro/mall-san-pedro/
-shop: Einkaufszentrum
+shop: centro comercial
 ---

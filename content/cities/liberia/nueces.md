@@ -1,5 +1,5 @@
 ---
 title: "Nueces"
 url: /liberia/nueces/
-shop: Allgemein
+shop: general
 ---

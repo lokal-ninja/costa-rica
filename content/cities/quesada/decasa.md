@@ -1,5 +1,5 @@
 ---
 title: "DECASA"
 url: /quesada/decasa/
-shop: Haushaltsartikel
+shop: menaje del hogar
 ---

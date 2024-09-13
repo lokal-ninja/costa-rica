@@ -1,5 +1,5 @@
 ---
 title: "Ferretería Hnos Fonseca"
 url: /alajuela/ferreteria-hnos-fonseca/
-shop: Eisenwaren
+shop: hardware
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Lores"
 url: /san-jose/lores/
-shop: Haushaltsartikel
+shop: menaje del hogar
 ---

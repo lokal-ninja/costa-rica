@@ -1,5 +1,5 @@
 ---
 title: "Fashion Price"
 url: /san-sebastian/fashion-price/
-shop: Kleidung
+shop: ropa
 ---

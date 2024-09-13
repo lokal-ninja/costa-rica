@@ -1,5 +1,5 @@
 ---
 title: "SCA Studio"
 url: /nicoya/sca-studio/
-shop: Allgemein
+shop: general
 ---

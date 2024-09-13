@@ -1,5 +1,5 @@
 ---
 title: "Palí"
 url: /mercedes/pali/
-shop: Supermarkt
+shop: supermercado
 ---

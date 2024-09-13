@@ -1,5 +1,5 @@
 ---
 title: "Vivero La Amistad"
 url: /hojancha/vivero-la-amistad/
-shop: Allgemein
+shop: general
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Rere"
 url: /san-vicente/rere/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Super Bagaces"
 url: /bagaces/super-bagaces/
-shop: Lebensmittel
+shop: comodidad
 ---

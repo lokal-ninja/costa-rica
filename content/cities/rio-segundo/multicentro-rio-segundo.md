@@ -1,5 +1,5 @@
 ---
 title: "Multicentro Río Segundo"
 url: /rio-segundo/multicentro-rio-segundo/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

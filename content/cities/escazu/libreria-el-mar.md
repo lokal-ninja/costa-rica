@@ -1,5 +1,5 @@
 ---
 title: "Librería El Mar"
 url: /escazu/libreria-el-mar/
-shop: Bücher
+shop: libros
 ---

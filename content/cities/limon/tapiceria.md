@@ -1,5 +1,5 @@
 ---
 title: "Tapiceria"
 url: /limon/tapiceria/
-shop: Allgemein
+shop: general
 ---

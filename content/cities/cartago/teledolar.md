@@ -1,5 +1,5 @@
 ---
 title: "TeleDolar"
 url: /cartago/teledolar/
-shop: Handy
+shop: teléfono móvil
 ---

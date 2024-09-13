@@ -1,5 +1,5 @@
 ---
 title: "Pacific Lubricentro"
 url: /rio-segundo/pacific-lubricentro/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

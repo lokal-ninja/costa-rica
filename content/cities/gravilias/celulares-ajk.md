@@ -1,5 +1,5 @@
 ---
 title: "Celulares AJK"
 url: /gravilias/celulares-ajk/
-shop: Handy
+shop: teléfono móvil
 ---

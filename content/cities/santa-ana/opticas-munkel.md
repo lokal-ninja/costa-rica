@@ -1,5 +1,5 @@
 ---
 title: "Opticas Munkel"
 url: /santa-ana/opticas-munkel/
-shop: Optiker
+shop: óptico
 ---

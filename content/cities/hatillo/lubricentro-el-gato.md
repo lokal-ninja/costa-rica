@@ -1,5 +1,5 @@
 ---
 title: "Lubricentro El Gato"
 url: /hatillo/lubricentro-el-gato/
-shop: Autowerkstatt
+shop: reparación de automóviles
 ---

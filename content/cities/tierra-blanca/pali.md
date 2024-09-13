@@ -1,5 +1,5 @@
 ---
 title: "Palí"
 url: /tierra-blanca/pali/
-shop: Supermarkt
+shop: supermercado
 ---

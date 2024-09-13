@@ -1,5 +1,5 @@
 ---
 title: "Súper Yireh"
 url: /desamparados/super-yireh/
-shop: Lebensmittel
+shop: comodidad
 ---

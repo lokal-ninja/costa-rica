@@ -1,5 +1,5 @@
 ---
 title: "Click"
 url: /liberia/click/
-shop: Computer
+shop: ordenador
 ---

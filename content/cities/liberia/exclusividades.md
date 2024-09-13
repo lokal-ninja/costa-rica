@@ -1,5 +1,5 @@
 ---
 title: "Exclusividades"
 url: /liberia/exclusividades/
-shop: Kleidung
+shop: ropa
 ---

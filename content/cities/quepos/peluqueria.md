@@ -1,5 +1,5 @@
 ---
 title: "Peluqueria"
 url: /quepos/peluqueria/
-shop: Friseur
+shop: peluquería
 ---

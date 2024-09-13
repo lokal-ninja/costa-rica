@@ -1,5 +1,5 @@
 ---
 title: "Sala de Juegos"
 url: /guadalupe/sala-de-juegos/
-shop: Videospiele
+shop: videojuegos
 ---

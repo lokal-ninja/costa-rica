@@ -1,5 +1,5 @@
 ---
 title: "Librería Internacional"
 url: /san-pedro/libreria-internacional/
-shop: Bücher
+shop: libros
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Duralac"
 url: /uruca/duralac/
-shop: Autoteile
+shop: piezas de automóviles
 ---

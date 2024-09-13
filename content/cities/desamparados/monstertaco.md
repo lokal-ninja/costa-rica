@@ -1,5 +1,5 @@
 ---
 title: "Monstertaco"
 url: /desamparados/monstertaco/
-shop: Allgemein
+shop: general
 ---
