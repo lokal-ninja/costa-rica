@@ -1,11 +1,11 @@
 id: 391111051
-type: way
+type: node
 latitude: 9.93162
 longitude: -84.10331
 postcode: "10108"
 city: Mata Redonda
-street: "Calle 54 Morenos"
-housenumber: 0115
+street: Calle 54 Morenos
+housenumber: "0115"
 phone: ""
 opening_hours: ""
 website: ""

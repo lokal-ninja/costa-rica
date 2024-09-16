@@ -1,11 +1,11 @@
 id: 1159526770
-type: way
+type: node
 latitude: 10.45464
 longitude: -84.27318
 postcode: "21006"
 city: Pital
-street: "Avenida 3"
-housenumber: 
+street: Avenida 3
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

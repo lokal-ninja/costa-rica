@@ -1,11 +1,11 @@
 id: 40814437
-type: way
+type: node
 latitude: 10.01299
 longitude: -84.20796
 postcode: ""
 city: Alajuela
-street: "Avenida 10"
-housenumber: 
+street: Avenida 10
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.plazareal.co.cr/"
+website: https://www.plazareal.co.cr/

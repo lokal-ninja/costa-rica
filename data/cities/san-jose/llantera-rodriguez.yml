@@ -1,11 +1,11 @@
 id: 1218042523
-type: way
+type: node
 latitude: 9.92664
 longitude: -84.07535
 postcode: ""
 city: San José
-street: "Transversal 9"
-housenumber: 0054
+street: Transversal 9
+housenumber: "0054"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 501500103
-type: way
+type: node
 latitude: 10.28094
 longitude: -84.95828
 postcode: ""
 city: Las Juntas
-street: "Calle 1"
-housenumber: 
+street: Calle 1
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

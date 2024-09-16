@@ -1,11 +1,11 @@
 id: 371537278
-type: way
+type: node
 latitude: 9.93926
 longitude: -84.1019
 postcode: ""
 city: San José
-street: "Calle 50"
-housenumber: 0082
+street: Calle 50
+housenumber: "0082"
 phone: ""
 opening_hours: ""
 website: ""

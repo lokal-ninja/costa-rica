@@ -1,11 +1,11 @@
 id: 360471635
-type: way
+type: node
 latitude: 9.92061
 longitude: -84.05187
 postcode: ""
 city: San José
-street: "Calle 57A"
-housenumber: 0003
+street: Calle 57A
+housenumber: "0003"
 phone: ""
 opening_hours: ""
 website: ""

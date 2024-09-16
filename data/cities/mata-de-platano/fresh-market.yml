@@ -1,11 +1,11 @@
 id: 865553729
-type: way
+type: node
 latitude: 9.9524
 longitude: -84.0196
 postcode: "10804"
 city: Mata de Plátano
-street: "Vía 205"
-housenumber: 
+street: Vía 205
+housenumber: ""
 phone: ""
-opening_hours: "06:00-22:00"
+opening_hours: 06:00-22:00
 website: ""

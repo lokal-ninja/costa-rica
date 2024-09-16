@@ -1,11 +1,11 @@
 id: 379780977
-type: way
+type: node
 latitude: 10.55104
 longitude: -85.69741
 postcode: "50503"
 city: Playa del Coco
-street: "Calle de la Playa"
-housenumber: 
+street: Calle de la Playa
+housenumber: ""
 phone: ""
-opening_hours: "sunrise-sunset"
+opening_hours: sunrise-sunset
 website: ""

@@ -1,6 +1,6 @@
 ---
 title: Filadelfia
 url: /filadelfia/
-latitude: 10.449
-longitude: -85.553
+latitude: 10.445
+longitude: -85.552
 ---

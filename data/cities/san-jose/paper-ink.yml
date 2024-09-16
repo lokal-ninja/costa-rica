@@ -1,11 +1,11 @@
 id: 1217892075
-type: way
+type: node
 latitude: 9.9261
 longitude: -84.077
 postcode: "10104"
 city: San José
-street: "Avenida 18 Cleto González Víquez"
-housenumber: 0067
+street: Avenida 18 Cleto González Víquez
+housenumber: "0067"
 phone: ""
 opening_hours: ""
 website: ""

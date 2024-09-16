@@ -1,11 +1,11 @@
 id: 200439311
-type: way
+type: node
 latitude: 9.99014
 longitude: -84.1123
 postcode: ""
 city: San Francisco
-street: "Ruta Nacional 3"
-housenumber: 
+street: Ruta Nacional 3
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 188820441
-type: way
+type: node
 latitude: 9.93206
 longitude: -84.09208
 postcode: ""
 city: San José
-street: "Calle 28 Padre Turcios"
-housenumber: 0003
+street: Calle 28 Padre Turcios
+housenumber: "0003"
 phone: ""
 opening_hours: ""
 website: ""

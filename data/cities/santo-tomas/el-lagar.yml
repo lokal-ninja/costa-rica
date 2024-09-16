@@ -1,11 +1,11 @@
 id: 1304864406
-type: way
+type: node
 latitude: 9.98508
 longitude: -84.07813
 postcode: "40305"
 city: Santo Tomás
-street: "Calle Ronda"
-housenumber: 
+street: Calle Ronda
+housenumber: ""
 phone: "+50622179400"
-opening_hours: "Mo-Sa 07:00-19:00, Su 07:00-16:00"
-website: "https://www.ellagar.com/"
+opening_hours: Mo-Sa 07:00-19:00, Su 07:00-16:00
+website: https://www.ellagar.com/

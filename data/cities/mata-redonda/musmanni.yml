@@ -1,11 +1,11 @@
 id: 391111048
-type: way
+type: node
 latitude: 9.9295
 longitude: -84.10363
 postcode: "10108"
 city: Mata Redonda
-street: "Avenida 16 Campos"
-housenumber: 0236
+street: Avenida 16 Campos
+housenumber: "0236"
 phone: ""
 opening_hours: ""
 website: ""

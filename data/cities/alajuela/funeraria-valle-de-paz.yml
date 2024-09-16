@@ -1,11 +1,11 @@
 id: 393700270
-type: way
+type: node
 latitude: 10.01242
 longitude: -84.21313
 postcode: ""
 city: Alajuela
-street: "Calle 2"
-housenumber: 
+street: Calle 2
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 391469087
-type: way
+type: node
 latitude: 9.9302
 longitude: -84.07221
 postcode: ""
 city: San José
-street: "Avenida 8 Simón Bolívar"
-housenumber: 0107
+street: Avenida 8 Simón Bolívar
+housenumber: "0107"
 phone: ""
 opening_hours: ""
 website: ""

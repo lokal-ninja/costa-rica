@@ -1,11 +1,11 @@
 id: 371537275
-type: way
+type: node
 latitude: 9.93849
 longitude: -84.0997
 postcode: ""
 city: San José
-street: "Avenida de Las Américas"
-housenumber: 0003
+street: Avenida de Las Américas
+housenumber: "0003"
 phone: ""
 opening_hours: ""
 website: ""

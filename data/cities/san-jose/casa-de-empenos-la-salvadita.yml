@@ -1,11 +1,11 @@
 id: 388338108
-type: way
+type: node
 latitude: 9.92977
 longitude: -84.07568
 postcode: "10104"
 city: San José
-street: "Avenida 10 San Martín"
-housenumber: 0047
-phone: "2221 3882"
+street: Avenida 10 San Martín
+housenumber: "0047"
+phone: 2221 3882
 opening_hours: ""
 website: ""

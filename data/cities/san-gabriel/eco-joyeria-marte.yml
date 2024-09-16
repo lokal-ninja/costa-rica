@@ -1,11 +1,11 @@
 id: 1160587070
-type: way
+type: node
 latitude: 9.78745
 longitude: -84.1036
 postcode: "10604"
 city: San Gabriel
-street: "Calle 7"
-housenumber: 
+street: Calle 7
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

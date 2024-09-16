@@ -1,11 +1,11 @@
 id: 1159496637
-type: way
+type: node
 latitude: 9.75675
 longitude: -84.10874
 postcode: "10606"
 city: Monterrey
-street: "Vía 313"
-housenumber: 
+street: Vía 313
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

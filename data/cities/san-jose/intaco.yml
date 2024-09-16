@@ -1,11 +1,11 @@
 id: 151727685
-type: way
+type: node
 latitude: 9.93203
 longitude: -84.06864
 postcode: ""
 city: San José
-street: "Calle 25 Jaime Carranza"
-housenumber: 0004
+street: Calle 25 Jaime Carranza
+housenumber: "0004"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 381285046
-type: way
+type: node
 latitude: 9.9486
 longitude: -84.14039
 postcode: ""
 city: San José
-street: "Vía 104"
-housenumber: 0003
-phone: "2290 7141"
+street: Vía 104
+housenumber: "0003"
+phone: 2290 7141
 opening_hours: ""
 website: ""

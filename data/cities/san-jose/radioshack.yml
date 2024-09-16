@@ -1,11 +1,11 @@
 id: 1163934391
-type: way
+type: node
 latitude: 9.93672
 longitude: -84.11258
 postcode: ""
 city: San José
-street: "Vía 104"
-housenumber: 0075
+street: Vía 104
+housenumber: "0075"
 phone: ""
 opening_hours: ""
 website: ""

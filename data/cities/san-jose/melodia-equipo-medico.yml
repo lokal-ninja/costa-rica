@@ -1,11 +1,11 @@
 id: 598586484
-type: way
+type: node
 latitude: 9.938
 longitude: -84.06874
 postcode: ""
 city: San José
-street: "Calle 19 José Joaquín Vargas Calvo"
-housenumber: 0045
+street: Calle 19 José Joaquín Vargas Calvo
+housenumber: "0045"
 phone: ""
 opening_hours: ""
 website: ""

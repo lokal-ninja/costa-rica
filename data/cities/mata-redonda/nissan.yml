@@ -1,11 +1,11 @@
 id: 67901912
-type: way
+type: node
 latitude: 9.93918
 longitude: -84.09855
 postcode: ""
 city: Mata Redonda
-street: "Avenida de Las Américas"
-housenumber: 0003
+street: Avenida de Las Américas
+housenumber: "0003"
 phone: ""
 opening_hours: ""
 website: ""

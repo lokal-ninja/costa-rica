@@ -1,11 +1,11 @@
 id: 381055545
-type: way
+type: node
 latitude: 9.92411
 longitude: -84.07709
 postcode: "10104"
 city: San José
-street: "Avenida 22 Doctor Adolfo Carit"
-housenumber: 0077
+street: Avenida 22 Doctor Adolfo Carit
+housenumber: "0077"
 phone: ""
 opening_hours: ""
 website: ""

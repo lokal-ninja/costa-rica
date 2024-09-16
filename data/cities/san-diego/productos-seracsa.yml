@@ -1,11 +1,11 @@
 id: 843707343
-type: way
+type: node
 latitude: 9.90049
 longitude: -84.00377
 postcode: "30302"
 city: San Diego
-street: "Tacora"
-housenumber: 
-phone: "+506 - 22796994"
-opening_hours: "Mo-Fr 08:00-17:00"
+street: Tacora
+housenumber: ""
+phone: +506 - 22796994
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

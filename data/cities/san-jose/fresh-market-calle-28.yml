@@ -1,11 +1,11 @@
 id: 1026005442
-type: way
+type: node
 latitude: 10.01115
 longitude: -84.2256
 postcode: ""
 city: San José
-street: "Calle 28"
-housenumber: 
+street: Calle 28
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

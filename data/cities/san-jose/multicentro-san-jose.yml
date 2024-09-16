@@ -1,11 +1,11 @@
 id: 1170960558
-type: way
+type: node
 latitude: 9.93541
 longitude: -84.07748
 postcode: ""
 city: San José
-street: "Calle 3 Julio Fonseca Gutiérrez"
-housenumber: 0049
+street: Calle 3 Julio Fonseca Gutiérrez
+housenumber: "0049"
 phone: ""
 opening_hours: ""
 website: ""

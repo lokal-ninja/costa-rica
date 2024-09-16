@@ -1,11 +1,11 @@
 id: 31241081
-type: way
+type: node
 latitude: 9.93603
 longitude: -84.09487
 postcode: ""
 city: San José
-street: "Paseo Colón"
-housenumber: 0044
+street: Paseo Colón
+housenumber: "0044"
 phone: ""
 opening_hours: ""
 website: ""

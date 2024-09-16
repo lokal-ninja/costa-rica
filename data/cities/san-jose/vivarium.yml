@@ -1,11 +1,11 @@
 id: 1218047947
-type: way
+type: node
 latitude: 9.9271
 longitude: -84.07465
 postcode: "10104"
 city: San José
-street: "Avenida 16"
-housenumber: 0054
+street: Avenida 16
+housenumber: "0054"
 phone: ""
 opening_hours: ""
 website: ""

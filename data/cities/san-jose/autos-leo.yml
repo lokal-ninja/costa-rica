@@ -1,11 +1,11 @@
 id: 389583218
-type: way
+type: node
 latitude: 9.95067
 longitude: -84.10126
 postcode: ""
 city: San José
-street: "Avenida 39"
-housenumber: 0218
+street: Avenida 39
+housenumber: "0218"
 phone: ""
 opening_hours: ""
 website: ""

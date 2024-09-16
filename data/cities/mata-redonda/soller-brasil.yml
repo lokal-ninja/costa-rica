@@ -1,11 +1,11 @@
 id: 381022115
-type: way
+type: node
 latitude: 9.9416
 longitude: -84.11207
 postcode: ""
 city: Mata Redonda
-street: "Calle 78"
-housenumber: 0004
+street: Calle 78
+housenumber: "0004"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1218300879
-type: way
+type: node
 latitude: 9.92831
 longitude: -84.07564
 postcode: "10104"
 city: San José
-street: "Avenida 12 República de Chile"
-housenumber: 0066
+street: Avenida 12 República de Chile
+housenumber: "0066"
 phone: ""
 opening_hours: ""
 website: ""

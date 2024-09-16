@@ -1,11 +1,11 @@
 id: 779421071
-type: way
+type: node
 latitude: 9.92753
 longitude: -84.07597
 postcode: "10104"
 city: San José
-street: "Calle 9 Paseo de los Estudiantes"
-housenumber: 0018
+street: Calle 9 Paseo de los Estudiantes
+housenumber: "0018"
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
+opening_hours: Mo-Su 07:00-22:00
 website: ""

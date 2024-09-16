@@ -1,11 +1,11 @@
 id: 389795986
-type: way
+type: node
 latitude: 9.93138
 longitude: -84.17983
 postcode: "10901"
 city: Santa Ana
-street: "Avenida 2"
-housenumber: 
+street: Avenida 2
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

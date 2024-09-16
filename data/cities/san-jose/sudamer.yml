@@ -1,11 +1,11 @@
 id: 391474905
-type: way
+type: node
 latitude: 9.9277
 longitude: -84.07634
 postcode: "10104"
 city: San José
-street: "Calle 7 Alejandro Monestel"
-housenumber: 0004
+street: Calle 7 Alejandro Monestel
+housenumber: "0004"
 phone: ""
 opening_hours: ""
 website: ""

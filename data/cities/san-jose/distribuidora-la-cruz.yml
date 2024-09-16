@@ -1,11 +1,11 @@
 id: 381110204
-type: way
+type: node
 latitude: 9.92026
 longitude: -84.07513
 postcode: ""
 city: San José
-street: "Calle 11"
-housenumber: 
+street: Calle 11
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-18:00"
+opening_hours: Mo-Sa 08:00-18:00
 website: ""

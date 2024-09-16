@@ -1,11 +1,11 @@
 id: 843716909
-type: way
+type: node
 latitude: 9.90012
 longitude: -84.00288
 postcode: "30302"
 city: San Diego
-street: "Calle Roma"
-housenumber: 
-phone: "(+506 800-8000-722)"
-opening_hours: "Mo-Su 07:00-21:00"
+street: Calle Roma
+housenumber: ""
+phone: (+506 800-8000-722)
+opening_hours: Mo-Su 07:00-21:00
 website: ""

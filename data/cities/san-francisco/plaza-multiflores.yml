@@ -1,11 +1,11 @@
 id: 233872103
-type: way
+type: node
 latitude: 9.99124
 longitude: -84.13409
 postcode: ""
 city: San Francisco
-street: "Avenida 16"
-housenumber: 
+street: Avenida 16
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

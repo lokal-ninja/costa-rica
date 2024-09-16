@@ -3,9 +3,9 @@ type: node
 latitude: 9.91825
 longitude: -84.10381
 postcode: ""
-city: Hatillo #3
+city: 'Hatillo #3'
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

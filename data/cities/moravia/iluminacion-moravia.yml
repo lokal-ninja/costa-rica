@@ -1,11 +1,11 @@
 id: 378747336
-type: way
+type: node
 latitude: 9.9623
 longitude: -84.04953
 postcode: "11401"
 city: Moravia
-street: "Calle 63"
-housenumber: 
-phone: "+506 40822476"
-opening_hours: "Mo-Sa 09:00-20:00 Do 09:00-13:00"
-website: "https://www.facebook.com/IluminacionMoravia"
+street: Calle 63
+housenumber: ""
+phone: +506 40822476
+opening_hours: Mo-Sa 09:00-20:00 Do 09:00-13:00
+website: https://www.facebook.com/IluminacionMoravia

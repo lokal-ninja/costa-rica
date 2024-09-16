@@ -1,11 +1,11 @@
 id: 394083342
-type: way
+type: node
 latitude: 10.01505
 longitude: -84.21479
 postcode: ""
 city: Alajuela
-street: "Avenida 2"
-housenumber: 
-phone: "2441-2378"
-opening_hours: "08:30-18:30"
+street: Avenida 2
+housenumber: ""
+phone: 2441-2378
+opening_hours: 08:30-18:30
 website: ""

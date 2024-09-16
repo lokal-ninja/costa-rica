@@ -1,11 +1,11 @@
 id: 654107797
-type: way
+type: node
 latitude: 9.92414
 longitude: -84.09251
 postcode: ""
 city: San José
-street: "Calle 24"
-housenumber: 0162
+street: Calle 24
+housenumber: "0162"
 phone: ""
 opening_hours: ""
 website: ""

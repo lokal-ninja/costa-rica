@@ -1,11 +1,11 @@
 id: 379559483
-type: way
+type: node
 latitude: 9.93195
 longitude: -84.07825
 postcode: "10104"
 city: San José
-street: "Calle 1 Alvise Castegnaro"
-housenumber: 0027
-phone: "2233 0255"
+street: Calle 1 Alvise Castegnaro
+housenumber: "0027"
+phone: 2233 0255
 opening_hours: ""
 website: ""

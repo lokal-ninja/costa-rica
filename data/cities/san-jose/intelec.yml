@@ -1,11 +1,11 @@
 id: 1172541736
-type: way
+type: node
 latitude: 9.92791
 longitude: -84.06692
 postcode: ""
 city: San José
-street: "Calle 25A Tabacalera"
-housenumber: 0035
+street: Calle 25A Tabacalera
+housenumber: "0035"
 phone: ""
 opening_hours: ""
 website: ""

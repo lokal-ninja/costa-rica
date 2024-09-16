@@ -1,11 +1,11 @@
 id: 632670619
-type: way
+type: node
 latitude: 9.93558
 longitude: -84.06327
 postcode: ""
 city: San José
-street: "Avenida 9 Santa Teresita"
-housenumber: 0004
+street: Avenida 9 Santa Teresita
+housenumber: "0004"
 phone: ""
-opening_hours: "Mo-Su 06:00-22:30"
+opening_hours: Mo-Su 06:00-22:30
 website: ""

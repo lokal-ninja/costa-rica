@@ -1,11 +1,11 @@
 id: 934775750
-type: way
+type: node
 latitude: 9.90905
 longitude: -84.08525
 postcode: ""
 city: San José
-street: "Avenida 50A"
-housenumber: 0213
+street: Avenida 50A
+housenumber: "0213"
 phone: ""
 opening_hours: ""
-website: "https://walmart.co.cr"
+website: https://walmart.co.cr

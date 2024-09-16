@@ -1,11 +1,11 @@
 id: 1168365698
-type: way
+type: node
 latitude: 9.93887
 longitude: -84.06713
 postcode: ""
 city: San José
-street: "Avenida 13 El Farolito"
-housenumber: 0061
+street: Avenida 13 El Farolito
+housenumber: "0061"
 phone: ""
 opening_hours: ""
 website: ""

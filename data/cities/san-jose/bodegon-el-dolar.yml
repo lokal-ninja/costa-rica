@@ -1,11 +1,11 @@
 id: 1216943193
-type: way
+type: node
 latitude: 9.93134
 longitude: -84.07784
 postcode: "10104"
 city: San José
-street: "Calle 3 Manuel María Gutiérrez"
-housenumber: 0004
+street: Calle 3 Manuel María Gutiérrez
+housenumber: "0004"
 phone: ""
 opening_hours: ""
 website: ""

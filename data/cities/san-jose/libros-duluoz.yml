@@ -1,11 +1,11 @@
 id: 380118774
-type: way
+type: node
 latitude: 9.93251
 longitude: -84.06163
 postcode: ""
 city: San José
-street: "Calle 37 Los Negritos"
-housenumber: 0045
+street: Calle 37 Los Negritos
+housenumber: "0045"
 phone: ""
 opening_hours: ""
 website: ""

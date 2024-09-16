@@ -1,11 +1,11 @@
 id: 818606725
-type: way
+type: node
 latitude: 9.9599
 longitude: -84.07539
 postcode: "1100"
 city: San Juan de Tibás
-street: "Avenida 57A (Calle Juan Arias)"
-housenumber: 
+street: Avenida 57A (Calle Juan Arias)
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 04:00-19:00, Su 04:00-11:00"
+opening_hours: Mo-Sa 04:00-19:00, Su 04:00-11:00
 website: ""

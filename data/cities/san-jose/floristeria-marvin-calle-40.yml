@@ -1,11 +1,11 @@
 id: 457799249
-type: way
+type: node
 latitude: 9.93947
 longitude: -84.09704
 postcode: ""
 city: San José
-street: "Calle 40"
-housenumber: 0051
+street: Calle 40
+housenumber: "0051"
 phone: ""
 opening_hours: ""
 website: ""

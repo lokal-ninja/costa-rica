@@ -1,11 +1,11 @@
 id: 380825542
-type: way
+type: node
 latitude: 9.93633
 longitude: -84.08573
 postcode: ""
 city: San José
-street: "Calle 16"
-housenumber: 0027
+street: Calle 16
+housenumber: "0027"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 378515827
-type: way
+type: node
 latitude: 9.91917
 longitude: -84.05074
 postcode: ""
 city: San José
-street: "Vía 215"
-housenumber: 0004
+street: Vía 215
+housenumber: "0004"
 phone: ""
 opening_hours: ""
 website: ""

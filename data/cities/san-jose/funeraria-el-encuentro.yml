@@ -1,11 +1,11 @@
 id: 590304011
-type: way
+type: node
 latitude: 9.93776
 longitude: -84.06704
 postcode: ""
 city: San José
-street: "Avenida 11 José Durán"
-housenumber: 0023
+street: Avenida 11 José Durán
+housenumber: "0023"
 phone: ""
 opening_hours: ""
 website: ""

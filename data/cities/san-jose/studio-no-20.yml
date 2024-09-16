@@ -1,11 +1,11 @@
 id: 1217927783
-type: way
+type: node
 latitude: 9.93106
 longitude: -84.07557
 postcode: "10104"
 city: San José
-street: "Avenida 6 Castro Madriz"
-housenumber: 0048
+street: Avenida 6 Castro Madriz
+housenumber: "0048"
 phone: ""
 opening_hours: ""
 website: ""

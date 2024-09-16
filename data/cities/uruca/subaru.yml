@@ -1,11 +1,11 @@
 id: 380819955
-type: way
+type: node
 latitude: 9.94911
 longitude: -84.09628
 postcode: "10107"
 city: Uruca
-street: "Avenida 39"
-housenumber: 
-phone: "2221 6116"
-opening_hours: "Mo-Fr 07:30-17:30; Sa 08:00-12:00"
-website: "https://www.subaru.co.cr"
+street: Avenida 39
+housenumber: ""
+phone: 2221 6116
+opening_hours: Mo-Fr 07:30-17:30; Sa 08:00-12:00
+website: https://www.subaru.co.cr

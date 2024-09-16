@@ -1,11 +1,11 @@
 id: 129614345
-type: way
+type: node
 latitude: 9.84583
 longitude: -84.31623
 postcode: ""
 city: Santiago
-street: "Calle 2"
-housenumber: 
+street: Calle 2
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

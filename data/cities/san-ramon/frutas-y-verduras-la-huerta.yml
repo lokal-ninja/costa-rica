@@ -1,11 +1,11 @@
 id: 1253109752
-type: way
+type: node
 latitude: 10.08365
 longitude: -84.47006
 postcode: "20201"
 city: San Ramón
-street: "Calle Central"
-housenumber: 0
+street: Calle Central
+housenumber: "0"
 phone: ""
 opening_hours: ""
 website: ""

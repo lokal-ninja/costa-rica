@@ -1,11 +1,11 @@
 id: 1025612361
-type: way
+type: node
 latitude: 10.0107
 longitude: -84.20458
 postcode: ""
 city: Alajuela
-street: "Calle Paso Flores"
-housenumber: 
+street: Calle Paso Flores
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.ferialaverbena.com/home"
+website: https://www.ferialaverbena.com/home
