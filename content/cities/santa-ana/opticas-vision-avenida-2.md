@@ -1,5 +1,5 @@
 ---
 title: "Opticas Vision"
-url: /san-jose/opticas-vision-2/
+url: /santa-ana/opticas-vision-avenida-2/
 shop: óptico
 ---
