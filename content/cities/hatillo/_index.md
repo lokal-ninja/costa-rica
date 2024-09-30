@@ -1,6 +1,6 @@
 ---
 title: Hatillo
 url: /hatillo/
-latitude: 9.912
-longitude: -84.099
+latitude: 9.916
+longitude: -84.096
 ---
