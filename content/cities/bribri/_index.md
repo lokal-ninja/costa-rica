@@ -1,6 +1,6 @@
 ---
 title: Bribri
 url: /bribri/
-latitude: 9.626
-longitude: -82.849
+latitude: 9.625
+longitude: -82.852
 ---
