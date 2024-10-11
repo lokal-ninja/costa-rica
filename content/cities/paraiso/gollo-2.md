@@ -1,5 +1,5 @@
 ---
 title: "Gollo"
-url: /paraiso/gollo-avenida-0/
+url: /paraiso/gollo-2/
 shop: aparato
 ---
