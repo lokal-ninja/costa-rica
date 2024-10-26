@@ -1,5 +1,5 @@
 ---
 title: "Palí"
-url: /santa-rosa/pali/
+url: /san-isidro/pali-2/
 shop: supermercado
 ---
