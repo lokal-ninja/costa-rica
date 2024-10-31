@@ -1,5 +1,5 @@
 ---
-title: "Pulpería doña flor"
+title: "Pulpería Doña Flor"
 url: /catedral/pulperia-dona-flor/
-shop: supermercado
+shop: comodidad
 ---
