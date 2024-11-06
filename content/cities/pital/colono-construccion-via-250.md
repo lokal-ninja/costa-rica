@@ -1,5 +1,5 @@
 ---
 title: "Colono Construcción"
-url: /pital/colono-construccion-calle-las-huacas/
+url: /pital/colono-construccion-via-250/
 shop: hardware
 ---
