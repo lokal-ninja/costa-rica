@@ -1,6 +1,6 @@
 ---
 title: Chacarita
 url: /chacarita/
-latitude: 9.983
-longitude: -84.776
+latitude: 9.982
+longitude: -84.766
 ---
