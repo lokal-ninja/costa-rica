@@ -1,5 +1,5 @@
 ---
 title: "Top Outlet"
-url: /alajuela/top-outlet-avenida-central/
+url: /alajuela/top-outlet-calle-arroyo/
 shop: tienda de variedades
 ---

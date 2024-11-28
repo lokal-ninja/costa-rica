@@ -1,6 +1,6 @@
 ---
 title: Llorente
 url: /llorente/
-latitude: 10.003
-longitude: -84.166
+latitude: 9.999
+longitude: -84.169
 ---
