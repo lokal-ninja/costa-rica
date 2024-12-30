@@ -1,6 +1,6 @@
 ---
 title: Carrillos
 url: /carrillos/
-latitude: 10.029
-longitude: -84.269
+latitude: 10.028
+longitude: -84.268
 ---
