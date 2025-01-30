@@ -1,6 +1,6 @@
 ---
 title: Purral
 url: /purral/
-latitude: 9.96
-longitude: -84.022
+latitude: 9.962
+longitude: -84.012
 ---
