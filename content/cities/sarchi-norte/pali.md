@@ -1,5 +1,5 @@
 ---
 title: "Palí"
-url: /mercedes/pali-avenida-37/
+url: /sarchi-norte/pali/
 shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Pacific Furniture"
-url: /guardia/pacific-furniture/
+url: /nacascolo/pacific-furniture/
 shop: muebles
 ---
