@@ -1,5 +1,5 @@
 ---
-title: "Autorepuestos Mega"
+title: "Autorepuestos MEGA"
 url: /liberia/autorepuestos-mega/
-shop: reparación de automóviles
+shop: piezas de automóviles
 ---

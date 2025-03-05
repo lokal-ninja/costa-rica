@@ -1,6 +1,6 @@
 ---
 title: Pacayas
 url: /pacayas/
-latitude: 9.917
-longitude: -83.81
+latitude: 9.916
+longitude: -83.808
 ---

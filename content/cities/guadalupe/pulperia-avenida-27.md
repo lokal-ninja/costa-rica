@@ -1,5 +1,5 @@
 ---
 title: "Pulpería"
-url: /guadalupe/pulperia-calle-47/
+url: /guadalupe/pulperia-avenida-27/
 shop: comodidad
 ---
