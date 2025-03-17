@@ -1,5 +1,5 @@
 ---
 title: "Tramo La Amistad"
 url: /sabanilla/tramo-la-amistad/
-shop: comodidad
+shop: granja
 ---
