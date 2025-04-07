@@ -1,6 +1,6 @@
 ---
 title: Anselmo Llorente
 url: /anselmo-llorente/
-latitude: 9.954
-longitude: -84.068
+latitude: 9.962
+longitude: -84.067
 ---
