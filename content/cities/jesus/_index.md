@@ -1,6 +1,6 @@
 ---
 title: Jesús
 url: /jesus/
-latitude: 10.064
-longitude: -84.146
+latitude: 9.971
+longitude: -84.428
 ---
