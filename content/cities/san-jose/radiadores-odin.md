@@ -1,5 +1,5 @@
 ---
-title: "Radiadores Odin"
+title: "Radiadores Odín"
 url: /san-jose/radiadores-odin/
-shop: reparación de automóviles
+shop: piezas de automóviles
 ---
