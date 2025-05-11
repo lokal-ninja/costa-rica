@@ -1,5 +1,5 @@
 ---
 title: "Ciclo Maki"
 url: /san-jose/ciclo-maki/
-shop: general
+shop: bicicleta
 ---
