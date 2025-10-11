@@ -1,5 +1,5 @@
 ---
-title: "TECNO BATERIAS"
+title: "Tecno Baterías"
 url: /palmares/tecno-baterias/
-shop: reparación de automóviles
+shop: piezas de automóviles
 ---
