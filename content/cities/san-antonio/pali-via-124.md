@@ -1,5 +1,5 @@
 ---
 title: "Palí"
-url: /san-antonio/pali-avenida-40/
+url: /san-antonio/pali-via-124/
 shop: supermercado
 ---
