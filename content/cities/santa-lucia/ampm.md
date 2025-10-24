@@ -1,5 +1,5 @@
 ---
 title: "ampm"
-url: /pavas/ampm/
+url: /santa-lucia/ampm/
 shop: comodidad
 ---

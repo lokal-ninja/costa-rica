@@ -1,6 +1,6 @@
 ---
 title: Barva
 url: /barva/
-latitude: 10.022
-longitude: -84.125
+latitude: 10.02
+longitude: -84.123
 ---

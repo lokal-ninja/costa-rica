@@ -1,5 +1,5 @@
 ---
 title: "AM PM"
-url: /santa-lucia/am-pm/
+url: /pavas/am-pm/
 shop: comodidad
 ---
