@@ -1,6 +1,6 @@
 ---
 title: Occidental
 url: /occidental/
-latitude: 9.863
-longitude: -83.922
+latitude: 9.864
+longitude: -83.921
 ---
