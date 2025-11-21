@@ -1,5 +1,5 @@
 ---
-title: "Mundo Magico"
+title: "Mundo Mágico"
 url: /heredia/mundo-magico/
-shop: tienda de variedades
+shop: grandes almacenes
 ---
