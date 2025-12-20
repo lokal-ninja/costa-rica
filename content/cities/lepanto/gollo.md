@@ -1,5 +1,5 @@
 ---
 title: "Gollo"
-url: /orotina/gollo-calle-central/
+url: /lepanto/gollo/
 shop: electrónica
 ---
