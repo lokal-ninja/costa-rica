@@ -1,6 +1,6 @@
 ---
 title: Guadalupe de Cartago
 url: /guadalupe-de-cartago/
-latitude: 9.863
-longitude: -83.936
+latitude: 9.86
+longitude: -83.935
 ---
