@@ -1,6 +1,6 @@
 ---
 title: Palmira
 url: /palmira/
-latitude: 10.516
-longitude: -85.578
+latitude: 10.503
+longitude: -85.572
 ---

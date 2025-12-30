@@ -1,6 +1,6 @@
 ---
 title: Puntarenas
 url: /puntarenas/
-latitude: 9.978
-longitude: -84.822
+latitude: 9.987
+longitude: -84.734
 ---
