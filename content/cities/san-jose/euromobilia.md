@@ -1,5 +1,5 @@
 ---
 title: "Euromobilia"
 url: /san-jose/euromobilia/
-shop: muebles
+shop: decoración interior
 ---

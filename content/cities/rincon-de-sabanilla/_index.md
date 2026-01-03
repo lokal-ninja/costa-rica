@@ -1,6 +1,6 @@
 ---
 title: Rincón de Sabanilla
 url: /rincon-de-sabanilla/
-latitude: 9.992
-longitude: -84.103
+latitude: 9.991
+longitude: -84.104
 ---

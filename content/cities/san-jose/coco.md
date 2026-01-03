@@ -1,5 +1,5 @@
 ---
 title: "Coco"
 url: /san-jose/coco/
-shop: ropa
+shop: piezas de automóviles
 ---
