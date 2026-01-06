@@ -1,5 +1,5 @@
 ---
 title: "Mega Súper"
-url: /concepcion/mega-super/
+url: /san-lorenzo/mega-super/
 shop: supermercado
 ---
