@@ -1,5 +1,5 @@
 ---
-title: "Opticas Visión"
+title: "Ópticas Visión"
 url: /desamparados/opticas-vision-calle-39/
 shop: óptico
 ---

@@ -1,5 +1,5 @@
 ---
-title: "El Exito"
+title: "El Éxito"
 url: /san-vicente/el-exito/
 shop: comodidad
 ---

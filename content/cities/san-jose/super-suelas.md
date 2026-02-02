@@ -1,5 +1,5 @@
 ---
-title: "Super Suelas"
+title: "Súper Suelas"
 url: /san-jose/super-suelas/
 shop: zapatos
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Super Cordero"
+title: "Súper Cordero"
 url: /pitahaya/super-cordero/
 shop: comodidad
 ---

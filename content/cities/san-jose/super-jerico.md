@@ -1,5 +1,5 @@
 ---
-title: "Super Jerico"
+title: "Súper Jericó"
 url: /san-jose/super-jerico/
 shop: comodidad
 ---

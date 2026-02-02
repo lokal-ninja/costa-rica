@@ -1,5 +1,5 @@
 ---
-title: "Super Hules"
+title: "Súper Hules"
 url: /san-jose/super-hules/
 shop: general
 ---

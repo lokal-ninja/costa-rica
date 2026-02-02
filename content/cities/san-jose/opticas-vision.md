@@ -1,5 +1,5 @@
 ---
-title: "Opticas Vision"
+title: "Ópticas Visión"
 url: /san-jose/opticas-vision/
 shop: óptico
 ---
