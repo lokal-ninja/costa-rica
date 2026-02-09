@@ -1,5 +1,5 @@
 ---
 title: "Maxi Palí"
-url: /mercedes-norte/maxi-pali/
+url: /mercedes/maxi-pali/
 shop: grandes almacenes
 ---
