@@ -1,6 +1,6 @@
 ---
 title: San Rafael
 url: /san-rafael/
-latitude: 10.012
-longitude: -84.097
+latitude: 9.868
+longitude: -83.905
 ---
