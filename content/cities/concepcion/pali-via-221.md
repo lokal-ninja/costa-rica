@@ -1,5 +1,5 @@
 ---
 title: "Palí"
-url: /concepcion/pali-calle-cletas/
+url: /concepcion/pali-via-221/
 shop: supermercado
 ---
