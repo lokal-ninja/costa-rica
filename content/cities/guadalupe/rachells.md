@@ -1,5 +1,5 @@
 ---
 title: "Rachell's"
 url: /guadalupe/rachells/
-shop: cosméticos
+shop: general
 ---
