@@ -1,6 +1,6 @@
 ---
 title: San Sebastián
 url: /san-sebastian/
-latitude: 9.919
-longitude: -84.081
+latitude: 9.912
+longitude: -84.085
 ---

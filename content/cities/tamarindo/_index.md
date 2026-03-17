@@ -1,6 +1,6 @@
 ---
 title: Tamarindo
 url: /tamarindo/
-latitude: 10.299
-longitude: -85.842
+latitude: 10.302
+longitude: -85.84
 ---
