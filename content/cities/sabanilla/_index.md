@@ -1,6 +1,6 @@
 ---
 title: Sabanilla
 url: /sabanilla/
-latitude: 9.941
-longitude: -84.047
+latitude: 9.944
+longitude: -84.037
 ---

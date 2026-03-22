@@ -1,5 +1,5 @@
 ---
 title: "Gollo"
 url: /orotina/gollo/
-shop: electrónica
+shop: aparato
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Mini super el Hogar"
+title: "Mini Súper El Hogar"
 url: /barranca/mini-super-el-hogar/
-shop: supermercado
+shop: comodidad
 ---
