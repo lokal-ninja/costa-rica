@@ -1,5 +1,5 @@
 ---
-title: "Merce"
+title: "Mercé"
 url: /guadalupe/merce/
 shop: cosméticos
 ---

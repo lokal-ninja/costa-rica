@@ -1,5 +1,5 @@
 ---
-title: "Distel Electronicas"
+title: "Distel Electrónicas"
 url: /guadalupe/distel-electronicas/
 shop: electrónica
 ---

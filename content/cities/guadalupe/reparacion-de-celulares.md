@@ -1,5 +1,5 @@
 ---
-title: "Reparacíon de Celulares"
+title: "Reparación de Celulares"
 url: /guadalupe/reparacion-de-celulares/
 shop: electrónica
 ---
