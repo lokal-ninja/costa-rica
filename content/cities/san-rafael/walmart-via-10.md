@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
-url: /san-rafael/walmart-avenida-1/
+url: /san-rafael/walmart-via-10/
 shop: grandes almacenes
 ---
