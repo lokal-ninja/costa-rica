@@ -1,5 +1,5 @@
 ---
 title: "Gollo"
 url: /atenas/gollo/
-shop: electrónica
+shop: aparato
 ---
