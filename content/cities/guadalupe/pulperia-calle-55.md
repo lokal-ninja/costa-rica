@@ -1,5 +1,5 @@
 ---
 title: "Pulpería"
-url: /la-asuncion/pulperia/
+url: /guadalupe/pulperia-calle-55/
 shop: comodidad
 ---
