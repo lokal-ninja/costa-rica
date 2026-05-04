@@ -1,6 +1,6 @@
 ---
 title: Uvita
 url: /uvita/
-latitude: 9.154
-longitude: -83.737
+latitude: 9.158
+longitude: -83.738
 ---
