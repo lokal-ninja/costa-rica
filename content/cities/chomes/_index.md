@@ -1,6 +1,6 @@
 ---
 title: Chomes
 url: /chomes/
-latitude: 10.156
-longitude: -84.916
+latitude: 10.066
+longitude: -84.951
 ---
