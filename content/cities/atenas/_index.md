@@ -1,6 +1,6 @@
 ---
 title: Atenas
 url: /atenas/
-latitude: 9.979
-longitude: -84.379
+latitude: 9.978
+longitude: -84.381
 ---
