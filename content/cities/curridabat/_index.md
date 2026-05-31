@@ -1,6 +1,6 @@
 ---
 title: Curridabat
 url: /curridabat/
-latitude: 9.929
-longitude: -84.043
+latitude: 9.915
+longitude: -84.036
 ---
