@@ -1,5 +1,5 @@
 ---
-title: "Super Baterias"
+title: "Súper Baterías"
 url: /san-jose/super-baterias/
-shop: general
+shop: piezas de automóviles
 ---
