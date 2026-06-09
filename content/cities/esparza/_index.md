@@ -1,6 +1,6 @@
 ---
 title: Esparza
 url: /esparza/
-latitude: 9.991
-longitude: -84.667
+latitude: 9.996
+longitude: -84.662
 ---

@@ -1,6 +1,6 @@
 ---
 title: Nicoya
 url: /nicoya/
-latitude: 10.151
-longitude: -85.452
+latitude: 10.154
+longitude: -85.456
 ---
