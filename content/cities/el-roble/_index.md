@@ -1,6 +1,6 @@
 ---
 title: El Roble
 url: /el-roble/
-latitude: 9.978
-longitude: -84.729
+latitude: 9.977
+longitude: -84.734
 ---
