@@ -1,6 +1,6 @@
 ---
 title: Cartago
 url: /cartago/
-latitude: 9.857
-longitude: -83.925
+latitude: 9.867
+longitude: -83.913
 ---
