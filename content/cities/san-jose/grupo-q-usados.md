@@ -1,5 +1,5 @@
 ---
-title: "Grupo Q/Usados"
+title: "Grupo Q Usados"
 url: /san-jose/grupo-q-usados/
 shop: coche
 ---

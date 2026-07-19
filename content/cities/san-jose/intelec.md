@@ -1,5 +1,5 @@
 ---
-title: "INTELEC"
+title: "Intelec"
 url: /san-jose/intelec/
-shop: electrónica
+shop: ordenador
 ---
