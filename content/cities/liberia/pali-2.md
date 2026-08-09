@@ -1,5 +1,5 @@
 ---
 title: "Palí"
-url: /liberia/pali-avenida-3/
+url: /liberia/pali-2/
 shop: supermercado
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Súper Servicio"
-url: /san-jose/super-servicio-avenida-12/
+url: /san-jose/super-servicio-calle-36-vicente-saenz/
 shop: reparación de automóviles
 ---
