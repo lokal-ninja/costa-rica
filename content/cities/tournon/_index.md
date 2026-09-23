@@ -1,6 +1,6 @@
 ---
-title: Tournón
+title: Tournon
 url: /tournon/
-latitude: 9.944
-longitude: -84.079
+latitude: 9.941
+longitude: -84.075
 ---
