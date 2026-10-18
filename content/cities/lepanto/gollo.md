@@ -1,5 +1,5 @@
 ---
 title: "Gollo"
 url: /lepanto/gollo/
-shop: electrónica
+shop: aparato
 ---

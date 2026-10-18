@@ -1,6 +1,6 @@
 ---
 title: Pital
 url: /pital/
-latitude: 10.577
-longitude: -84.281
+latitude: 10.676
+longitude: -84.232
 ---
