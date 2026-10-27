@@ -1,6 +1,6 @@
 ---
-title: Corralillo
+title: corralillo
 url: /corralillo/
-latitude: 9.778
-longitude: -84.074
+latitude: 9.792
+longitude: -84.067
 ---
