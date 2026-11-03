@@ -1,5 +1,5 @@
 ---
 title: "Maxi Palí"
-url: /san-juan/maxi-pali-avenida-63/
+url: /san-juan/maxi-pali-via-123/
 shop: supermercado
 ---
