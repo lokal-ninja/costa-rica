@@ -1,6 +1,6 @@
 ---
 title: Huacas
 url: /huacas/
-latitude: 10.369
-longitude: -85.775
+latitude: 10.37
+longitude: -85.779
 ---
